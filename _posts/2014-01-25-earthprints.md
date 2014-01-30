@@ -19,17 +19,17 @@ or wrong, I laugh along
 while sifting meaning from  
 the ground and bounding mortar.  
 
-&nbsp; &nbsp; When this earth by discreet  
-&nbsp; &nbsp; shifts beneath concrete is  
-&nbsp; &nbsp; revealed, a hidden language  
-&nbsp; &nbsp; is heard, essential knowledge  
-&nbsp; &nbsp; uncovered—every fracture  
-&nbsp; &nbsp; an ancient pattern, each fissure  
-&nbsp; &nbsp; apocalyptic, and every rift  
-&nbsp; &nbsp; a tattle on the planet  
-&nbsp; &nbsp; like a fingerprint  
-&nbsp; &nbsp; escaped the glove  
-&nbsp; &nbsp; the burglar wore to hide it.  
+&nbsp; When this earth by discreet  
+&nbsp; shifts beneath concrete is  
+&nbsp; revealed, a hidden language  
+&nbsp; is heard, essential knowledge  
+&nbsp; uncovered—every fracture  
+&nbsp; an ancient pattern, each fissure  
+&nbsp; apocalyptic, and every rift  
+&nbsp; a tattle on the planet  
+&nbsp; like a fingerprint  
+&nbsp; escaped the glove  
+&nbsp; the burglar wore to hide it.  
 
 The signs are the earth is still  
 beneath us, and we, with our  
