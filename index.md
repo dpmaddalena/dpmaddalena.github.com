@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Made Glorious Summer
+tagline: Verbosion
 ---
 {% include JB/setup %}
 
-
+## David Maddalena on the web
     
 ## Posts
 
