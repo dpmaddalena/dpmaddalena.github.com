@@ -8,6 +8,7 @@ tags: [Christmas, neighbors, history]
 {% include JB/setup %}
 
 
+---
 
 A blighted  
 place  
@@ -44,5 +45,5 @@ who try in vain to seem alone
 and to remain  
 cold  
 
-
+---
 
