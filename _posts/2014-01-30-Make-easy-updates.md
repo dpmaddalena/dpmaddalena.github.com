@@ -3,7 +3,7 @@ layout: post
 title: "Making for easy updates"
 description: "felsh"
 category: warming up
-tags: [noobs, flesh, what's a guy like me?]
+tags: [noobs, flesh, what's a guy like me]
 ---
 {% include JB/setup %}
 
