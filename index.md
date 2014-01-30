@@ -6,6 +6,8 @@ tagline: Verbosion
 {% include JB/setup %}
 
 ## David Maddalena Poems
+
+Poetry from 25 years of putting down heavy words.
     
 ## Pieces
 
