@@ -5,9 +5,9 @@ tagline: Verbosion
 ---
 {% include JB/setup %}
 
-## By This Son
+## David Maddalena Poems
     
-## Posts
+## Pieces
 
 
 <ul class="posts">
