@@ -17,6 +17,3 @@ Poetry from 25 years of putting down heavy words.
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-
-###hello world
