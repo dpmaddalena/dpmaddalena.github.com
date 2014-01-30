@@ -13,7 +13,6 @@ tags: [Christmas, neighbors, history]
 A blighted  
 place  
 beatified  
-
 by strings   
 of tiny  
 fiery lights  
