@@ -5,10 +5,7 @@ description: ""
 category: poetry
 tags: []
 ---
-{% include JB/setup %}
 
-
----
 
 All the dreams of caterpillars  
 Seem impractical.   
@@ -45,5 +42,4 @@ Invisible, but not unknowable,
 Nor untrue.  
 
 
----
 

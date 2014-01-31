@@ -5,9 +5,7 @@ description: ""
 category: poetry
 tags: [images]
 ---
-{% include JB/setup %}
 
----
 
 Like wrinkles in a lifted face,  
 each sidewalk crack betrays  
@@ -39,5 +37,5 @@ little of our gritty history,
 or of the groaning future  
 we thought had passed us by.  
 
----
+
 ![nautilus](https://dl.dropboxusercontent.com/u/320455/Img/nautilus.jpg)
