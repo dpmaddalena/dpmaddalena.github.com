@@ -3,7 +3,7 @@ layout: post
 title: "String of Lights"
 description: ""
 category: poetry
-tags: [Christmas, neighbors, history]
+tags: []
 ---
 {% include JB/setup %}
 

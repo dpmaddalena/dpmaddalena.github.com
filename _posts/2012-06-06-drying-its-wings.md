@@ -3,7 +3,7 @@ layout: post
 title: "Drying Its Wings"
 description: ""
 category: poetry
-tags: [insects, change, dreams, death]
+tags: []
 ---
 {% include JB/setup %}
 
