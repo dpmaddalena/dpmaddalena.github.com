@@ -3,7 +3,7 @@ layout: post
 title: "Earthprints"
 description: ""
 category: poetry
-tags: [imgages]
+tags: [images]
 ---
 {% include JB/setup %}
 
