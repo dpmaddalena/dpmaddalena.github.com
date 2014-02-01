@@ -2,7 +2,7 @@
 layout: post
 title: "The Years Don't Wash"
 category: poetry
-tags: [haiku]
+tags: []
 ---
 
 The years don't wash  
