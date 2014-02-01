@@ -6,7 +6,6 @@ category: poetry
 tags: [images]
 ---
 
-
 ##I
 
 My grandpa had a dusty  
