@@ -62,7 +62,7 @@ that cruft and clog the binding
 slough, that fill the cracks that jog  
 across the busted walks that sit  
 beside the avenues.  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In fact,  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In fact,  
 in cities … I don't mind the trees,  
 nor always wish for grassy fields.  
 No. I take this place for what it is:  
@@ -117,7 +117,7 @@ we resist, pretend that we don’t know
 that humankind is aging also: getting  
 harder in the heart, and each year  
 softer in the gut.  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Meantime,  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Meantime,  
 mama gathers up our proud inanimates  
 in bits and pieces to her mantle,  
 to polish, corrode, and make  
