@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "<strong><em>WHO IS JIMMY CARTER</strong></em>
+title: "WHO IS JIMMY CARTER"
 category: poetry
 tages: []
 ---
-
+###`<strong><em>`*WHO IS JIMMY CARTER*`</em></strong>`
 It is useless, but I try  
 To escape the repetitive  
 Dream, wherein a number  
