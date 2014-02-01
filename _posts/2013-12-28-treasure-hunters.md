@@ -62,7 +62,7 @@ that cruft and clog the binding
 slough, that fill the cracks that jog  
 across the busted walks that sit  
 beside the avenues.  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In fact,  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In fact,  
 in cities … I don't mind the trees,  
 nor always wish for grassy fields.  
 No. I take this place for what it is:  
@@ -109,7 +109,7 @@ here, also, trucks by rubber pestle
 cast-offs into jewels against  
 the mortar of our gritty, ribboned,  
 urban tracks.  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Here, nature keeps  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Here, nature keeps  
 her eye on man, to shame the vanity  
 of our shiny plans. Though trees and clams  
 seem happy to be reduced to stone,  
@@ -117,7 +117,7 @@ we resist, pretend that we don’t know
 that humankind is aging also: getting  
 harder in the heart, and each year  
 softer in the gut.  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Meantime,  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Meantime,  
 mama gathers up our proud inanimates  
 in bits and pieces to her mantle,  
 to polish, corrode, and make  
@@ -127,5 +127,5 @@ that we, neglectful, send
 to the icy bottom of her ancient sea,  
 where in her cleansing stream,  
 she rehearses an old and dusty dream.  
-
+<p>&nbsp;</p>
 ![pebbles in an urban stream](https://dl.dropboxusercontent.com/u/320455/img/corona.jpg)
