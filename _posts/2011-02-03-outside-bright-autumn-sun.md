@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Haiku: Outside, Bright Autum Sun"
+title: "Outside, Bright Autum Sun"
 category: poetry
 tags: [haiku]
 ---
