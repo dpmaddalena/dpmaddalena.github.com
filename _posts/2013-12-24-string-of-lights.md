@@ -7,7 +7,6 @@ tags: []
 ---
 
 
-
 A blighted  
 place  
 beatified  
