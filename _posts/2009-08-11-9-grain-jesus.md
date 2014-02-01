@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "9-Grain Jesus"
-Category: poetry
+category: poetry
 tags: [sacrament]
 ---
 

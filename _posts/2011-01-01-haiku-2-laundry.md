@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Haiku #2, Laundry"
-Category: poetry
+category: poetry
 tags: [haiku]
 ---
 

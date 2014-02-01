@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Communion"
-Category: poetry
+category: poetry
 tags: [sacrament]
 ---
 

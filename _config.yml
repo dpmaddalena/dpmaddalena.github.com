@@ -9,10 +9,10 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Made Glorious Summer
-tagline: Verbosion
+tagline: Made Glorious Summer
 author :
   name : David Maddalena
-  email : dpmaddalena@gmail.com
+  email : dpmaddalena via geemail
   github : dpmaddalena
   
 
@@ -69,6 +69,7 @@ JB :
   # Some JB helpers refer to these paths; change them here if needed.
   #
   archive_path: /archive.html
+  pages_path: /pages.html
   categories_path : /categories.html
   tags_path : /tags.html
   atom_path : /atom.xml

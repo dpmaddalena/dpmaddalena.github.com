@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ghost Words"
-Category: poetry
+category: poetry
 tags: []
 ---
 
