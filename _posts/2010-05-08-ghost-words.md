@@ -26,7 +26,7 @@ A whole, wide virgin field
 Is cleared, and battle lines  
 Are drawn.  
 
-But before it starts,  
+&nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; But before it starts,  
 It's done. The end is the beginning.  
 
 
