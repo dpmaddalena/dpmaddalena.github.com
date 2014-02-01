@@ -2,7 +2,7 @@
 layout: post
 title: "9-Grain Jesus"
 Category: poetry
-tags" [sacrament]
+tags: [sacrament]
 ---
 
 Many thanks in a pretty blue box,  

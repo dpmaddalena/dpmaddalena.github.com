@@ -2,7 +2,7 @@
 layout: post
 title: "Ghost Words"
 Category: poetry
-tags" []
+tags: []
 ---
 
 Could use a kind word  
