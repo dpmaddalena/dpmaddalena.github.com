@@ -33,7 +33,7 @@ the ground and bounding mortar.
 The signs are the earth is still  
 beneath us, and we, with our  
 pretty lines and grids, have hidden  
-little of our gritty history,  
+little of our gritted history,  
 or of the groaning future  
 we thought had passed us by.  
 
