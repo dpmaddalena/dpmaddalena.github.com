@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Haiku: Devices by our Coffee"
+title: "Devices by our Coffee"
 category: poetry
 tags: [haiku]
 ---
