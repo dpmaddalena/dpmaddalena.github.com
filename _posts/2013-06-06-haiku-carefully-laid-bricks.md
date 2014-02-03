@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Haiku: Carefully Laid Bricks"
+title: "Carefully Laid Bricks"
 category: poetry
 tags: [haiku]
 ---
