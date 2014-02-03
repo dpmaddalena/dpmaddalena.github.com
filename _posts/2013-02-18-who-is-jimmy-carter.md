@@ -14,7 +14,7 @@ In Borisoglebsk
 Learning HyperText Markup  
 Language and other disconnected,  
 Technical, exports of the west,  
-Ask WHO IS JIMMY CARTER,  
+Ask, ***"Who is Jimmy Carter?"***,  
 And struggle to sort out the mysteries  
 Of a world that will never  
 Stop growing more complex.  
