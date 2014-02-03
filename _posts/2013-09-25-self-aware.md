@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Self Aware"
+title: "Self Aware Haiku"
 category: poetry
 tags: [haiku]
 ---
