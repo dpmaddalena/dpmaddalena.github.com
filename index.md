@@ -6,9 +6,9 @@ tagline: Made Glorious Summer
 {% include JB/setup %}
 
 ## David Maddalena *Works*  
-Writings and poetry from 25-plus years of putting down heavy words.
+Writing and poetry from 25-plus years of putting down heavy words.
     
-## Pieces
+## p o s t s
 
 
 <ul class="posts">
