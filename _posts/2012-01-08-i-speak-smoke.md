@@ -44,4 +44,3 @@ we're given to wear the cloak
 and speak the plume  
 of creation's hidden, holy,  
 fragrant fume.  
-
