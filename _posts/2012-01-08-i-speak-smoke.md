@@ -32,7 +32,7 @@ cremations.
 Will we be burned, or languish  
 in fire-retardent shacks?  
 Will we bow to the pillar,  
-or bend to the stacks --  
+or bend to the stacks -  
 submit to the furnace or sit  
 with the hacks who roll their own  
 between phlegmatic coughing fits?  
