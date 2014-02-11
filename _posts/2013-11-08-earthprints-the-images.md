@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2013 11 08 earthprints-the-images.md"
+title: "Earthprints-The Images"
 description: ""
 category: art
 tags: [images]
