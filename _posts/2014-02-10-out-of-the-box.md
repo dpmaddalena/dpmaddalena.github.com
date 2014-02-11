@@ -1,5 +1,5 @@
 ---
-layout: draft
+layout: post
 title: "Out of The Box"
 description: ""
 category: 
