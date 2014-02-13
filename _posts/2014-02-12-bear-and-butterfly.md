@@ -4,6 +4,7 @@ title: "The Bear And The Butterfly"
 category: story
 tags: [children]
 ---
+
 ####A story for children
 
 The time had come for a little girl to have a birthday, and her parents asked her what she would like to get as a present. The little girl said, "A bear, standing like this with his arms up in the air and roaring like he’s going to eat somebody. Bears are very loud."
