@@ -1,0 +1,22 @@
+---
+layout: post
+title: "The French Language, Modern Art, and The Hidden"
+category: essay
+tags: [church]
+---
+
+When I hear someone speaking in french, I know enough to recognize that they are not speaking gibberish, though I admit, I have to take it on faith, as I would not be able to tell you if two french-speakers suddenly decided to mock my ignorance by babbling nonsense in a french accent. Though I can't recognize the meaning in their conversation, I know they are speaking a language they both understand, and so I assume there is meaning there. Even if I can't understand it.
+
+Modern art museums are great places to see the opposite assumption at play. It should be obvious that the whimsical, obscure, or simply bizarre creations that fill modern art museums are there because some kind of conversation is going on. The artist speaks the same language as certain patrons-of-the-arts, and seems to have something of significance to say ... or we could assume their art would not be hanging in a building you had to pay to enter. And yet, some people still walk around modern art galleries and mutter things like ... "I just don't get it"; "My 3 year old could do that"; "That is so stupid" ... or other expressions of frustration at what appears to the commentator to be a meaningless communication ... nonsense spoken in an elitist accent.
+
+Why can't we treat art as a family of foreign languages and trust that there is a conversation going on, even if we can't penetrate the dialect? There must be meaning, even if it is obscure to us. An adult wouldn't tolerate a conversation if their dialog partner began to speak like a 3 year old.
+
+Now, it must be true in art, as in language, that some communications merely play at intelligence, mimicking sophistication. We've all heard adolescents talk like adults: it may sound sophisticated, but that doesn't make it so. But some hearers will be fooled, maybe because they are not so intelligent. So with art, just because it is hanging on a wall it doesn't follow that the art-maker and the art-lover are having an intelligent conversation.
+
+But it remains an exciting possibility that so much art that is obscure to us may become a rich conversation that we can participate in, if we just learn the language. I can learn french and listen in to conversations that were once unintelligible to me. I can even participate by speaking into those conversations, breaking free of passive, aural voyeurism. I can also and in the same way, learn the language of modern art and intelligently critique the various expressions I find in museums, breaking free of passive (aggressive) voyeurism.
+
+The cliche-spouting art-critic who says, "My three year old could do that!" doesn't understand the language of modern art. If they understood the language, they would understand the conversation that an artist is participating in, and in this way they may even come to understand the artist's point. They still might not like what they see on the walls, but they wouldn't talk about it as if it were made by morons.
+
+Can we trust that a conversation is meaningful, even if we don't speak the language? Can a piece of art have meaning, even if we don't have the language to engage it meaningfully? Can anything have meaning apart from our capacity (or willingness) to appreciate it? The question, in fact, is can we hope to hear or see the meaning behind mysteries? One alternative is to determine that those around us who appear to be engaged in meaningless transactions are in fact, idiots. That would be sad because there are so many conversations from which we could derive so much benefit. There are of course conversations that can change lives. Some of them are spoken in strange tongues.
+
+The Christian conversation is one of these mysterious dialogs. It often has qualities that immediately alienate those within earshot. Something in the dialect that smacks of arrogance ... intolerance, or worse: immaturity and stupidity. Christians should pay attention to critics who complain that our dialect is repellent or hard to penetrate. But too much of the critique of Christianity sounds like the complaining of the tourists who walk through a modern art museum imagining that the artists are the childish ones.
