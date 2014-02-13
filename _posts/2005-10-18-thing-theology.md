@@ -7,4 +7,4 @@ tags: [heroes]
 
 As drawn by Timo, age seven: 
 
-![Thing Theology](assets/heartoffleshwb.jpg)
+![Thing Theology](/assets/heartoffleshwb.jpg)
