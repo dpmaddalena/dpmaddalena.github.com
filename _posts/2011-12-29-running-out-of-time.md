@@ -5,7 +5,7 @@ category: art
 tags: [images, collage]
 ---
 
-Images culled from the pages of the Wall Street Journal  
+Images from the pages of the Wall Street Journal, collected  
 over a single week. 
 
 
