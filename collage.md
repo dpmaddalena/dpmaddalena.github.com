@@ -9,4 +9,4 @@ description: ""
 ##David Maddalena *Collage*
 
 Now is the winter of our discontent  
-made glorious sumtuous food tender by fork
+made glowworm sumptuous tender fork

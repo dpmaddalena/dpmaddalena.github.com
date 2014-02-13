@@ -3,7 +3,6 @@ layout: page
 title: Made Glorious Summer
 tagline: art with arms contending
 ---
-
 {% include JB/setup %}
 
 ## David Maddalena *Works*  
