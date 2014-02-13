@@ -3,7 +3,6 @@ layout: page
 title: Made Glorious Summer
 tagline: art with arms contending
 ---
-![art with arms contending](assets/artvarms.jpg)
 
 {% include JB/setup %}
 
