@@ -21,5 +21,3 @@ This exceedingly prosaic query hints that the God of the universe has actually c
 We see the same pedestrian concern when God speaks to Elijah on Mount Sinai (1 Kings 19). Elijah has been running for his life and just as he gives up, hoping to die, an angel spurs him on for the forty day journey to Sinai. There, after hiding out in a cave during a windstorm so strong it tears rocks loose from the mountain, and an earthquake and fire (none of which--however mighty--contain God), God speaks in a gentle whisper: "What are you doing here, Elijah?".
 
 These God *words* suggest that the mighty *works* of God--for example the creation and care of the universe--were simply how God set the stage for the more important work of caring for us.
-
-[12 October 2001]
