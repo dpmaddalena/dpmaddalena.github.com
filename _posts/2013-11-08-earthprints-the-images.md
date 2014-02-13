@@ -9,4 +9,4 @@ tags: [images]
 
 An [ongoing project](http://maddalena.vsco.co/) to capture how artificial things weather and decay beautifully, evoking natural patterns.
 
-[![](http://maddalena.vsco.co/)](/assets/nautilus.jpg)
+[![](/assets/nautilus.jpg)](http://maddalena.vsco.co/)
