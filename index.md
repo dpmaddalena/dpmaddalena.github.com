@@ -8,7 +8,7 @@ tagline: art with arms contending
 {% include JB/setup %}
 
 ## David Maddalena *Works*  
-Writing and poetry from 25-plus years of putting down heavy words.
+Writing and poetry from 25 years of putting down heavy words.
     
 ## p o s t s
 
