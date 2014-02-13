@@ -128,4 +128,4 @@ to the icy bottom of her ancient sea,
 where in her cleansing stream,  
 she rehearses an old and dusty dream.  
 <p>&nbsp;</p>
-![pebbles in an urban stream](https://dl.dropboxusercontent.com/u/320455/img/corona.jpg)
+![pebbles in an urban stream](/assets/corona.jpg)

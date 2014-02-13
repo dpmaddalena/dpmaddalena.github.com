@@ -6,6 +6,6 @@ tags: [computers, images, haiku]
 ---
 
 
-![Machine Haiku] (https://dl.dropboxusercontent.com/u/320455/Img/machinehaiku.jpg)
+![Machine Haiku] (/assets/machinehaiku.jpg)
 
 

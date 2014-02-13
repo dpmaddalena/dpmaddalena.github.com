@@ -39,4 +39,4 @@ we thought had passed us by.
 
 <p>&nbsp;</p>
 
-![nautilus](https://dl.dropboxusercontent.com/u/320455/Img/nautilus.jpg)
+![nautilus](/assets/nautilus.jpg)
