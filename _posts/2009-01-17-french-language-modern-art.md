@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The French Language, Modern Art, and The Hidden"
+title: "The French Language, Modern Art, and Hidden Sense"
 category: essay
 tags: [church]
 ---
