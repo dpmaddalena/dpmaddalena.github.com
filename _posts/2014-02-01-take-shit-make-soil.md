@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Take Shit, Make Soil"
+title: "Take Sh*t, Make Soil"
 category: poetry
 tags: [haiku]
 ---
