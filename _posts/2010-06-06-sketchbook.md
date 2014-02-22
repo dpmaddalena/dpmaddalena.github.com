@@ -6,7 +6,7 @@ tags: [collage, images]
 ---
 [![Sketchbook](/assets/sketchbook17.jpg)](http://sevendown.org/collage/sketches/)
 
-Images from a small leatherbound "sketchbook" where I play with with images and words, without worrying so much about the big picture. Some of the resulting images would very much like to grow up into poster-sized works of art, if that kind of magic were real.
+Images from a small leatherbound "sketchbook" where I play with with images and words, without worrying so much about the big picture. Some of the resulting images would very much like to grow up into poster-sized works of art, if that kind of magic were real. (Look for the single 'found' collage in the series, for a bonus.)
 
 <a href="http://sevendown.org/collage/sketches/" target="_blank">Pages from the sketchbook</a>
 
