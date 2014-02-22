@@ -6,7 +6,7 @@ tagline: art with arms contending
 {% include JB/setup %}
 
 ## David Maddalena *Works*  
-Writing and poetry from 25 years of putting down heavy words.
+Writing and poetry from 25 years of putting down heavy words, punctuated with an ongoing pretence to the visual arts by the systematic cutting up of other people's images and gluing them together into ostensibly original works.
     
 ## p o s t s
 
