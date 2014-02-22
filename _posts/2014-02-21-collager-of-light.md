@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Notebook Covers in Collage"
+title: "Tweaking Thomas Kinkade"
 category: art
 tags: [collage]
 ---
-[![Just Beginning To Show](/assets/06fall_front.jpg)](http://sevendown.org/collage/covers/)
+[![Just Beginning To Show](/assets/pleasure!.jpg)](http://sevendown.org/collage/kinkaid/)
 
-I've been covering my notebooks for years. I started by scratching out brand names and logos on otherwise un-decorated journals. The habit progressed from stickers to fabric, advancing to various other art attacks, collage, and occasional carving (see above). It started simple, and it's gotten to be a regular ritual, one that is a really satisfying, encouraging, and freeing. 
+I love making collage out of Thomas Kinkade paintings. I think it's because his images are so pure in their meaning (whatever your *opinion* of their meaning), and have such unmistakable resonance. To collide the pure vision of the Painter of Light with pieces of other works seems so wrong, but must be right, when it comes to collage.
 
-<a href="http://sevendown.org/collage/covers/" target="_blank">Notebook Covers</a>
+<a href="http://sevendown.org/collage/kinkaid/" target="_blank">Collager of Light</a>
+
+For more on my -ahem- fascination with this artist, read [this piece](http://lowtechwriter.blogspot.com/2009/05/simpler-times.html)  at (low) tech writer, which is also a [book](http://bit.ly/lowtechwriter). 
