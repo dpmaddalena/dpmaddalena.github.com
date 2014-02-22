@@ -2,7 +2,7 @@
 layout: post
 title: "Notebook Covers in Collage"
 category: art
-tags: [collage]
+tags: [collage, images]
 ---
 [![Just Beginning To Show](/assets/06fall_front.jpg)](http://sevendown.org/collage/covers/)
 

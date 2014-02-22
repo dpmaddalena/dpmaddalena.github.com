@@ -2,7 +2,7 @@
 layout: post
 title: "Tweaking Thomas Kinkade"
 category: art
-tags: [collage]
+tags: [collage, images]
 ---
 [![Just Beginning To Show](/assets/pleasure!.jpg)](http://sevendown.org/collage/kinkaid/)
 
