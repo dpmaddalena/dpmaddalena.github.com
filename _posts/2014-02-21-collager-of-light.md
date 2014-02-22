@@ -10,4 +10,4 @@ I love making collage out of Thomas Kinkade paintings. I think it's because his 
 
 <a href="http://sevendown.org/collage/kinkade/" target="_blank">Collager of Light</a>
 
-For more on my -ahem- fascination with this artist, read [this piece](http://lowtechwriter.blogspot.com/2009/05/simpler-times.html)  at (low) tech writer, which is also a [book](http://bit.ly/lowtechwriter). 
+For more on my -ahem- fascination with this artist, read [this piece](http://lowtechwriter.blogspot.com/2009/05/simpler-times.html)  at (low) tech writer, a series of web essays on low-tech lifestyle in high-tech Silicon Valley, which is also a real [book](http://bit.ly/lowtechwriter). 
