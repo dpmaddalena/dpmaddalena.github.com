@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Leisure Wear (Or, Wendell Berry Breaks In All My Pants)"
+title: "Leisure Wear"
 category: poetry
 tags: [homage]
 ---
 
-##I
+### Leisure Wear (Or, Wendell Berry Breaks In All My Pants)
+
+###I
 
 It's someone else's job to break  
 in all my pants --  
@@ -30,7 +32,7 @@ for the children, of the earth
 and honest work, in these last days.  
 
 
-##II
+###II
 
 Out here, under old-denim skies,  
 in the worn-khaki fields of mankind's  
