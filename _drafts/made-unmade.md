@@ -1,0 +1,15 @@
+We live in a world full of things that are made, that have a beginning and an end. Some of these things are made by the hand of God, some are made by human hands. There is also a thing that is unmade, without beginning or end. That thing is the first Maker-of-Things. That thing, that entity is God. One entity without beginning or end. A world of things that are made and had a beginning, many of which will end some day .... And we mix it all up. The made and the unmade. We treat the Unmade as if it once was, but isn't now, and we treat the Made Things as if they are eternal. God is the eternal thing, but we forget he exists, and his creation --we creatures-- we are like a blink of an eye, but we think we have the wisdom and power of eternity naturally within us. This is similar to our habit of giving God the credit for evil ("Why would God do this to me?") and giving the created world the credit for goodness, beauty, and power. Idol worship today has this distinguishing quality, for we don't worship wooden statues, but we regularly ascribe value to things which don't deserve it.
+
+in the image of
+
+We say, "We are made in the image of God, and must allow God to act on us, opening our minds and hearts to be changed". And occasionally we honor this understanding. But it has also become a cliche to say that for most of our history we have tried to make God in our image, and we say this with unqualified condemnation.
+
+Isn't it, though, the essence of the grace of God that he not only indulges this frequent mistake on our part, but actually allows--allows!--us to "change his heart and mind". Isn't the whole Gospel the story of God not only being moved by us creatures, but of God being made in our image?
+
+Jesus fully reveals God (John 1.18), yes. He is the "image of the invisible God" (Col 1.15), yes again. But of much more significance to the church, he is the image of me.
+
+I read in Philippians 1.7 that Jesus let me make him in my image: "He was made in the likeness of men". God could have used various means to disabuse us of our confusion about who the creator and who the creature is. But he let us, instead, make him in our image. We by our selfishness, pride, gluttony, fury, violence--what the bible calls sin--are perpetually and eternally cut off from our good God. But I read in 2 Corinthians 5.21 that God made Jesus into me: "He made Him who knew no sin to be sin on our behalf".
+
+Jesus, by becoming me--by becoming sinful humankind (a second Adam, as it is said)--and being truly cut off from God, from life, on the cross, allows me to become like God again. I become "the righteousness of God" (2 Corinthians 5.21 again). I die with Christ on the cross, because he dies in full identification with me. Until I die with Christ (my image bearer), I cannot again bear the image of the holy God.
+
+Or to put it in simpler terms, God let us make God in our image, so that we might have God's image restored to us.
