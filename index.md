@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Made Glorious Summer
+title: I M B Y
 tagline: art with arms contending
 ---
 {% include JB/setup %}
