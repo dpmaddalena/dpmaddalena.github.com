@@ -8,7 +8,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Made Glorious Summer
+title : I M B Y
 tagline: art with arms contending
 author :
   name : David Maddalena
@@ -74,10 +74,6 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
-  
-  # pagination
-  #
-  # paginate: 5
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
