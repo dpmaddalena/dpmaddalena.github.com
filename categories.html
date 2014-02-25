@@ -14,6 +14,8 @@ group: navigation
 <hr style="width:450px">
 
 {% for category in site.categories %} 
+<p>&nbsp;</p>
+<hr style="width:150px">
   <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
   <ul>
     {% assign pages_list = category[1] %}  
