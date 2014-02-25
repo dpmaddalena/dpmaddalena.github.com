@@ -29,8 +29,7 @@ Usage:
     	<li><a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}-ref">
     		{{ category | join: "/" }} <span>{{ site.categories[category].size }}</span>
     	</a></li>
-<p>&nbsp;</p>
-<hr style="width:150px">
+
     {% endfor %}
 
 
