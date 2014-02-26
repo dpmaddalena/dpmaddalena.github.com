@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<body bgcolor="black">
+
+<p><font size="8" color="white">
+<script type="text/javascript">
+  function blink() {
+    var blinks = document.getElementsByTagName('blink');
+    for (var i = blinks.length - 1; i >= 0; i--) {
+      var s = blinks[i];
+      s.style.visibility = (s.style.visibility === 'visible') ? 'hidden' : 'visible';
+    }
+    window.setTimeout(blink, 65);
+  }
+  if (document.addEventListener) document.addEventListener("DOMContentLoaded", blink, false);
+  else if (window.addEventListener) window.addEventListener("load", blink, false);
+  else if (window.attachEvent) window.attachEvent("onload", blink);
+  else window.onload = blink;
+</script>
+<blink>Sorry this page does not exist.</blink></font></p>
+
+
+<p><font color="white"><blink>What's more, it is pitch black in here; you are likely to be eaten by a grue.<blink></font>
+</p>
+</body>
+</html>
