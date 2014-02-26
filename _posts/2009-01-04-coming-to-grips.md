@@ -5,7 +5,6 @@ category : essay
 tagline:
 tags : [(low) tech writer]
 ---
-![low tech writer](/assets/ltw/header14.jpg)
 
 I am coming to grips with the possibility that I don't trust technology. I don't mean my computer. I mean the impulse to solve problems by subscribing to pre-existing mass-produced solutions. You can find these solutions spit out of molds and assembly-lines and printing presses throughout recent history. Such "solutions" feel soul-numbing to me. I know that sounds harsh, but that's how my soul responds to anything that looks and works the same in any home. It may be fast, convenient, processed food, or a best-selling book about how to solve your Problem, or a piece of furniture that makes everyone within 10 miles of Ikea feel like the exact same unique and interesting individual. I don't want to make grand, sweeping generalizations, but *in general* when you set out to make a profit, you have to resort to technology to increase your productivity. When you set out to make something beautiful, you have to avoid technology (and by that I mean, "someone elses technique"), because it will stifle your creativity. I know it's not black and white. But I'm not here to argue for high-tech, am I?
 
@@ -17,3 +16,5 @@ Years ago, when I told people I worked in the tech industry as a writer, they in
 I am not anti-tech. I know that computers are solving important problems in the world (but note with interest that the most impressive efforts in this regard are the low-cost, simple, durable computers that are being made for widespread distribution in developing nations). I myself like computers and the associated tools. I like the computer I am writing on, and do not intend to bite the hand that allows me to publish these words so easily. But I do NOT want to write about such things. There is no shortage of words written about tech. Here in Silicon Valley (and in the Silicon Alleys and all the other places that aspire to cutting edge technological distinction), it's important to pay attention to the low tech things that survive ... these artifacts haven't been rendered obsolete because they serve humanity just fine, even if they are not superstars of progress. It's important because they are worth honoring, and get so little attention in this economy.
 
 And so today I am a writer of a kind further from what "they" meant - a *low tech* writer, in search of things less technological, less programmable, less homogenous. And when I find them, I'll write about them on the Internets.
+
+![low tech writer](/assets/ltw/header14.jpg)
