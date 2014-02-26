@@ -5,7 +5,7 @@ category : essay
 tagline:
 tags : [(low) tech writer]
 ---
-![(low) tech writer](/assets/ltw/header14.jpg)
+![low tech writer](/assets/ltw/header14.jpg)
 
 I am coming to grips with the possibility that I don't trust technology. I don't mean my computer. I mean the impulse to solve problems by subscribing to pre-existing mass-produced solutions. You can find these solutions spit out of molds and assembly-lines and printing presses throughout recent history. Such "solutions" feel soul-numbing to me. I know that sounds harsh, but that's how my soul responds to anything that looks and works the same in any home. It may be fast, convenient, processed food, or a best-selling book about how to solve your Problem, or a piece of furniture that makes everyone within 10 miles of Ikea feel like the exact same unique and interesting individual. I don't want to make grand, sweeping generalizations, but *in general* when you set out to make a profit, you have to resort to technology to increase your productivity. When you set out to make something beautiful, you have to avoid technology (and by that I mean, "someone elses technique"), because it will stifle your creativity. I know it's not black and white. But I'm not here to argue for high-tech, am I?
 
