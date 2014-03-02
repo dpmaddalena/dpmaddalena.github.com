@@ -29,7 +29,7 @@ One take-away from this kind of art is the idea that the creation is ideally imp
  
 Here's what's true about water. Water is not impotent. In nature, water moves according to huge and hairy rhythms and gives swimmers and sailors something to worry about. Water tears at the landscape, breaks it down, carries it off, and leaves the earth scarred and changed. Here's how awesome water is: if Water was invited to make a guest appearance in a game of Rock, Paper, Scissors ... it would trump them all, but none would fall more memorably than Rock, which succumbs slowly but utterly to water's power.   
  
-![Yosemite](/assets/ltw/256px-Yosemite_Falls_2005)
+![Yosemite](/assets/ltw/256px-Yosemite_Falls_2005.jpg)
  
 A pretty good example of what can result from all this clash and conflict between water and stone is a little vacation spot in the California mountains called Yosemite Valley. You may have heard of it. There are peaceful places in the Valley, but I'm not sure a feeling of peace is the appropriate response when looking at a waterfall moving 2,500 gallons of water per *second* and cutting through a two-thousand-foot granite cliff. Water has terrible power and who would want it any other way? But Kinkade's paintings suggest that something God made powerful will one day ideally lose it's power, and *that* is a message with the power to make people mistrust *true power*, wherever it should be found. 
  
