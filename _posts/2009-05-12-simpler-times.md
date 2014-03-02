@@ -35,11 +35,9 @@ A pretty good example of what can result from all this clash and conflict betwee
  
 One place where power is seldom trusted, where conflict gets a bad rap, is among the human characters that move here and there on the surface of the planet. While nobody loves the wars that plague humanity, even the proverb says that people shape and change each other, that we are somehow improved by conflict:  
 
-<blockquote>
-"Iron sharpens iron, <br /> 
-so one person sharpens the wits of another."  <br />
-(Proverbs 27.17)
-</blockquote>
+> "Iron sharpens iron,  
+> so one person sharpens the wits of another."  
+> (Proverbs 27.17)
 
 Conflict is not evil. It's only evil when we try to silence or destroy those who challenge or threaten us. That's what makes war. Allow me to suggest a (low) tech writer people-principle: peace does not come from avoiding conflict or clashes, it comes from accepting these things as part of God's design for beautiful people.  
  
