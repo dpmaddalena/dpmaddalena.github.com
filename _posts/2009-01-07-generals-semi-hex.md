@@ -26,5 +26,5 @@ I think I know the answer now. I can sniff out a hint of divine *terroir* lurkin
   
 *(low) tech writer principle #1: The thing that appears to be the most permanent, the most robust, the most durable, aint necessarily so. Sometimes it is the dull, plentiful, inexpensive thing that wins the day and survives.*  
 
-![low tech writer](/assets/ltw/header14.jpg)
+[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
 
