@@ -17,4 +17,4 @@ I am not anti-tech. I know that computers are solving important problems in the 
 
 And so today I am a writer of a kind further from what "they" meant - a *low tech* writer, in search of things less technological, less programmable, less homogenous. And when I find them, I'll write about them on the Internets.
 
-![low tech writer](/assets/ltw/header14.jpg)
+[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
