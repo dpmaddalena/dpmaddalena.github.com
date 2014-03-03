@@ -24,6 +24,6 @@ This lesson can probably wait. And anyway there's more to learn about us than ju
 Henry Vaughn in the fifteenth century wrote of one who
 
 > "Felt through all this fleshly dress  
-> Bright shoots of everlastingness
+> Bright shoots of everlastingness"
 
 That's God to me, a bright shot of everlastingness. God is the one that "goes all around" in us, calling out to us from the deeps, calling us out of our bony prisons ... with an invitation to the dance. 
