@@ -6,8 +6,11 @@ tags: []
 ---
 *An essay from the mid '90s, about anatomy, preschoolers, and the things that bones can't teach. Recently reworked for posting here.*
 
+&nbsp;
 
 ##Zoe Dances With Death
+
+&nbsp;
 
 I watch&mdash;a little alarmed&mdash;as my three-year old, Zoe, dances with death. She spins the spectre madly in her arms, and he is losing bones at an alarming rate. Already, he is missing his left hand, the cap of his skull, his entire right arm, and assorted minor skeletal features. "Daddy!" she cries, "His knee cap came off!" 
 
