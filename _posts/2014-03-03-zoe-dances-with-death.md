@@ -6,7 +6,6 @@ tags: []
 ---
 *An essay from the mid '90s, about anatomy, preschoolers, and the things that bones can't teach. Recently reworked for posting here.*
 
-![Mr. Thrifty](/assets/mrthrifty.jpg)
 
 ##Zoe Dances With Death
 
@@ -15,6 +14,8 @@ I watch&mdash;a little alarmed&mdash;as my three-year old, Zoe, dances with deat
 Reputation aside, Death is no match for the affections of a pre-schooler. 
 
 Death had come to our house, but with no dark purpose. On the contrary, he shared a room with my little ballerina and went by the name of Mr. Thrifty. A plastic skeleton made for the medical student on a budget, Mr. Thrifty was given to me by my wife at a time when I had a growing interested in human anatomy. He was precisely as tall as my daughter, and when she asked him to dance, she called him "Mr. Thrift-i-ty". ... 
+
+![Mr. Thrifty](/assets/mrthrifty.jpg)
 
 Mr. Thrifty was never the picture of health, but his pitiable physical condition was complicated by the year-long exile he served in a metal storage-container in the California desert, while the young Zoe and her parents served an exile of their own in Cambridge, England. When the doors of his iron tomb were opened (made more dramatic by my inability to produce a key, requiring a forced-entry by blowtorch), Mr. Thrifty appeared (through the smoke) a bit warped around the rib-section, and bent in the legs. The entire effect of this heat-induced disease is pathetic. He could no longer stand straight and his head (such as it was) always hung to the side on a scoliotic spine. But the love of my daughter was unconditional. She'd cradle him in her arms and coo to him: "Poor Mr. Thrift-i-ty!" ... 
 
