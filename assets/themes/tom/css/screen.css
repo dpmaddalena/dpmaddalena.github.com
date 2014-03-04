@@ -195,3 +195,14 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+blockquote {
+  font: 13.34px helvetica, arial, clean, sans-serif;
+  *font-size: small;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+} 
+
