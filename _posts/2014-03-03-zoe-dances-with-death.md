@@ -4,7 +4,7 @@ title: "Zoe Dances With Death"
 category: story
 tags: []
 ---
-*An essay from the mid '90s, about anatomy, preschoolers, and the things that bones can't teach. Recently reworked for posting here.*
+*A story from the mid '90s, about anatomy, preschoolers, and the things that bones can't teach. Recently reworked for posting here.*
 
 &nbsp;
 
