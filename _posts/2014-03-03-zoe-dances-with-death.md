@@ -34,7 +34,7 @@ Three years old might be a bit early for this lesson. And anyway there's more to
 
 Henry Vaughn in the fifteenth century wrote of one who
 
-> "Felt through all this fleshly dress
-> sBright shoots of everlastingness"
+> Felt through all this fleshly dress
+Bright shoots of everlastingness
 
 That's God to me: a bright shot of everlastingness. God is the one that "goes all around" in us, calling out to us from the deeps, calling us out of our bony prisons ... with an invitation to dance.
