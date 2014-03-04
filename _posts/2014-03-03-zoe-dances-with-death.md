@@ -37,4 +37,4 @@ Henry Vaughn in the fifteenth century wrote of one who
 > Felt through all this fleshly dress  
 > Bright shoots of everlastingness
 
-That's God to me: a bright shot of everlastingness. God is the one that "goes all around" in us, calling out to us from the deeps, calling us out of our bony prisons ... with an invitation to dance.
+That's God to me: a bright shot of everlastingness. God is the one that "goes all around" in us, calling out to us from tshe deeps, calling out to us to be free. We hear the call, tho it is as though from a distance, as we wait out our exile from within the bounds of these bony prisons. And even as we bend and twist in fury at the end, and say goodbye to our better parts, the call repeats, and marks a better time, and extends to us a grace named Zoe who bows before us and asks us to the dance.
