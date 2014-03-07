@@ -30,7 +30,7 @@ I mean, what would the neighbors say about such mixed company shenanigans? There
 
 But Zoe certainly learned a lot from having Mr. Thrifty around. She knew at a surprisingly young age that she was made of bone, muscle, and blood. She knew that her skeleton makes her able to stand, her muscles make her able to move, and her blood *goes all around* in her body bringing food to her muscles. But I wonder. Here it is: I wonder if on some level she also understands that, one day, she will end up like Mr. Thrifty ... bent, broken, powerless to move on her own?
 
-Three years old might be a bit early for this lesson. And anyway there's more to learn about us than just this. Mr. Thrifty can only teach so much. I want to teach my daughter that she is more than bones, that there is more than blood that "goes all around" inside her.
+Ok, maybe three-year-old Zoe is a touch young for a lesson about mortality. And anyway there's more to learn about us than just this. Mr. Thrifty can only teach so much. I want to teach my daughter that she is more than bones, that there is more than blood that "goes all around" inside her.
 
 Henry Vaughn in the fifteenth century wrote of one who
 
