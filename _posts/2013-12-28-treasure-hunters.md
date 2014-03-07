@@ -104,8 +104,8 @@ and time, to pock and rough
 the surface, hastening  
 the inevitable blush of rust,  
 and other signs of softening  
-that time conveys to human stuff ...  
-here, also, trucks by rubber pestle  
+that time conveys to human stuff.  
+Here, also, trucks by rubber pestle  
 cast-offs into jewels against  
 the mortar of our gritty, ribboned,  
 urban tracks.  
