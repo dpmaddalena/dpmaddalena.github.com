@@ -12,11 +12,11 @@ tags: []
 
 &nbsp;
 
-I watch, a little alarmed, as my three-year old, Zoe, dances with death. She spins the spectre madly in her arms, and he is losing bones at an alarming rate. Already, he is missing his left hand, the cap of his skull, his entire right arm, and assorted minor skeletal features. "Daddy!" she cries, "His knee cap came off!" 
+I'm watching, with some concern, as my three-year old, Zoe, dances with death. She spins the specter madly in her arms, and he is losing bones at an alarming rate. Already, he is missing his left hand, the cap of his skull, his entire right arm, and assorted minor skeletal features. "Daddy!" she cries, "His knee cap came off!" 
 
 Reputation aside, Death is no match for the affections of a pre-schooler. 
 
-Death had come to our house, but with no dark purpose. On the contrary, he shared a room with my little ballerina and went by the name of Mr. Thrifty. A plastic skeleton made for the medical student on a budget, Mr. Thrifty was given to me by my wife at a time when I had a growing interested in human anatomy. He was precisely as tall as my daughter, and when she asked him to dance, she called him "Mr. Thrift-i-ty". ... 
+Yes, death had come to our house, but with no dark purpose. On the contrary, he was sharing a room with my little ballerina and went by the name of Mr. Thrifty. A plastic skeleton made for the medical student on a budget, Mr. Thrifty was given to me by my wife at a time when I had a growing interested in human anatomy. He was precisely as tall as my daughter, and when she asked him to dance, she called him "Mr. Thrift-i-ty". ... 
 
 ![Mr. Thrifty](/assets/mrthrifty.jpg)
 
