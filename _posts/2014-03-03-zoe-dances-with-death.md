@@ -4,7 +4,7 @@ title: "Zoe Dances With Death"
 category: story
 tags: []
 ---
-*A story from the mid '90s, about anatomy, preschoolers, and the things that bones can't teach. Recently reworked for posting here.*
+*A story about anatomy, preschoolers, and the things that bones can't teach. Written a century ago, and recently reworked for posting here.*
 
 &nbsp;
 
@@ -26,15 +26,19 @@ I began dropping hints to my daughter that Mr. Thrifty was very sick- a weak att
 
 One day, I came home to find my daughter lying on her bed, reading a book, while under the bed directly beneath her and in a similar position, lay Mr. Thrifty. My mind went back to a memorial I had seen in England which presented a glorified likeness of the deceased on a pallet above, and a skeleton below, all carved in stone. Seeing my daughter in this grave context had a strange effect on me. This skeleton, after all, if not for the adult features discernible by the student of anatomy, could be mistaken for the remains of a friend of hers after a bad play-date. As a father, I wondered how appropriate it was for my daughter and a skeleton to spend time together, let alone dance. 
 
-I mean, what would the neighbors say about such mixed company shenanigans? There's no question we Americans don't like death, or anything that reminds us of death. We don't like sickness, we don't like grief. We certainly don't like any condition at all that results in "skeleton". We are the people, after all, who renamed the *parlor* in our homes to better reflect our optimism and break any association with a room where funerals take place, choosing instead to gather in the *living* room. A plastic kid-sized skeleton sends the wrong message. Think of the children!
+I mean, what would the neighbors say about such mixed company shenanigans? There's no question we Americans don't like death, or anything that reminds us of death. We don't like sickness, we don't like grief. We certainly don't like any condition at all that results in "skeleton". We are the people, after all, who renamed the *parlor* in our homes to better reflect our optimism and break any association with a room where funerals take place, choosing instead to gather in the *living* room. A plastic child-sized skeleton sends the wrong message. 
 
-But Zoe certainly learned a lot from having Mr. Thrifty around. She knew at a surprisingly young age that she was made of bone, muscle, and blood. She knew that her skeleton makes her able to stand, her muscles make her able to move, and her blood *goes all around* in her body bringing food to her muscles. But I wonder. ... Here it is: I wonder if on some level she also understands that, one day, she will end up like Mr. Thrifty: bent, broken, powerless to move on her own?
+But Zoe learned a lot from having Mr. Thrifty around. She knew at a surprisingly young age that she was made of bone, muscle, and blood. She knew that her bones make her able to stand, her muscles make her able to move, and her blood *goes all around* in her body bringing food to her muscles. But I wonder. ... Here it is: I wonder if on some level she also understands that, one day, she will end up like Mr. Thrifty: bent, broken, powerless to move on her own?
 
-Ok, maybe three-years-old is a mite young for a lesson about death. And anyway there's more to learn about us than just this: Mr. Thrifty can only teach so much. *I* want to teach my daughter that she is more than bones, that there is more than blood that "goes all around" inside her. But while bones are easy to see and easy enough to teach, there are parts and places within us that are harder to find words for.
+Ok, maybe three-years-old is a mite young for a lesson about such things. And anyway there's more to learn about us than just this. Mr. Thrifty can only teach so much. *I* want to teach my daughter that she is more than bones, that there is more than blood that "goes all around" inside her. 
+
+But while bones are easy to see and easy enough to teach, there are parts and places within us that are harder to find words for.
 
 Henry Vaughn in the fifteenth century wrote of one who
 
 > Felt through all this fleshly dress  
 > Bright shoots of everlastingness
 
-Yeah. That works. That's the hope we feel&mdash;yes&mdash;even in our bones: a *bright shot* of everlastingness. It's this God-shot that "goes all around" in each of us, calling out to us from the deeps, calling out to us to come free. We hear the call, as though from a distance, while we wait out our exile from inside the bounds of these bony prisons. And even as we bend and twist in fury at the end, and say goodbye to some of our better parts, the call repeats, and marks a better time, extending to us that grace that also, coincidentally, goes by the name of *Zoe*. And she cradles us in her arms, speaks gently to us, and, with a bow, invites us to join her in the dance that, finally, makes everything feel like child's-play.
+Yes. That works. That's the hope we feel&mdash;yes&mdash;even in our bones: a *bright shot* of everlastingness. It's this God-shot that "goes all around" in each of us, calling out to us from the deeps, calling out to us to come free. We hear the call, as though from a distance, while we wait out our exile from inside the bounds of our bony prisons. And even as we bend and twist in fury at the end, and say goodbye to some of our better parts, the call repeats, and marks a better time, extending to us that grace that also, coincidentally, goes by the name of *Zoe*. 
+
+And she cradles us in her arms, speaks gently to us, and, with a bow, invites us to join her in the dance that, finally, makes everything feel like child's-play.
