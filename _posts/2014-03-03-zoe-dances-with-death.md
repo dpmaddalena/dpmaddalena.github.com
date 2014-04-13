@@ -41,4 +41,4 @@ Henry Vaughn in the fifteenth century wrote of one who
 
 Yes. That works. That's the hope we feel&mdash;yes&mdash;even in our bones: a *bright shot* of everlastingness. It's this God-shot that "goes all around" in each of us, calling out to us from the deeps, calling out to us to come free. We hear the call, as though from a distance, while we wait out our exile from inside the bounds of our bony prisons. And even as we bend and twist in fury at the end, and say goodbye to some of our better parts, the call repeats, and marks a better time, extending to us that grace that also, coincidentally, goes by the name of *Zoe*. 
 
-And she cradles us in her arms, speaks gently to us, and, with a bow, invites us to join her in the dance that, finally, makes everything feel like child's-play.
+And she cradles us in her arms, speaks gently to us, and, with a bow, invites us to join the dance that, finally, makes everything feel like child's-play.
