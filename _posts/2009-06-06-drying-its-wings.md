@@ -15,7 +15,7 @@ Painting airy portraits
 For themselves, invisible  
 To the hive. "Why so shy?  
 Look to the flowers, grumpy!  
-Have some nector, honey!  
+Have some nectar, honey!  
 Show some self-respect,   
 Insect!" Shamed to see  
 All the winged productivity,   
