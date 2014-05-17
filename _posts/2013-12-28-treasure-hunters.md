@@ -15,7 +15,7 @@ and in plastic trays, a score
 of tree parts, petrified;  
 each a hardened image  
 of an old, indurable thing.  
-(His trees had rock rings--  
+(His trees had rock rings -  
 each marked a hundred years  
 of settling, from under-sea  
 memorials to the life of things  
