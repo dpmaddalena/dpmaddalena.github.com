@@ -19,12 +19,12 @@ of an old, indurable thing.
 each marked a hundred years  
 of settling, from under-sea  
 memorials to the life of things  
-once living. Do they honor age  
+once living.) Do they honor age  
 and greatness? Or mock  
 with minerals the fragility  
 of trees in their relative youth,  
 and old invertebrates  
-for their few years on earth?)  
+for their few years on earth? 
 
 My mother also hunts for shells  
 and tiny priceless things  
