@@ -76,7 +76,7 @@ JB :
   rss_path : /rss.xml
 
   # markdown tweak
-  
+  #
   markdown: kramdown
 
   
