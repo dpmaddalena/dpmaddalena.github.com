@@ -6,7 +6,7 @@ category: poetry
 tags: [church, homage, computers]
 ---
 
-This a poem laid over a song that started out as a lark and ended up having something to say about the desert wandering of people called out by God. 
+This a poem laid over a song that started out as a lark and ended up having something to say about the desert wandering of people who follow God.
 
 The reason I say it started as a lark is that I'm imitating the experience of my smartphone interrupting my music to give me directions. I decided to write my own 'directions', make the computer read them, and then mash it up with the song (with apologies to The Glitch Mob, who just made a cool song called Fistful of Silence, but had no control over what I did with it). I thought it would just be humorous, but it ended up being sort of awesome.
 
