@@ -10,7 +10,7 @@ This a poem laid over a song that started out as a lark and ended up having some
 
 The reason I say it started as a lark is that I'm imitating the experience of my smartphone interrupting my music to give me directions. I decided to write my own 'directions', make the computer read them, and then mash it up with the song (with apologies to The Glitch Mob, who just made a cool song called Fistful of Silence, but had no control over what I did with it). I thought it would just be humorous, but it ended up being sort of awesome.
 
-Listen first, then read the words. 
+*Listen first, then read the words.*  
 
 ### Starting Directions To ...
 
