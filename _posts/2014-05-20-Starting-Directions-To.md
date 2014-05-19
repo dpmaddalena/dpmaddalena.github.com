@@ -15,7 +15,7 @@ The reason I say it started as a lark is that I'm imitating the experience of my
 ### Starting Directions To ...
 
 <audio width="300" height="32" controls="controls">
-    <source src="assets/startingdirectionsto.mp3" type="audio/mpeg" />
+    <source src="/assets/startingdirectionsto.mp3" type="audio/mpeg" />
 </audio>
 
 <p>&nbsp; </p>
