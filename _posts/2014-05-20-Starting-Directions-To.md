@@ -26,7 +26,7 @@ Proceed to the route.
 Proceed to the route.  
 Turn thou neither to the right nor to the left.  
 
-Don't be afraid of the desert.  
+Do not be afraid of the desert.  
 
 Turn thou neither to the right nor to the left;  
 nor make up your mind to return to the land  
