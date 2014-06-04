@@ -9,7 +9,7 @@ tags: []
 
 The silence of porcelain,  
 clink! like a prayer bell;  
-a cluttered space is cleared—.  
+a cluttered space is cleared—  
 for silent prayer and mindful  
 noticing—of nothing.  
 
