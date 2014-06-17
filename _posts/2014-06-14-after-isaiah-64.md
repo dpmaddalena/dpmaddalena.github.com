@@ -9,7 +9,7 @@ tags: [haiku]
 <p>&nbsp;</p>
 
 Burn, come down, and boil;  
-tear the envelope -apart-  
+tear the envelope apart  
 and sear my op'n heart  
 
 <p>&nbsp;</p>
