@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "The Black Velvet Curtain Shall Be Torn In Two, or, Movie Stars"
+title: "The Black Velvet Curtain Shall Be Torn In Two"
 category: poetry
 tags: [homage]
 
