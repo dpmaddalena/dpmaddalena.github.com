@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "The Black Velvet Curtain Shall Be Torn In Two"
