@@ -40,5 +40,8 @@ I should have known that the warm feeling couldn't last. You know what I'm talki
 
 As an antidote to this unappetizing and slightly callous peek behind the food processing curtain, I offer this video of a real flour-dusted bread-making superhero.
 
+<http://vimeo.com/7163527>
+
+*Warning: contains some language, appropriate to the subject but maybe not to your dining room. That said, to which of these enterprises would you rather give a seat at the dinner table?*
 
 [![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
