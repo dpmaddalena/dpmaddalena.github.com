@@ -35,13 +35,13 @@ I was talking about typewriters. ... I have lost whatever skill I had that allow
 
 Today, like all computer users, I am always writing one long soupy draft. Writing on a computer is like making soup: adding ingredients, often in no particular order; taste it, add a little spice, more tasting, let it simmer a while, taste, reduce, salt, and serve. It's always changing and you won't do it the same way the next time anyway so it's no big deal that you can't remember what you did to make it taste so good. Writing with a typewriter is not this way. Typing is more like making bread; that is to say the process is less forgiving. With bread, you put all the ingredients in and then cook it. If there's anything wrong (and if you weren't careful there will be), you make notes on the recipe ("less salt") and try again. But with soup and computers, it's much more fluid: there is no first, second, or third draft. Everything on my screen is always changing, and it isn't locked down until it's published. And, even then, if I want to publish a modified version of something I've written, there's a button for that.
 
+[![](/assets/ltw/typewriterribbons.jpg)](/assets/ltw/typewriterribbonsbg.jpg)
 
 I am not at all sad that editing is easier today, but I would like to raise a glass to the skill of generations of writers who had to think before they wrote, and had to summon a greater measure of focus before they began to type because mistakes were not so easy to correct. I think of typing on typewriters as a kind of performance. Your thoughts are being recorded as they happen. You have to be on your game. You have to know what you're doing. With typewriters you couldn't just spill out your thoughts to be easily and endlessly edited. They pretty much had to come out organized. Can anyone write that way today? More to the point: will we ever learn to be that careful with keyboards again? Maybe if we were forced to think before we write, we wouldn't be so careless in launching our thoughts into the world like homemade fireworks (there's a reason why the word 'flame' is used to describe hastily-written, offensive emails.)
 
 And I would like to raise a glass to the manufacturers of tools designed to endure decades of pounding; who made their machines beautiful *and* durable (really durable, not just made to survive a drop, but to be useful for generations); whose machines were not soulless, disposable, software-processing appliances with a 3-year lifespan, but heirloom instruments for creating with words.
 
-
-
+[![](/assets/ltw/typewriter.jpg)](/assets/ltw/typewriterbg.jpg)
 
 And of course, I toast the proprietors of Los Altos Business Machines & Printer Repair, who have chosen to survive in a world hostile to manual tools by servicing flimsy plastic mystery boxes. It can't be very satisfying to replace plastic parts that were never designed to last, when you are used to cleaning and oiling beautiful steel mechanisms that have been in use for a century. But if doing time in the land of 'planned obsolescence' means you'll be around to fix one more beautiful old writing machine so the next generation can use it, then I approve wholeheartedly.
 
