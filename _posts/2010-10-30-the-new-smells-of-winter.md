@@ -17,7 +17,7 @@ Even if Pres-to-logs are way better than DuraFlame, and they certainly are (I'll
 
 I know that fake logs are better by the numbers, but the whole thing stinks. I mean that in every sense: it just seems wrong ... and these things are making my neighborhood smell like a fire at a candle factory. In my economy, if something stinks, it's probably rotten. 
 
-[![Duraflame has no power here](/assets/ltw/firesm.jpg)](/assets/ltw/firebg.jpg)
+[![Duraflame has no power here](/assets/ltw/firesm.jpg)](/assets/ltw/firebg.jpg)  
 *Duraflame has no power here!*
 
 [![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
