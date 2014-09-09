@@ -5,9 +5,9 @@ category: poetry
 tags: [books]
 
 ---
-Of course you can read all my poetry on <a href="http://theimby.blogspot.com/search/label/poetry">my blog</a>, but why would you want to do that, when you can have this cool handmade book delivered to your door for reading whenever you want, even when the power goes out?
+Of course you can read all my poetry on <a href="http://www.imby.net/categories.html#poetry-ref">this blog</a>, but why would you want to do that, when you can have this cool handmade book delivered to your door for reading whenever you want, even when the power goes out?
 
-![woodcut workship](/assets/workshop.jpg)
+![woodcut workshop](/assets/workshop.jpg)
 
 I'm home-printing this book of 32 pages, and hand-binding it with a Japanese side stitch binding. The cover will have an image like the ones above. I'll choose one for you.
 
