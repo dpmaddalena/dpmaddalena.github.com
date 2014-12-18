@@ -14,7 +14,7 @@ of tiny\\
 fiery lights\\
 each with an essential right\\
 to tell\\
-the story\\
+the story
 
 of the spark
 
@@ -26,7 +26,7 @@ a tangled\\
 wiry route\\
 to mark\\
 all the important parts\\
-in the plot\\
+in the plot
 
 until the last
 
@@ -38,4 +38,4 @@ to behold\\
 and the neighbors\\
 who try in vain to seem alone\\
 and to remain\\
-cold\\
+cold

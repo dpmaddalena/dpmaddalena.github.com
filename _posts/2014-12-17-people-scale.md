@@ -17,4 +17,4 @@ is not so big that we\\
 can't find our way around,\\
 across, or through it. Not\\
 so small, neither, that\\
-prayer can be forgot.\\
+prayer can be forgot.
