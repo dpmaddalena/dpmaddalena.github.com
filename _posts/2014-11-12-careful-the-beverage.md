@@ -16,8 +16,7 @@ Is extremely hot
 \\
 \\
 \\
-
-----
+<hr width="25%">
 
 
 *With a tip o' the hat to Starbucks ... it's*
