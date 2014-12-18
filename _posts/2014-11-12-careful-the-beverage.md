@@ -12,10 +12,8 @@ You are about to enjoy\\
 Is extremely hot
 
 
-<small>
 *With a tip o' the hat to Starbucks ... it's
 
 Not easy being\\
 Accidentally brilliant\\
 On a coffee cup*
-</small>
