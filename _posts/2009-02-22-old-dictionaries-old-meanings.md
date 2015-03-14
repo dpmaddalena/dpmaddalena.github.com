@@ -18,10 +18,10 @@ Here is the first definition offered up when I type "passion" into *my computer'
 
 Noun. 1. strong and barely controllable emotion : *a man of impetuous passion*. See note at *emotion*.
 
-* a state or outburst of such emotion : *oratory in which he gradually works himself up into a passion*.
-* intense sexual love : *their all-consuming passion for each other | she nurses a passion for Thomas.*
-* an intense desire or enthusiasm for something : *the English have a passion for gardens.*
-* a thing arousing enthusiasm : *modern furniture is a particular passion of Bill's.*
+* a state or outburst of such emotion : *oratory in which he gradually works himself up into a passion*
+* intense sexual love : *their all-consuming passion for each other | she nurses a passion for Thomas*
+* an intense desire or enthusiasm for something : *the English have a passion for gardens*
+* a thing arousing enthusiasm: *modern furniture is a particular passion of Bill's*
 
 
 *Barely controllable emotion? An outburst? Sex?* Are the English really only passionate about *gardens*? These are the things that pass for passion in our anemic society. When we hear the word passion today, we mainly imagine the strong desires that precede and accompany sex. What a rip off. Not sex, mind you, just that the feelings associated with sex have become the marker for love between two people when in fact (and in history) the thing that really inspires love is when a person is willing to suffer (even die) for another. Am I worth suffering for? Can I inspire such abandon? Sex is not passion. Real passion, if you ever see it today, is a thing that can bring two people together and keep them together for a lifetime. Sex may result.
