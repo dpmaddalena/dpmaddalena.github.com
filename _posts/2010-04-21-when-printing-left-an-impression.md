@@ -4,6 +4,7 @@ title: "When Printing Left an Impression"
 category : essay
 tags : [(low) tech writer, R.I.P.]
 ---
+[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
 
 Los Altos Typewriter, *local low-tech shrine*.
 
@@ -47,5 +48,3 @@ And of course, I toast the proprietors of Los Altos Business Machines & Printer 
 
 
 I'm thinking of bringing my failing printer in for repair (though it would be cheaper to replace it), just so I can waste some wonderful time looking at the typewriters again.
-
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)

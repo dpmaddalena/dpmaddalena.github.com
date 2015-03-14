@@ -5,6 +5,7 @@ category : essay
 tagline:
 tags : [(low) tech writer]
 ---
+[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
 
 ###General's Semi-Hex 498 2 2/4 - Reasons Why, #1
 
@@ -25,6 +26,4 @@ Regular pens left no room for correction. Erasable pens left a gooey, smudgeable
 I think I know the answer now. I can sniff out a hint of divine *terroir* lurking in the humble pencil. Is it in seventh grade science that we learn that diamonds and graphite are both made of the same stuff? While the diamond is the hardest mineral known to humanity, and graphite one of the softest, each have the same carbon chemistry. But the real mind-bender is that the more stable and permanent of these two carbon polymorphs is the stuff inside my Semi Hex. Don't believe what DeBeers tells you: ***graphite is forever***. The fact is that all diamonds that have made their way to the surface of the earth are slowly undergoing a transformation into graphite. It's only a matter of time. And so I think I'll risk formulating a *(low) tech writer principle*. Call it #1.   
   
 *(low) tech writer principle #1: The thing that appears to be the most permanent, the most robust, the most durable, aint necessarily so. Sometimes it is the dull, plentiful, inexpensive thing that wins the day and survives.*  
-
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
 

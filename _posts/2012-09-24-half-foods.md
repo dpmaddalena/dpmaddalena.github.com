@@ -4,6 +4,8 @@ title: "Half Foods"
 category : essay
 tags : [(low) tech writer]
 ---
+[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
+
 ![image](/assets/ltw/triscuit.jpg)
 
 Behold the mighty Triscuit: Symbol of **Whole Food**. Mostly unchanged for 100 years. Ingredients: whole wheat, soybean oil, salt. Compare that to heavily processed, science-fair, "home-style" monstrosities like anything from Pepperidge Farm. I know ... delicious. But read the ingredients of their cookies with a Tylenol chaser. *Interesterified* Oil? Huh? Wow ... uh, how interest-ing. How terrify-ing.
@@ -44,4 +46,3 @@ As an antidote to this unappetizing and slightly callous peek behind the food pr
 
 *Warning: contains some language, appropriate to the subject but maybe not to your dining room. That said, to which of these enterprises would you rather give a seat at the dinner table?*
 
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
