@@ -6,7 +6,7 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
 
-[![Road Trip](/assets/ltw/michael1959.jpg)](/assets/ltw/michael1959bg.jpg)
+[![Road Trip](/assets/ltw/Michael1959.jpg)](/assets/ltw/Michael1959bg.jpg)
 
 Ahh, the old-school road trip: a car, endless highway, conversation, one-radio-station-at-a-time-if-you-can-get-one-at-all .... America: pre-internet, pre-Discovery Channel, pre-cell phone laws, pre-DVD-player-in-the-minivan, pre-iPod, pre-media saturation. My dad was born in Cleveland during the depression, and worked toward his M.D. in the south. He'd never been Out West, and if he had tapped out www.tetoncam.com on his typewriter to get a look at where he was headed, he would have gotten a 404.
 
