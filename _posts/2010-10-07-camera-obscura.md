@@ -32,3 +32,12 @@ The Camera Obscura, as a piece of technology, is no different, even if it operat
 
 The Camera Obscura is also made of lovely, low-tech things: essentially glass and wood. A five-inch wide glass lens projecting on a six-foot wide table with a concave wood surface. Apart from the motor that turns the lens assembly, there is no electricity, no Intel Inside, no HD screen.  In the Camera Obscura, you are the computer that processes the image, and if your capacity to remember hasn't suffered too much from our culture of hyper-literacy, then you will recall this trip to the coast as a distinctly satisfying one.
 
+Visit the Camera Obscura:
+
+1096 Point Lobos Ave, San Francisco, 94121
+
+37°46'41.64"N  
+122°30'51.22"W  
+
+(Satellite view): bit.ly/giantcamera
+
