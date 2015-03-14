@@ -19,11 +19,11 @@ I don't like to upgrade my tools or technology unless the benefit is obvious and
 
 I use a three-bladed razor because that's the blade replacement that fits on the handle that I received as a gift years ago. I've used twin-bladed disposables and not suffered for it (though there are way, way too many of these razors thrown away each year). I'm pretty sure I only need one blade, and would happily downgrade if there wasn't such a high cost of (re) entry. I've seen retro-productions of the old "safety razors" (see [retrorazor.com](http://retrorazor.com/) ... really) that hold double-sided razors, but I won't be paying 50 bucks for a setup (yet! I still have to use up my 3-fers. I found out my dad still has the safety razor that I remember from my childhood--above--and thought I might take possession of the old treasure, but it turns out he's still using it!) And besides, I'm not sure that I'm convinced by the satisfied customer on retrorazor.com that said he was only nicking himself once a week ... *after practice* (the starter kit on that site comes with a styptic pencil. That's good marketing: according to Wikipedia these 'pencils' work by "contracting tissue to seal injured blood vessels". Hm.) I'm willing to concede that someone actually pulled off something good with the upgrade to multi-blade safety razors, cause I do not cut myself shaving. 
 
-[![kit](/assets/ltw/shavefoam.jpg)](/assets/ltw/shavefoambg.jpg)
+[![foamy](/assets/ltw/shavefoam.jpg)](/assets/ltw/shavefoambg.jpg)
 
 One shaving-related hill I'm willing to fight on is the question of shaving creme. In order to shave you need wet skin and a little lubrication. Hot water in the shower is almost enough, but a little soap goes a long way to keeping your stubble wet for the blade, and adding a touch of slippery. Below is my rig. A funky old travel brush (the head unscrews and hides in the handle) and a cake of shaving soap in a metal cup from the gift shop on Alcatraz (The soap fits perfectly, and I think the cup is really cool--see, it's metal so it can't be broken to be used as a shiv if there were ever a riot in my bathroom.)
 
-[![kit](/assets/ltw/shavefoam.jpg)](/assets/ltw/shavefoambg.jpg)
+![kit](/assets/ltw/shavebrush.jpg)
 
 I've used cans of shave creme which are a horrible waste: they do not last and too much metal and plastic gets thrown away (to say nothing of the propellant that escapes into the atmosphere. So what if it's CFC free, can anyone say it's a good thing to be releasing compressed flammable gas in the shower?). These products simply reek of invented need. Is it quicker to push a button on a can than to lather up with shaving soap? Yes. Will you regret those lost seconds when you look back on your life? Unlikely.
 
