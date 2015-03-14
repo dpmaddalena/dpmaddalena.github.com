@@ -8,7 +8,7 @@ tags : [(low) tech writer]
 
 Before it is too late, I'd like to give a little love to the light bulb, old school edition. I'm not talking about the kind filled with toxic gas that glows cold and white when excited by electricity. I'm talking about the real deal: the inefficient, endangered, incandescent, campfire in a bottle. So, a toast: here's to getting our light *from fire.* End of an era. ... Here's to the scientists who captured fire in a glass prison, and here's to Thomas Edison who perfected the technique, enabling the fire to burn without burning out, by robbing it of oxygen. Brilliant madman.
 
-[![light from fire](/assets/ltw/lightbulb.jpg)](/assets/ltw/lightbulbbg.jpg)
+[![light from fire](/assets/ltw/lightbulb.JPG)](/assets/ltw/lightbulbbg.JPG)
 
 Frequent readers of my blog may wonder why I'm not writing about candles or lanterns, or hey, maybe torches, as beautiful old-timey sources of illumination. I know that a century and a half ago, the light bulb was not a low-tech reminder of simpler times. It was probably a spooky reminder that we were determined to conquer nature, no longer to be subject to the natural rhythms of day and night: the light bulb may have given my low-tech lovin' ancestors something to fear. Imagine: Edison made a bamboo fiber burn for 1200 hours. Think about that. An *inextinguishable flame* ... a thing that burned for what seemed like forever. Sounds vaguely demonic.
 
