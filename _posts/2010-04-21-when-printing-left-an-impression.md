@@ -14,7 +14,7 @@ Today, the shop does a lot of printer and copier repair, and for the short time 
 
 [![](/assets/ltw/typewriter4.jpg)](/assets/ltw/typewriter4bg.jpg)
 
-Though filled with history, this is no museum. If you're shopping for a typewriter (aren't you?) then you'll have lots to choose from in electric and manual varieties, all with fresh ribbons and ready to type (my masthead--*below*--was created during my visit). Yet, there are a few interesting models that are just for looking at: the above beauty is pre-World War I, and looks like it might have been designed by someone who went on to design [tanks for the war](http://www.johnsmilitaryhistory.com/armorwwi.html), which is because it was. Click to enlarge this sweet little Trade Mark and read the awesome tag line.
+Though filled with history, this is no museum. If you're shopping for a typewriter (aren't you?) then you'll have lots to choose from in electric and manual varieties, all with fresh ribbons and ready to type (my masthead--*above*--was created during my visit). Yet, there are a few interesting models that are just for looking at: the above beauty is pre-World War I, and looks like it might have been designed by someone who went on to design [tanks for the war](http://www.johnsmilitaryhistory.com/armorwwi.html), which is because it was. Click to enlarge this sweet little Trade Mark and read the awesome tag line.
 
 [![image](/assets/ltw/typewriter3.jpg)](/assets/ltw/typewriter3bg.jpg)
 
