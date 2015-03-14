@@ -4,6 +4,7 @@ title: "Grooming Habits and The Cult of Innovation"
 category : essay
 tags : [(low) tech writer]
 ---
+[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
 
 I don't hate innovation. But I do hate innovation that has been driven by the desire to sell more crap and not by the needs of human beings. Proctor & Gamble, one of America's largest advertisers (and that is saying something), is a company that markets and sells such commodity products as toothbrushes and shaving razors. In the early 90s advertising book, *Where the Suckers Moon*, Randall Rothenberg describes Proctor & Gamble as "... the corporation that pioneered the selling of mass products to mass audiences through mass media" and that has an "expertise at moving undifferentiated commodity products unmatched by any other marketer." In order to continue to grow, companies like P&G need to continue to "innovate". That means ... get you to buy a "new and improved" thing, even where the existing product does a fine job of cleaning your teeth, or whatever. With Proctor & Gamble and other consumer goods companies, every day in this great country is a day for *revolutionary product design.*
 
@@ -49,8 +50,8 @@ Ok, I see the way you're looking at me. You are wondering if I have a paranoid f
 12. "Revitalizing Mint"
 14. "Refreshing Mint"
 15. "Refreshing Vanilla Mint"
-16. "Minty Fresh Striped" *and last but not least (but probably not even 'last')* 
-17. "Extreme Herbal Mint" 
+16. "Minty Fresh Striped" 
+17. *and last but not least (but probably not even 'last')*, "Extreme Herbal Mint" 
 
 I'm not even listing the sparkly variations on peppermints, wintergreens, or the non-minty fruits, burstin' bubblegums, and others. One reviewer on Crest's site has this to say: *"I demand minty fresh breath everyday. This is the only toothpaste I have ever used that has kept my breath really minty fresh for hours ...! (Five stars)."* 
 
@@ -59,6 +60,3 @@ So who's got the unhealthy fixation now?
 When I run out of Silly Strawberry--and I can't find any in my kid's bathroom--I brush my teeth with baking soda. It tastes bad. I dub the flavor, "Extreme Powdery Non-Mintiness", but will say that it is, in fact, refreshing, and works really well, costs next to nothing, and involves very little throwaway (a recyclable cardboard box). If you're game to use one of the original tooth cleaning products, I have a simple piece of advice. Don't get it from a box that has been used to absorb odors in your fridge or a musty closet. Simple. Wet your toothbrush and mash it in the powder, and brush.
 
 But be warned, if you're not getting your daily dose of mint ... you may start to wonder why you spend money on various mass produced consumer products that only solve problems you learn about in commercials. *Confidence to face the day* ... for free: how revolutionary.
-
-
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
