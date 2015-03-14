@@ -18,7 +18,7 @@ Here is the first definition offered up when I type "passion" into *my computer'
 
 > Noun. 1. strong and barely controllable emotion : *a man of impetuous passion*. See note at *emotion*.
 
-* a state or outburst of such emotion: *oratory in which he gradually works himself up into a passion*
+> * a state or outburst of such emotion: *oratory in which he gradually works himself up into a passion*
 * intense sexual love: *their all-consuming passion for each other; she nurses a passion for Thomas*
 * an intense desire or enthusiasm for something: *the English have a passion for gardens*
 * a thing arousing enthusiasm: *modern furniture is a particular passion of Bill's*
