@@ -6,7 +6,7 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
 
-When I wrote below about flash-lit photography being overwhelming and even aggressive, I felt a little out on a limb. I have no desire to take any of it back, but I wondered if, in quoting Henri Cartier-Bresson, I had been a bit aggressive with his ideas. Whatever my philosophy of flash light on cameras, it appears that I have no problem with overwhelming prose. 
+When I wrote [previously](http://www.imby.net/20090201/henri-cartier-bresson-on-natural-light/) about flash-lit photography being overwhelming and even aggressive, I felt a little out on a limb. I have no desire to take any of it back, but I wondered if, in quoting Henri Cartier-Bresson, I had been a bit aggressive with his ideas. Whatever my philosophy of flash light on cameras, it appears that I have no problem with overwhelming prose. 
 
 But then I read the following words, taken from the same book: "If, in making a portrait, you hope to grasp the interior silence of a *willing victim*, it's very difficult, but you must somehow position the camera between his shirt and skin." (Emphasis mine.)
 
