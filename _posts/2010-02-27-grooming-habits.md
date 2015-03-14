@@ -13,7 +13,7 @@ But, hold on there soldier! Before you make the mistake of thinking that your br
 
 And, sorry. Men, are you still shaving with less than five blades? Does your razor not have a revolutionary battery-powered beard trimmer in the handle or Micropulse vibration in the blades? Are you not experiencing the revolutionary benefits of on-blade Indicator lubricating strips or enhanced Microfin stubble stimulating technology? Then you are not sexy. You aren't groomed until Proctor & Gamble says you are. In fact, I'm willing to bet you haven't even gotten to second base with your razor: P&G's Gillette Fusion web site seductively invites you to "Go further ... with body shaving!" (And don't assume I'm the one with my blades in the gutter ... I will not. repeat. their. [advice](https://www.youtube.com/watch?v=W_V1SzIqVlM&index=2&list=PL5urOKdhITFSROzsBE1g5NYdEKxAUmmEc).)
 
-I don't like to upgrade my tools or technology unless the benefit is obvious and looked for. Trade in a hot and sweaty rubber raincoat for waterproof and breathable rain gear? **Easy ... yes**. Trade in cheap and heavy hi-tensile steel tubing for lightweight and strong steel-alloy bicycle frame materials? **Easy ... yes!** Trade my triple-bladed razor that cuts my beard just fine for a 5-blade fusion razor? **Easy ... no.** 
+I don't like to upgrade my tools or technology unless the benefit is obvious and looked for. Trade in a hot and sweaty rubber raincoat for waterproof and breathable rain gear? Easy: *yes*. Trade in cheap and heavy hi-tensile steel tubing for lightweight and strong steel-alloy bicycle frame materials? Easy: *yes* Trade my three-blade razor that cuts my beard just fine for a 5-blade fusion razor? Easy: *no*.
 
 [![kit](/assets/ltw/dadsrazor.jpg)](/assets/ltw/dadsrazorbg.jpg)
 
@@ -33,7 +33,27 @@ There are also really nice shaving cremes that come in squeeze tubes. I've used 
 
 As for toothpaste, I've never liked the perpetual innovation machines that turn out minty abominations as fast as consumers can buy them. I can tolerate the natural 'spearmint' flavor from Tom's of Maine (but worry, now that Colgate-Palmolive bought them, that the integrity of their all-natural product will slip). My favorite flavor of toothpaste? Tom's Silly Strawberry, without question. Yes it is a children's toothpaste. It's flavored with strawberries and banana. It's a great toothpaste, and doesn't pretend to explode in your mouth with minty amazingness.
 
-Ok, I see the way you're looking at me. You are wondering if I have a paranoid fixation on the flavor mint. Not true! Just because it would be possible for P&G to mask mind-control drugs in their toothpaste with minty crystals in order to influence the entire country to think that a six-bladed razor would help them *Face the Day With Confidence*, doesn't mean they are planning to do that. Yet. Seriously, in my defense, allow me to describe the landscape as I see it. To take one example, following are the actual flavor names that involve mint in P&G's current Crest brand toothpaste line: 1) "Invigorating Mint", 2) "Cool Mint", 3) "Sparkling Mint", 4) "Fresh Mint", 5) "Long-lasting Mint", 6) "Clean Mint", 7) "Clean Night Mint", 8) "Minty Fresh", 9) "Super Action Mint", 10) "Fresh Clean Mint", 11) "Soothing Whitening Mint", 12) "Moonlight Mint", 13) "Revitalizing Mint", 14) "Refreshing Mint", 15) "Refreshing Vanilla Mint", 16) "Minty Fresh Striped", and last but not least (but probably not even 'last'), 17) "Extreme Herbal Mint".  I'm not even listing the sparkly variations on peppermints, wintergreens, or the non-minty fruits, burstin' bubblegums, and others. One reviewer on Crest's site has this to say: *"I demand minty fresh breath everyday. This is the only toothpaste I have ever used that has kept my breath really minty fresh for hours ...! (Five stars)."* 
+Ok, I see the way you're looking at me. You are wondering if I have a paranoid fixation on the flavor mint. Not true! Just because it would be possible for P&G to mask mind-control drugs in their toothpaste with minty crystals in order to influence the entire country to think that a six-bladed razor would help them *Face the Day With Confidence*, doesn't mean they are planning to do that. Yet. Seriously, in my defense, allow me to describe the landscape as I see it. To take one example, following are the actual flavor names that involve mint in P&G's current Crest brand toothpaste line: 
+
+1. "Invigorating Mint"
+2. "Cool Mint"
+3. "Sparkling Mint"
+4. "Fresh Mint"
+5. "Long-lasting 
+6. "Clean Night Mint"
+7. "Minty Fresh"
+8. "Super Action Mint"
+9. "Fresh Clean Mint"
+10. "Soothing Whitening Mint"
+11. "Moonlight Mint"
+12. "Revitalizing Mint"
+14. "Refreshing Mint"
+15. "Refreshing Vanilla Mint"
+16. "Minty Fresh Striped", and last but not least (but probably not even 'last'), 
+
+17. "Extreme Herbal Mint".  
+
+I'm not even listing the sparkly variations on peppermints, wintergreens, or the non-minty fruits, burstin' bubblegums, and others. One reviewer on Crest's site has this to say: *"I demand minty fresh breath everyday. This is the only toothpaste I have ever used that has kept my breath really minty fresh for hours ...! (Five stars)."* 
 
 So who's got the unhealthy fixation now?
  
