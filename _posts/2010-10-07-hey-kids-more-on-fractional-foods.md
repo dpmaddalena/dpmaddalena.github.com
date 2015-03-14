@@ -14,8 +14,7 @@ Where the Froot Loops came from, I did not know. But I knew that I had to have s
 
 ![image](/assets/ltw/separatedatbirth.jpg)
 
-*Printer-Ink Registration Marks on Packaging ...\
-Rainbow of Frooty Goodness ...*\
+*Printer-Ink Registration Marks on Packaging ... Rainbow of Frooty Goodness* 
 **Separated at birth?**
 
 My initial thought as I chomped down on my first spoonful since 1986, was that the cereal wasn't as sweet as I remember. But when I looked at the box and reassured myself that sugar was indeed the first and main ingredient, I knew it must be pilot error. Then I saw it: I'm using no-sweetener-added soy milk! Silly me. I am out of practice. So what else is in Froot Loops? Of the three grains listed, only the last of them is whole: the oats. Add to these--in increasing amounts--white flour and refined corn (think: sugar), but don't overdo it because real sugar has to be the number one ingredient, then add some partially hydrogenated oils, and you have a concoction that only a mad scientist would feed to children.
