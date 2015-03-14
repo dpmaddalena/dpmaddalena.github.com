@@ -6,7 +6,7 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
 
-On respecting the natural state of things, by legendary photographer [Henri Cartier-Bresson](http://en.wikipedia.org/wiki/Cartier-bresson): "It is essential, therefore, to approach the subject on tiptoe - even if the subject is a still-life. A velvet hand, a hawk's eye - these we should all have. ... And no photographs taken with the aid of flash-light either, if only out of respect of the natural light - even when there isn't any of it. Unless a photographer observes such conditions as these, he may become an intolerably aggressive character."*
+On respecting the natural state of things, by legendary photographer [Henri Cartier-Bresson](http://en.wikipedia.org/wiki/Cartier-bresson): "It is essential, therefore, to approach the subject on tiptoe - even if the subject is a still-life. A velvet hand, a hawk's eye - these we should all have. ... And no photographs taken with the aid of flash-light either, if only out of respect of the natural light - even when there isn't any of it. Unless a photographer observes such conditions as these, he may become an intolerably aggressive character."
 
 To deny myself the convenience of flash lighting in a photograph, *even when there is no light!* Cartier-Bresson would rather that I lose the picture than use a technique that is so disrespectful to natural light. Using a flash in darkness, I may get the picture, but I've taken it by force, impatiently. And, perhaps I have violated a natural law, in the same way that artificial light has virtually eliminated the natural human rhythm of sleep-when-the-sun-goes-down and rise-when-the-sun-comes-up. 
 
