@@ -5,7 +5,7 @@ category : essay
 tagline:
 tags : [(low) tech writer]
 ---
-
+[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
 I am coming to grips with the possibility that I don't trust technology. I don't mean my computer. I mean the impulse to solve problems by subscribing to pre-existing mass-produced solutions. You can find these solutions spit out of molds and assembly-lines and printing presses throughout recent history. Such "solutions" feel soul-numbing to me. I know that sounds harsh, but that's how my soul responds to anything that looks and works the same in any home. It may be fast, convenient, processed food, or a best-selling book about how to solve your Problem, or a piece of furniture that makes everyone within 10 miles of Ikea feel like the exact same unique and interesting individual. I don't want to make grand, sweeping generalizations, but *in general* when you set out to make a profit, you have to resort to technology to increase your productivity. When you set out to make something beautiful, you have to avoid technology (and by that I mean, "someone elses technique"), because it will stifle your creativity. I know it's not black and white. But I'm not here to argue for high-tech, am I?
 
 I want to catalog the beautiful things I find, the low-tech successes and survivors, the things that make you feel kinda funny in your tummy when you see them, like you "wish you could have one".
@@ -17,4 +17,4 @@ I am not anti-tech. I know that computers are solving important problems in the 
 
 And so today I am a writer of a kind further from what "they" meant - a *low tech* writer, in search of things less technological, less programmable, less homogenous. And when I find them, I'll write about them on the Internets.
 
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
+
