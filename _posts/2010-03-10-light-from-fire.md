@@ -20,7 +20,7 @@ I was about to call that light bulb a work of art, but that's silly. It never wa
 
 ![100 years](/assets/ltw/cb-on.jpg)
 
-An incandescent light bulb hanging in the fire house of the nearby city of Livermore has been burning continuously, with only a few very brief interruptions, for almost a million hours, since 1901. It's got the record, in case you're wondering. This very bulb (there it is in the picture to the left) burned for every minute of the last thirty years of Thomas Edison's life, and has been burning [ever since](http://www.centennialbulb.org/index.htm). The bulb managed to outlive my grandmother, born the year it was turned on, though my Grandma only just passed away a couple months ago, at the age of 108, and was as bright and clear-eyed as this bulb to the end.
+An incandescent light bulb hanging in the fire house of the nearby city of Livermore (that's it up there) has been burning continuously, with only a few very brief interruptions, for almost a million hours, since 1901. It's got the record, in case you're wondering. This very bulb (there it is in the picture to the left) burned for every minute of the last thirty years of Thomas Edison's life, and has been burning [ever since](http://www.centennialbulb.org/index.htm). The bulb managed to outlive my grandmother, born the year it was turned on, though my Grandma only just passed away a couple months ago, at the age of 108, and was as bright and clear-eyed as this bulb to the end.
 
 One of the reasons proposed for the Livermore bulb's long life is that it's burning at a very low wattage (*four* watts, which apparently was enough for a fire station night light back when Grandma was young). Low wattage means *low heat*. Low heat means long life.
 
