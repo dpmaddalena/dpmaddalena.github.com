@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "title"
+title: "On the Road, Old School"
 category : essay
 tags : [(low) tech writer]
 ---
