@@ -14,6 +14,8 @@ But, hold on there soldier! Before you make the mistake of thinking that your br
 
 And, sorry. Men, are you still shaving with less than five blades? Does your razor not have a revolutionary battery-powered beard trimmer in the handle or Micropulse vibration in the blades? Are you not experiencing the revolutionary benefits of on-blade Indicator lubricating strips or enhanced Microfin stubble stimulating technology? Then you are not sexy. You aren't groomed until Proctor & Gamble says you are. In fact, I'm willing to bet you haven't even gotten to second base with your razor: P&G's Gillette Fusion web site seductively invites you to "Go further ... with body shaving!" (And don't assume I'm the one with my blades in the gutter ... I will not. repeat. their. [advice](https://www.youtube.com/watch?v=W_V1SzIqVlM&index=2&list=PL5urOKdhITFSROzsBE1g5NYdEKxAUmmEc).)
 
+![Death By a Thousand Cuts](/assets/ltw/5blades.jpg)
+
 I don't like to upgrade my tools or technology unless the benefit is obvious and looked for. Trade in a hot and sweaty rubber raincoat for waterproof and breathable rain gear? Easy: *yes*. Trade in cheap and heavy hi-tensile steel tubing for lightweight and strong steel-alloy bicycle frame materials? Easy: *yes*. Trade my three-blade razor that cuts my beard just fine for a 5-blade fusion razor? Easy: *no*.
 
 [![kit](/assets/ltw/dadsrazor.jpg)](/assets/ltw/dadsrazorbg.jpg)
