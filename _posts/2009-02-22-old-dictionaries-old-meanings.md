@@ -11,7 +11,7 @@ I use the dictionary on my laptop daily, usually to check whether I am using a w
 I know that my OED is outdated. The latest version, the Second Edition of the OED, is twenty volumes and may be the last version to be printed: the English language is growing too fast, and somehow it's easier to admit such additions to the language as, "aerobicized", "celebutante", and "blog", if they will never be bound in a book. Yes, I will always use computers for research: there is just no way for any library to replicate what a computer can do, let alone a personal library. And yet, there is no way for any computer to fully replicate the experience of looking at a page in a book. 
 
 Some years ago, I was invited to co-teach a class on "Passion" in my church. I knew the reason my pastor had chosen the topic: to inspire excitement and commitment for the faith. One of the first things I did, even before looking at scripture, was to open my OED and look the word up. I was surprised (as was the group of people gathered for the class) to learn that the principal definition of the word, as listed in the OED, was "to suffer", and that the principal historical usage was specifically in reference to the suffering of Christ on the cross (Mel Gibson's movie had not yet come along to restore the context for the word). Suffering is an aspect of passion entirely lost in modernity.
-
+ 
 Here is the first definition offered up when I type "passion" into *my computer's dictionary*:
 
 ### passion
