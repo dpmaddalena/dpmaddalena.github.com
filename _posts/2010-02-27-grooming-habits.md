@@ -49,9 +49,8 @@ Ok, I see the way you're looking at me. You are wondering if I have a paranoid f
 12. "Revitalizing Mint"
 14. "Refreshing Mint"
 15. "Refreshing Vanilla Mint"
-16. "Minty Fresh Striped", and last but not least (but probably not even 'last'), 
-
-17. "Extreme Herbal Mint".  
+16. "Minty Fresh Striped" *and last but not least (but probably not even 'last')* 
+17. "Extreme Herbal Mint" 
 
 I'm not even listing the sparkly variations on peppermints, wintergreens, or the non-minty fruits, burstin' bubblegums, and others. One reviewer on Crest's site has this to say: *"I demand minty fresh breath everyday. This is the only toothpaste I have ever used that has kept my breath really minty fresh for hours ...! (Five stars)."* 
 
