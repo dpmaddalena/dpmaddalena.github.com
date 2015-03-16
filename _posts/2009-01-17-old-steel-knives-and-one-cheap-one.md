@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Title"
+title: "Old Steel Knives and One Cheap One"
 category : essay
 tags : [(low) tech writer]
 ---
