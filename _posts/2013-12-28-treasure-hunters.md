@@ -55,7 +55,7 @@ bones and gems by ancient trails,
 outside.  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Today, I’m a panner  
 for urban gold—my claim spans  
-the blocks, and mines the old  
+the blocks, and mine the old  
 and ever-rising asphalt-mantled  
 roads; I sift the grit and duff  
 that cruft and clog the binding  
