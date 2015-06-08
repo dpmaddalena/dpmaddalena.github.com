@@ -3,7 +3,7 @@ layout: post
 title: "Starting Directions To"
 description: ""
 category: poetry
-tags: [church, homage, computers]
+tags: [church, audio, computers]
 ---
 
 This is a poem mashed up with a piece of music ... wherein a robot takes over a Glitch Mob song and manages to give directions to a place worth getting to.
