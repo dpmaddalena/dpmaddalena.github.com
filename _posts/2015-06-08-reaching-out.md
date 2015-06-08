@@ -25,9 +25,8 @@ Psalm 139:15-16, by Rivers & Robots, from The Verses Project
 >And in Your book were all written  
 >The days that were ordained for me,  
 >When as yet there was not one of them  
-*Listen first (loud), then read the words.*  
-
 <p>&nbsp; </p>
+
 ### Reaching Out
 
 <audio width="300" height="32" controls="controls">
