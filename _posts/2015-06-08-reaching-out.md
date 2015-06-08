@@ -6,7 +6,7 @@ category: art
 tags: [audio]
 ---
 
-An audio collage; an assemblage inspired by (and containing) audio samples from the record we sent into space on the voyagers. Contains *sounds of earth* and some music. Of the two music pieces, the Chinese one (a 2500 year-old piece called Flowing Streams) was among the pieces that went into space. The sound samples are all from the record on the original record, only replaced in a couple cases when the originals were too lo-fi.
+An audio collage; an assemblage inspired by (and containing) audio samples from the record we sent into space on the Voyager spacecraft. Contains *sounds of Earth* and some music. Of the two music pieces, the Chinese one (a 2500 year-old piece called Flowing Streams) was among the pieces that went into space. The sound samples are all from the original record, only replaced in a couple cases when the originals were too lo-fi.
 
 The 'journey' is about all our impulse to reach out for knowledge, connection, and meaning, and starts with sounds related to that; next we move through the Chinese *be here now* vibe of Flowing Streams; finally we hear a modern musical rendering of Ps 139, a *rediscovery* of the inverse value of God's project, where *we* are visited before we ever make a move.
 
