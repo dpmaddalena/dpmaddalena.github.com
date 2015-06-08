@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Rising Aspirations"
+title: "Plain Talk"
 category: art
 tags: [collage, images]
 ---
-Rising Aspirations, 2008
+Rising Aspirations, 2014
 
-*subatomic particle trails; human skull cross-section;  
-cruciform, distant space phenomenon*
+(*Wood frame with canvas backing ...* $300)
 
-[![](/assets/risingaspirations_.jpg)](/assets/risingaspirations.jpg) 
+[![](/assets/plaintalk_.jpg)](/assets/plaintalk.jpg) 
 
 
