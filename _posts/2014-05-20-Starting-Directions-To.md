@@ -11,6 +11,7 @@ This is a poem mashed up with a piece of music ... wherein a robot takes over a 
 I'm imitating the experience of my smartphone interrupting my music to give me directions. I decided to write my own 'directions', get the computer to read them, and then mash it up with a song with a beat (with apologies to The Glitch Mob, who just made the song, called Fistful of Silence, but had no control over what I did with it).
 
 *Listen first (loud), then read the words.*  
+<p>&nbsp; </p>
 
 ### Starting Directions To ...
 

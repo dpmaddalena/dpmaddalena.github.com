@@ -27,6 +27,7 @@ Psalm 139:15-16, by Rivers & Robots, from The Verses Project
 >When as yet there was not one of them  
 *Listen first (loud), then read the words.*  
 
+<p>&nbsp; </p>
 ### Reaching Out
 
 <audio width="300" height="32" controls="controls">
@@ -34,4 +35,4 @@ Psalm 139:15-16, by Rivers & Robots, from The Verses Project
 </audio>
 
 <p>&nbsp; </p>
- 
+(*High quality encoding available on request*)
