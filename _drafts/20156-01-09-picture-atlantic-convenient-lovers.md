@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "At First The Words"
+title: "Picture Atlantic Video for Convenient Lovers"
 category: video
 tags: [collage, music]
 ---
 
-[Picture Atlantic](http://www.pictureatlantic.com)
+Stage video for the [Picture Atlantic](http://www.pictureatlantic.com) tune *Convenient Lovers*.
 
 
 <p>&nbsp;</p>
