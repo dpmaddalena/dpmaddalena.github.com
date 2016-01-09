@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Picture Atlantic on Stage: Shallow Words"
+title: "Picture Atlantic: Shallow Words"
 category: video
 tags: [music]
 ---
