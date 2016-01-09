@@ -5,7 +5,7 @@ category: video
 tags: [music]
 ---
 
-Video clip from [Picture Atlantic](http://www.pictureatlantic.com)'s 2015 Halloween show, where I debuted a series of stage videos I produced for them. The video (complete with lousy audio) shows a clip from the performance of *Shallow Words*.
+Video teaser clip from [Picture Atlantic](http://www.pictureatlantic.com)'s 2015 Halloween show, where I debuted a series of stage videos I produced for them. The video (shot with a phone from where I was playing video jockey) shows a clip from the performance of *Shallow Words*.
 
 <p>&nbsp;</p>
 
