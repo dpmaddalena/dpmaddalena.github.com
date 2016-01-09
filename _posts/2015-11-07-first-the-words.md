@@ -11,7 +11,7 @@ A video collage about the way that time can erode our confidence in childhood st
 - **Music**: *The Holograms* by Fol Chen
 <p>&nbsp;</p>
 
-### First The Words ...
+### First The Words
 <p>&nbsp;</p>
 <video controls="controls" width="640" height="370" name="First The Words" src="/assets/first-the-words.m4v"></video>
 
