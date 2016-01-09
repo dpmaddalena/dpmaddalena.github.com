@@ -19,7 +19,7 @@ A video collage about the way that time can erode our confidence in childhood st
  
 The repeating Lyrics of Fol Chen's funky-awesome song are: 
 
-> First the words were good
-They helped us understand
-But then the sounds would double
+> First the words were good  
+They helped us understand  
+But then the sounds would double  
 Like holograms
