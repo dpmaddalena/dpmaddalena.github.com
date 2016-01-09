@@ -2,7 +2,7 @@
 layout: post
 title: "Doesn't Take Long to Get Away"
 category : essay
-tags : [(low) tech writer, travel]
+tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
 
