@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Collage Sketches 2005-2010"
-category: art
-tags: [collage, images]
+category: images
+tags: [collage]
 ---
 [![Sketchbook](/assets/sketchbook17.jpg)](http://sevendown.org/collage/sketches/)
 
