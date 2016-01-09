@@ -8,7 +8,7 @@ tags: [children, collage, heroes]
 *At First The Words* is video collage about the way that time can erode our confidence in childhood stories. Once-comforting phrases are revealed to be insufficient for navigating reality, though they may be colorful and picturesque (and contain more than a kernel of truth). The *young heroine* and the *bitter queen* are imagined to be two versions of the same person, whether separated by age or perspective. 
 
 - **Images**: clips from a popular 1930s cartoon about a princess, some halflings, and an evil stepmother
-- **Music**: *The Holograms* by [https://folchen.bandcamp.com](Fol Chen)
+- **Music**: *The Holograms* by [Fol Chen](https://folchen.bandcamp.com)
 
 <p>&nbsp;</p>
 
