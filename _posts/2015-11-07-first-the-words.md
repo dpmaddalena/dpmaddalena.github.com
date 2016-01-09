@@ -2,7 +2,7 @@
 layout: post
 title: "First The Words"
 category: video
-tags: [church, computers]
+tags: [children, collage, heroes]
 ---
 
 A video collage about the way that time can erode our confidence in childhood stories. Once-comforting phrases are revealed to be insufficient for navigating reality, though they may be colorful and picturesque (and contain more than a kernel of truth). The *young heroine* and the *bitter queen* are imagined to be two versions of the same person, whether separated by age or perspective. 
