@@ -5,7 +5,7 @@ category: video
 tags: [collage, music]
 ---
 
-Onstage video for the [Picture Atlantic](http://www.pictureatlantic.com) tune *Convenient Lovers*. Video collage making heavy use of clips from the [Prelinger](http://www.prelinger.com) [Archive](https://archive.org/details/prelinger).
+Stage video for the [Picture Atlantic](http://www.pictureatlantic.com) tune *Convenient Lovers*. Debuted at PA's 2015 Halloween show. Video collage making heavy use of clips from the [Prelinger](http://www.prelinger.com) [Archive](https://archive.org/details/prelinger).
 
 <p>&nbsp;</p>
 
