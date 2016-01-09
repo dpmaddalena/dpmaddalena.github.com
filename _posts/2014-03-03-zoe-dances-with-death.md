@@ -2,7 +2,7 @@
 layout: post
 title: "Zoe Dances With Death"
 category: story
-tags: []
+tags: [children]
 ---
 *A story about anatomy, preschoolers, and the things that bones can't teach. Written a century ago, and recently reworked for posting here.*
 
