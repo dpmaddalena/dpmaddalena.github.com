@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Earthprints"
-description: ""
 category: poetry
-tags: [images]
+tags: [sacrament]
 ---
 
 
