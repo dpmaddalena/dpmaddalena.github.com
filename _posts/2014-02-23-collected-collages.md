@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Collected Collages"
-category: art
+category: images
 tags: [collage]
 ---
 

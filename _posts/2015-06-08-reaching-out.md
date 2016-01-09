@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Reaching Out"
-description: ""
-category: art
-tags: [audio, collage]
+category: audio
+tags: [collage]
 ---
 
 An audio collage; an assemblage inspired by (and containing) audio samples from the record we sent into space on the Voyager spacecraft. Contains *sounds of Earth* and some music. Of the two music pieces, the Chinese one (a 2500 year-old piece called Flowing Streams) was among the pieces that went into space. The sound samples are all from the original record, only replaced in a couple cases when the originals were too lo-fi.

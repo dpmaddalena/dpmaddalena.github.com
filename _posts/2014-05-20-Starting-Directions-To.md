@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Starting Directions To"
-description: ""
-category: poetry
-tags: [church, audio, computers]
+category: audio
+tags: [church, computers]
 ---
 
 This is a poem mashed up with a piece of music ... wherein a robot takes over a Glitch Mob song and manages to give directions to a place worth getting to.
 
-I'm imitating the experience of my smartphone interrupting my music to give me directions. I decided to write my own 'directions', get the computer to read them, and then mash it up with a song with a beat (with apologies to The Glitch Mob, who just made the song, called Fistful of Silence, but had no control over what I did with it).
+I'm imitating the experience of my smartphone interrupting my music to give me directions. I decided to write my own 'directions', get the computer to read them, and then mash it up with a song with a beat (with apologies to The Glitch Mob, who made the song, called Fistful of Silence, but had no control over what I did with it).
 
 *Listen first (loud), then read the words.*  
 <p>&nbsp; </p>

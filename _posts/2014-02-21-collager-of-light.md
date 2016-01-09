@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Tweaking Thomas Kinkade"
-category: art
-tags: [collage, images]
+category: images
+tags: [collage]
 ---
 [![Kinkade!](/assets/pleasure!.jpg)](http://sevendown.org/collage/kinkade/)
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Plain Talk"
-category: art
-tags: [collage, images]
+category: images
+tags: [collage]
 ---
 Plain Talk, 2014
 

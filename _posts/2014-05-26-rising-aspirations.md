@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Rising Aspirations"
-category: art
-tags: [collage, images]
+category: images
+tags: [collage]
 ---
  Rising Aspirations, 2008
  

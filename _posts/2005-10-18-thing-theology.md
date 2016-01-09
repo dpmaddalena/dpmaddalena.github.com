@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thing Theology"
-category: art
+category: images
 tags: [heroes]
 ---
 

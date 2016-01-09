@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Early Collages"
-category: art
-tags: [collage, images]
+category: images
+tags: [collage]
 ---
 [![Just Beginning To Show](/assets/justbeginningtoshow.jpg)](http://sevendown.org/collage/early/) 
 

@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Earthprints-The Images"
-description: ""
-category: art
-tags: [images]
+category: images
+tags: [photography]
 ---
-{% include JB/setup %}
 
 An [ongoing project](http://maddalena.vsco.co/) to capture how artificial things weather and decay beautifully, evoking natural patterns.
 

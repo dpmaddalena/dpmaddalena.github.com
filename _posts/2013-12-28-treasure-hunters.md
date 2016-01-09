@@ -3,7 +3,7 @@ layout: post
 title: "Treasure Hunters"
 description: ""
 category: poetry
-tags: [images]
+tags: []
 ---
 
 
