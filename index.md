@@ -6,9 +6,9 @@ tagline: art with arms contending
 {% include JB/setup %}
 
 ## David Maddalena *Works*
-Visit the [category page](http://www.imby.net/categories.html) for a roadmap. Everything is below, newest at the top. 
+Visit the [category page](http://www.imby.net/categories.html) for a roadmap. Travel through time below.
 
-Featured: [audio](http://www.imby.net/categories.html#audio-ref) and [video](http://www.imby.net/categories.html#video-ref) collages 
+Featured: [audio](http://www.imby.net/categories.html#audio-ref) and [video](http://www.imby.net/categories.html#video-ref) collages. [At First The Words](http://www.imby.net/20151107/first-the-words/) blends clips from a popular animated film with a song by Fol Chen ...
 
 &nbsp;
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Picture Atlantic: Something New"
-category: video
+category: images
 tags: [music]
 ---
 
