@@ -8,7 +8,7 @@ tagline: art with arms contending
 ## David Maddalena *Works*
 Visit the [category page](http://www.imby.net/categories.html) for a roadmap. Travel through time below.
 
-Featured: [audio](http://www.imby.net/categories.html#audio-ref) and [video](http://www.imby.net/categories.html#video-ref) collages&mdash;[At First The Words](http://www.imby.net/20151107/first-the-words/) blends clips from a popular animated film with music by Fol Chen ...
+**Featured**: [audio](http://www.imby.net/categories.html#audio-ref) and [video](http://www.imby.net/categories.html#video-ref) collages&mdash;[At First The Words](http://www.imby.net/20151107/first-the-words/) blends clips from a popular animated film with music by Fol Chen ...
 
 &nbsp;
 

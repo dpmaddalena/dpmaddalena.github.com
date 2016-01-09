@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Picture Atlantic Video for Convenient Lovers"
+title: "Picture Atlantic: Convenient Lovers ... Stage Video"
 category: video
 tags: [collage, music]
 ---
 
-Stage video for the [Picture Atlantic](http://www.pictureatlantic.com) tune *Convenient Lovers*.
+Onstage video for the [Picture Atlantic](http://www.pictureatlantic.com) tune *Convenient Lovers*. Video collage making heavy use of clips from the [Prelinger](http://www.prelinger.com) [Archive](https://archive.org/details/prelinger).
 
 <p>&nbsp;</p>
 
-<video controls="controls" width="640" height="370" name="First The Words" src="/assets/convenientlovers.m4v"></video>
+<video controls="controls" width="450" name="Convenient Lovers" src="/assets/convenientlovers.m4v"></video>
 
 <p>&nbsp; </p>
