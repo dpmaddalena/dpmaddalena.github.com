@@ -10,4 +10,4 @@ Video clip from [Picture Atlantic's](http://www.pictureatlantic.com)
 
 <p>&nbsp;</p>
 
-<video controls="controls" width="480" name="Picture Atlantic Shallow Words" src="/assets/pa-shallow-stage.mov"></video>
+<video controls="controls" width="450" name="Picture Atlantic Shallow Words" src="/assets/pa-shallow-stage.mov"></video>

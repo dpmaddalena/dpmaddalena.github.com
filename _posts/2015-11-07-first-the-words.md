@@ -12,7 +12,7 @@ tags: [children, collage, music, heroes]
 
 <p>&nbsp;</p>
 
-<video controls="controls" width="480" name="First The Words" src="/assets/first-the-words.m4v"></video>
+<video controls="controls" width="450" name="First The Words" src="/assets/first-the-words.m4v"></video>
 
 <p>&nbsp; </p>
  
