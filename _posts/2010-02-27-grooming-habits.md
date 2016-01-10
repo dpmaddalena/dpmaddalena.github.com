@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grooming Habits and The Cult of Innovation"
+title: "Grooming Habits"
 category : essay
 tags : [(low) tech writer]
 ---
