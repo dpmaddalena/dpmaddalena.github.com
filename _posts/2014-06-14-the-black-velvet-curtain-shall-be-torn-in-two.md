@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Movie Stars, or The Black Velvet Curtain Shall Be Torn In Two"
+title: "Movie Stars"
 category: poetry
 tags: [homage]
 
 ---
+or, *The Black Velvet Curtain Shall Be Torn In Two*
+
 
 Monroe, Bogart, Presley, and Dean -  
 Café *Boulevard of Broken Dreams*.  
