@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stage Video - Picture Atlantic: Guerilla"
+title: "Picture Atlantic: Guerilla"
 category: video
 tags: [collage, music]
 ---
