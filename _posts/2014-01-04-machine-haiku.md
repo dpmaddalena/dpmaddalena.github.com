@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Machine Haiku"
-category: Poetry
+category: poetry
 tags: [computers, haiku]
 ---
 
