@@ -5,7 +5,7 @@ category: essay
 tags: [church]
 ---
 
-###Religious Propaganda and the Anti Tract
+### Religious Propaganda and the Anti Tract
 
 ![propaganda](/assets/propaganda.jpg)
 
