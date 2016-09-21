@@ -7,7 +7,7 @@ tags: [homage]
 
 ### Leisure Wear (Or, Wendell Berry Breaks In All My Pants)
 
-&nbsp;
+<div>&nbsp;</div>
 ### I
 
 It's someone else's job to break  
