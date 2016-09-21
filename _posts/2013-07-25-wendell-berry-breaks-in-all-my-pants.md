@@ -5,9 +5,8 @@ category: poetry
 tags: [homage]
 ---
 
-### Leisure Wear (Or, Wendell Berry Breaks In All My Pants)
+## Leisure Wear (Or, Wendell Berry Breaks In All My Pants)
 
-<div>&nbsp;</div>
 ### I
 
 It's someone else's job to break  
