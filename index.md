@@ -8,7 +8,7 @@ tagline: art with arms contending
 ## David Maddalena *Works*
 Visit the [category page](http://www.imby.net/categories.html) for a roadmap. Travel through time below.
 
-**Featured**: [video](http://www.imby.net/categories.html#video-ref) collages&mdash;[At First The Words](http://www.imby.net/20151107/first-the-words/) blends clips from a certain popular 1930s animated film with music by Fol Chen; [Stage Videos](http://www.imby.net/20160109/picture-atlantic-convenient-lovers/) are video collages made to be projected behind a band on stage, like for example *Picture Atlantic*.
+**Featured**: [video](http://www.imby.net/categories.html#video-ref) collages&mdash;[At First The Words](www.imby.net/20150801/first-the-words) blends clips from a certain popular 1930s animated film with music by Fol Chen; [Stage Videos](www.imby.net/20160109/picture-atlantic-convenient-lovers/) are video collages made to be projected behind a band on stage, like for example *Picture Atlantic*.
 
 &nbsp;
 
