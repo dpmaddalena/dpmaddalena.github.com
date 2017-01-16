@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-##I
+## I
 
 My grandpa had a dusty  
 plate of seashells, dry,  
@@ -45,7 +45,7 @@ by pressure from simple dust
 and ancient buried dreams.  
 
 
-##II
+## II
 
 I also collect things, and find  
 that I inherited the eye,  
@@ -55,7 +55,7 @@ bones and gems by ancient trails,
 outside.  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Today, I’m a panner  
 for urban gold—my claim spans  
-the blocks, and mine the old  
+the blocks, and mines the old  
 and ever-rising asphalt-mantled  
 roads; I sift the grit and duff  
 that cruft and clog the binding  
