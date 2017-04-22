@@ -11,7 +11,7 @@ The 'journey' is about all our impulse to reach out for knowledge, connection, a
 
 The Morse Code spells out *per aspera ad astra*. It may be translated as, "through hardships to the heavens."
 
-###Music
+### Music
 
 "Liu Shui" 《流水》 ("Flowing Streams"). Composed by Bo Ya, played by Kuan P'ing-hu.
 
