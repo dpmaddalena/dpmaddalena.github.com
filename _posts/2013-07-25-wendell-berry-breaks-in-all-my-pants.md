@@ -14,7 +14,7 @@ in all my pants --
 some farmer or fashion model,  
 who's hard at work someplace,  
 living the active life I guess  
-I don't have time for, anymore--I get  
+I don't have time for, anymore -- I get  
 soft slacks, sensitively sewn, to cover  
 the shame of my naked, useless legs,  
 and fulfill the promise of a technological age,  
@@ -22,7 +22,7 @@ while projecting an air
 of good times and hard wear.  
 
 I dreamed it could be Wendell Berry,  
-whom I'm certain never buys  
+who I'm certain never buys  
 stone-washed, must despise  
 the option of pre-softened jeans,  
 and works the rows in brand new  
