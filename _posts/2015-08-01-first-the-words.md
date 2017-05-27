@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "At First The Words"
+title: "Video Collage: At First The Words"
 category: video
 tags: [children, collage, music, heroes]
 ---
