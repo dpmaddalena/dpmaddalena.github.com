@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Bear And The Butterfly"
+title: "Story: The Bear And The Butterfly"
 category: story
 tags: [children]
 ---
