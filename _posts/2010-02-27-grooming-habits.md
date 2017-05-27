@@ -42,7 +42,7 @@ Ok, I see the way you're looking at me. You are wondering if I have a paranoid f
 2. "Cool Mint"
 3. "Sparkling Mint"
 4. "Fresh Mint"
-5. "Long-lasting 
+5. "Long-Lasting Mint"
 6. "Clean Night Mint"
 7. "Minty Fresh"
 8. "Super Action Mint"
