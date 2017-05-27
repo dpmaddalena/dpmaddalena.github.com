@@ -8,7 +8,7 @@ tagline: art with arms contending
 ## David Maddalena *Works*
 Visit the [category page](http://www.imby.net/categories.html) for a roadmap. Travel through time below.
 
-**Featured**: [video](http://www.imby.net/categories.html#video-ref) collages&mdash;[At First The Words](20150801/first-the-words) blends clips from a certain popular 1930s animated film with music by Fol Chen; [Lost World](20170526/lost-world) samples a new series of video collages made from full-length silent films and intended for display during a listening session or stage set.
+**Featured**: [video](http://www.imby.net/categories.html#video-ref) collages&mdash;[At First The Words](20150801/first-the-words) blends clips from a certain popular 1930s animated film with music by Fol Chen; [Lost World](20170526/lost-world) samples a new works created from full-length silent films and intended for display during a listening session or stage set.
 
 &nbsp;
 
