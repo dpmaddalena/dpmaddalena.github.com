@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Video Collage: Picture Atlantic, Guerilla"
+title: "Video Collage: Guerilla"
 category: video
 tags: [collage, music]
 ---
