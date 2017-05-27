@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reaching Out"
+title: "Music Collage: Reaching Out"
 category: audio
 tags: [collage, music]
 ---
