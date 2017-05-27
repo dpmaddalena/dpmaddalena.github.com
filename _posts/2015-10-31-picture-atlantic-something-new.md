@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Picture Atlantic: Something New"
+title: "Picture Atlantic with Video Collage"
 category: images
 tags: [music]
 ---
