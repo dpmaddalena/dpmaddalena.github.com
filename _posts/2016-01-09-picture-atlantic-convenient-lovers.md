@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Picture Atlantic: Convenient Lovers"
+title: "Video Collage: Convenient Lovers"
 category: video
 tags: [collage, music]
 ---
