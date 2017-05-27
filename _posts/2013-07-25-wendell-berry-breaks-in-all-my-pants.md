@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leisure Wear"
+title: "Leisure Wear (Feat. Wendell Berry)"
 category: poetry
 tags: [homage]
 ---
