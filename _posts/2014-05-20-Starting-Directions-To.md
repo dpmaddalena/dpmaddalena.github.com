@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Music Collage: Starting Directions To"
+title: "Audio Collage: Starting Directions To"
 category: audio
 tags: [church, music, computers]
 ---
