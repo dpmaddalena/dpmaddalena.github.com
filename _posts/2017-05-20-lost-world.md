@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lost World"
+title: "Video Collage: Lost World"
 category: video
 tags: [collage, music]
 ---
