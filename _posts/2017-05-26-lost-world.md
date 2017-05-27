@@ -14,7 +14,7 @@ The project is an ambient video, a selection from a film-length, silent backgrou
 
 <p>&nbsp;</p>
 
-<video controls="controls" width="450" name="The Lost World" src="/assets/lostworld.m4v"></video>
+<video controls="controls" width="450" name="The Lost World" src="/assets/lostworld.mp4"></video>
 
 <p>&nbsp; </p>
 
