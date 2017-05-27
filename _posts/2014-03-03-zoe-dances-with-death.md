@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zoe Dances With Death"
+title: "Story: Zoe Dances With Death"
 category: story
 tags: [children]
 ---
