@@ -4,7 +4,8 @@ title: "WHO IS JIMMY CARTER"
 category: poetry
 tages: []
 ---
-###`<strong><em>`*WHO IS JIMMY CARTER*`</em></strong>`
+`<strong><em>`*WHO IS JIMMY CARTER*`</em></strong>`
+
 It is useless, but I try  
 To escape the repetitive  
 Dream, wherein a number  
