@@ -6,6 +6,6 @@ tags: [collage]
 ---
 [![Just Beginning To Show](/assets/justbeginningtoshow.jpg)](http://imby.net/images/galleries/collage-early/) 
 
-A series of early collages, from about 2008 onwards.
+A series of early collages, from about 2008-2010.
 
 <a href="http://imby.net/images/galleries/collage-early/" target="_blank">Early Collages</a>
