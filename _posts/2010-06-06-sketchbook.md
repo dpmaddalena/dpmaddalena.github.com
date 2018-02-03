@@ -4,7 +4,7 @@ title: "Collage Sketches 2005-2010"
 category: images
 tags: [collage]
 ---
-[![Sketchbook](/assets/sketchbook17.jpg)](http://sevendown.org/collage/sketches/)
+[![Sketchbook](/assets/sketchbook17.jpg)](http://imby.net/images/galleries/collage-sketches/)
 
 Images from a small leatherbound "sketchbook" where I play with with images and words, without worrying so much about the big picture. Some of the resulting images would very much like to grow up into poster-sized works of art.
 
@@ -12,4 +12,4 @@ Each piece is usually just two or three images stuck together when I can't get m
 
 (For a bonus, look for the single 'found' collage in the series.)
 
-<a href="http://sevendown.org/collage/sketches/" target="_blank">Pages from the sketchbook</a>
+<a href="http://imby.net/images/galleries/collage-sketches/" target="_blank">Pages from the sketchbook</a>
