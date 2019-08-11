@@ -8,7 +8,7 @@ novelette in the [Abrasion](http://www.imby.net/20170525/abrasion) series, which
 need for human contact, and the many reasons why this need so often goes unment.
 
 I created this poem in the style of the mirologia, a mourning song for the dead unique to Mani, to appear 
-in a key character's written devotion to a old priest that took him in. The poem contains a number of images from the 
+in a key character's written devotion to a old priest that took him in. The short poem contains a number of images from the 
 greater story, drawing on imagery of the traditional mirologia (a *cyprus tree* will represent the deceased), and of 
 the physical spaces the main character haunts (the *ruined church*) to highlight the aging 
 and infirm priest himself (eg, '... *quaking dome*'). The rhyme scheme is A-B-C-D--D-C-B-A ....
