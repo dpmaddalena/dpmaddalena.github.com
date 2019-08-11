@@ -16,7 +16,6 @@ tags: [books, sacrament, heroes, sci-fi]
 *To understand a proverb and its interpretation; the words of the wise, and their dark sayings.*
 
 \
-\	
 
 Standing up from the single rush-covered chair, Arpaxos broke the chill silence with a sudden intake of breath. He took two quietly sibilant steps across the marble floor, in the direction of the apse. He stretched out his left hand toward the icon, stopping when he saw his dirt-stained fingers; in a grip of shame, he drew back. But why? This was no museum. No alarm would sound if he touched the art. In fact, there was little sign this room had benefited in 900 years from either curate or curator. The portrait was tilted a little too casually against the back of the chapel, where white plaster walls rose to a half-dome above a narrow, uneven shelf littered with spent matches, thin beeswax candles, and a crumpled plastic water bottle holding decanted oil for a makeshift lamp (once a tin of stuffed grape leaves). Leaning more carefully against the image were three tamata: a hand, a ship, and an eye. The hand and the eye, stamped from real silver, were tarnished and dull. Miracles had been done here. Or, had been looked for.
 
@@ -34,7 +33,6 @@ Awareness of the surroundings slowly came back to him ... of the small, barrel-v
 \
 Turning suddenly, he moved to leave. Stepping past the thin steel door, disappointment came upon him as it always did whenever he passed this threshold. Weakly, he sunk into the depression worn in the old marble step, and leaned wearily against the doorpost. His hands were clenched. What he wouldn't give to look into a living face, one not over-darkened by devotion.
 
-\
 
 
 [...]
