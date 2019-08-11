@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Isolation, a Sci-Fi Novella"
+title: "Isolation, a Sci-Fi Novelette"
 description: ""
 category: story
 tags: [books, sacrament, heroes, sci-fi]
@@ -15,7 +15,7 @@ tags: [books, sacrament, heroes, sci-fi]
 
 *To understand a proverb and its interpretation; the words of the wise, and their dark sayings.*
 
-\
+<p>&nbsp;</p>
 
 Standing up from the single rush-covered chair, Arpaxos broke the chill silence with a sudden intake of breath. He took two quietly sibilant steps across the marble floor, in the direction of the apse. He stretched out his left hand toward the icon, stopping when he saw his dirt-stained fingers; in a grip of shame, he drew back. But why? This was no museum. No alarm would sound if he touched the art. In fact, there was little sign this room had benefited in 900 years from either curate or curator. The portrait was tilted a little too casually against the back of the chapel, where white plaster walls rose to a half-dome above a narrow, uneven shelf littered with spent matches, thin beeswax candles, and a crumpled plastic water bottle holding decanted oil for a makeshift lamp (once a tin of stuffed grape leaves). Leaning more carefully against the image were three tamata: a hand, a ship, and an eye. The hand and the eye, stamped from real silver, were tarnished and dull. Miracles had been done here. Or, had been looked for.
 
@@ -25,12 +25,14 @@ As for the icon presiding over these petitions? It was no museum piece, but the 
 
 The faded images of saints on the walls had suffered more from the effects of time and her attendants--mildew, earthquakes, and vandals each had left their mark. Centuries before, the latter, in a brief campaign informed either by a deep reverence for the likenesses or fury at the mere act of representation (no one knew for sure), had taken all the eyes. Arpaxos did not like to look at the pictures on the walls. He came for the Christ, though he had not yet acknowledged the degree to which he avoided the gaze of that image as well. 
 
-\
+<p>&nbsp;</p>
+
 He remained, silent, unmoving, not willing to leave without making some contact with the icon. He settled on a more hygienic salute, lifting his right hand to mirror the sign the savior made. 
 
 Awareness of the surroundings slowly came back to him ... of the small, barrel-vaulted church, the wide barren slope surrounding it, and the cliffs above and below. The close echo of the mostly-empty room gave a tin-pot resonance to the sound of the sea that came in through two small windows (he was inside the seashell), and of the sharp wind that carved the impermanent rocks and brought ocean moisture to the hard grasses.
 
-\
+<p>&nbsp;</p>
+
 Turning suddenly, he moved to leave. Stepping past the thin steel door, disappointment came upon him as it always did whenever he passed this threshold. Weakly, he sunk into the depression worn in the old marble step, and leaned wearily against the doorpost. His hands were clenched. What he wouldn't give to look into a living face, one not over-darkened by devotion.
 
 
