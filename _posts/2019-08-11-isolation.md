@@ -43,6 +43,6 @@ Turning suddenly, he moved to leave. Stepping past the thin steel door, disappoi
 
 <p>&nbsp;</p>
 
-images ... *Church in Flower*, circa 1942, woodcut, by Spyros Vassiliou
+image ... *Church in Flower*, circa 1942, woodcut, by Spyros Vassiliou
 
 *[email](mailto:dpmaddalena@gmail.com?subject=isolation) for more information on this project.*
