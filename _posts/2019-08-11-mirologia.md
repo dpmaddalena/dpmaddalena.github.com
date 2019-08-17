@@ -5,7 +5,7 @@
 Mani is the barren and lonely landscape of the southwestern tip of the middle leg of the Peloponnesus, 
 Greece's western peninsula. It is the setting for [Isolation](http://www.imby.net/20190811/isolation), the second 
 novelette in the [Abrasion](http://www.imby.net/20170525/abrasion) series, which explores our 
-need for human contact, and the unique reasons why, for a couple of characters who are connected through a few thousand years of history,this need so often goes unmet.
+need for human connection, and the unique reasons why, for a couple of characters who share the stage at a critical moment in history, this need goes painfully unmet.
 
 I created this poem in the style of the mirologia, a mourning song for the dead unique to Mani, to appear 
 in a key character's written devotion to a old priest that took him in. The short poem contains a number of images from the 
