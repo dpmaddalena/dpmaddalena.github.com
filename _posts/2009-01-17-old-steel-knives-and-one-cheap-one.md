@@ -8,7 +8,7 @@ tags : [(low) tech writer]
 
 ![Knife](/assets/ltw/steelknife.jpg)
 
-I'm glad that the blades on my pocket knives (I've carried knives made by Leatherman and Swiss Army) are stainless steel, because they have to survive in the wet, in bags I carry while commuting, sometimes in the rain, or while otherwise roughing it. But in my home, I much prefer the non-stainless variety: some are folders [Opinels](http://en.wikipedia.org/wiki/Opinel_knife) from France), some straight bladed (flea-market beauties, as above). These blades are sharper, more flexible, and have considerably more character than any stainless blade. 
+I'm glad that the blades on my pocket knives (I've carried knives made by Leatherman and Swiss Army) are stainless steel, because they have to survive in the wet, in bags I carry while commuting, sometimes in the rain, or while otherwise roughing it. But in my home, I much prefer the non-stainless variety: some are folders ([Opinels](http://en.wikipedia.org/wiki/Opinel_knife) from France), some straight bladed (flea-market beauties, as above). These blades are sharper, more flexible, and have considerably more character than any stainless blade. 
 
 Stainless steel knives are ... stainless, and so keep their shiny look. Big deal. Stainless steel is either inexpensive and horrible (inflexible, nearly impossible to sharpen, and brittle), or stupid expensive. When kitchen geeks test knives and make recommendation purely on quality, it could cost you well over $150 (sometimes closer to 800) per knife to follow their advice. When they make recommendations for those on a budget, you can still expect to spend more than $50 on a decent knife (with a plastic handle). 
 
