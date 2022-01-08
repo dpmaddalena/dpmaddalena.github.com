@@ -6,8 +6,6 @@ category: story
 tags: [books, sacrament]
 ---
 
-## A Mirologia
-
 A song of the dead, from the Deep Mani
 
 *Mani is the barren and lonely landscape of the southwestern tip of the middle leg of the Peloponnesus, 
