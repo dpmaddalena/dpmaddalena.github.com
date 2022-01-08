@@ -27,13 +27,13 @@ tags: [books, sacrament, heroes, sci-fi]
 
  &nbsp; &nbsp; The faded pictures of saints on the walls were more sorely abused by time and its attendants -- mildew, earthquakes, and vandals each had left its mark. Centuries before, those vandals, in a brief campaign informed by deep reverence or deep hatred (no one knew for sure), had taken all the eyes. Arpaxos did not like to look at the pictures on the walls. He came for the Christ, though he had not yet acknowledged the degree to which he avoided the gaze of that one as well. 
 
- &nbsp; &nbsp; \
+ &nbsp; &nbsp;
 
  &nbsp; &nbsp; He remained silent, still, not willing to leave without making some contact with the image. He settled on a more hygienic salute: lifting his right hand to mirror the sign the Savior made. 
 
  &nbsp; &nbsp; Awareness of the surroundings slowly came back to him -- the small, barrel-vaulted church, the wide barren slope surrounding it, and the cliffs above and below. The close echo of the mostly empty room gave a tin-pot resonance to the sound of the sea that came in through two small windows, and to the sharp wind that carved the impermanent rocks and brought ocean moisture to the hard grasses. At one time, a seashell held this sound to the ear of a curious child; the man must have grown smaller than the boy, or the shell larger, that the adult and all his dreams could fit inside. 
 
- &nbsp; &nbsp; \
+ &nbsp; &nbsp;
 
  &nbsp; &nbsp; Turning suddenly, he moved to leave. Stepping past the thin steel door, disappointment came upon him as it always did whenever he crossed this threshold. Weakly, he sank into the depression worn in the old marble step, and leaned wearily against the doorpost. His hands were clenched. What he wouldn't give to look into a living face, one not over-darkened by devotion.
 
