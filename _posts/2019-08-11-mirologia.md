@@ -1,3 +1,11 @@
+---
+layout: post
+title: "A Miralogia"
+description: ""
+category: story
+tags: [books, sacrament]
+---
+
 ## A Mirologia
 
 A song of the dead, from the Deep Mani
