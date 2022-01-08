@@ -15,7 +15,7 @@ Abrasion *is a story about the last human being set thousands of years from now.
  
  ===
  
- ## Prologue
+<h3> Prologue
  
  &nbsp; &nbsp; When explorers of this latter age arrived at the western edge of the North American continent, followed quickly by conquistadors, missionaries, and miners of precious metals, they came as vanguard of the *manifest destiny* that would be embraced by a new nation eager for justification ... to circle the planet, claim it all for their cause, and leave nothing undiscovered. What these explorers could not see at the time (besides those peoples that already lived there) was that the frontier would never be conquered, could only be extended, and that the grandchildren of emigrants would never be allowed to rest. 
  
