@@ -8,7 +8,7 @@ tags : [(low) tech writer]
 
 ![image](/assets/ltw/triscuit.jpg)
 
-Behold the mighty Triscuit: Symbol of **Whole Food**. Mostly unchanged for 100 years. Ingredients: whole wheat, soybean oil, salt. Compare that to heavily processed, science-fair, "home-style" monstrosities like anything from Pepperidge Farm. I know ... delicious. But read the ingredients of their cookies with a Tylenol chaser. *Interesterified* Oil? Huh? Wow ... uh, how interest-ing. How terrify-ing.
+Behold the mighty Triscuit: Symbol of **Whole Food**. Mostly unchanged for 100 years. Ingredients: whole wheat, oil, salt. Compare that to heavily processed, science-fair, "home-style" monstrosities like anything from Pepperidge Farm. I know ... delicious. But read the ingredients of their cookies with a Tylenol chaser. *Interesterified* Oil? Huh? Wow ... uh, how interest-ing. How terrify-ing.
 
 Of course I recognize that Triscuits are a processed food: Triscuits don't occur in nature. At least with the Triscuit it's pretty easy to imagine the steps between harvest and your snack cabinet. And I'm ok with certain, low-tech processing: when we pull a fresh-baked loaf of bread out of the oven, we are eating a processed food. I don't have any qualms about saying that cooking technology improves on nature. After all, when God visited Abraham and Sarah, they didn't just pour a handful of wheat into the hands of the Holy One. They kneaded it into dough and baked fresh bread, and my guess is that God said something to the effect of "it was good". Fresh bread is a benefit of technology. If fire isn't a technology, then the oven that harnesses it to make bread is.
 
