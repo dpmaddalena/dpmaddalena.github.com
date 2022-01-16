@@ -15,4 +15,4 @@ I woke up one night stressing about this, thinking, "Oh, man, are we really goin
 
 So begins my experiment with the anti-tract. These projects reflect my ambivalence about this method of communicating faith. There is a healthy "anti" component here. But there is also some "pro" that surprised me a bit. I think this ambivalence will be clear in the self-consciousness of the pieces. Follow the link to see the works.
 
-View [Propaganda](http://sevendown.org/propaganda/)
+View [Propaganda](/public_html/images/propaganda/propaganda.pdf)
