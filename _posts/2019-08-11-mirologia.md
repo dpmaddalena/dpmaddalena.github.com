@@ -9,7 +9,7 @@ tags: [books, sacrament]
 A song for the dead, from the Deep Mani
 
 *Mani is the barren and lonely landscape at the southwestern tip of the middle leg of the Peloponnesus, 
-Greece's western peninsula, and the setting for [Isolation](http://www.imby.net/20190811/isolation). This second 
+Greece's great peninsula, and the setting for [Isolation](http://www.imby.net/20190811/isolation). This second 
 novelette in the [Abrasion](http://www.imby.net/20170525/abrasion) series explores our 
 need for human connection and the unique reasons why, for a couple of characters who share the stage at a critical moment in history, this need goes painfully unmet.*
 
