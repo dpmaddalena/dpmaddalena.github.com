@@ -6,18 +6,17 @@ category: story
 tags: [books, sacrament]
 ---
 
-A song of the dead, from the Deep Mani
+A song for the dead, from the Deep Mani
 
-*Mani is the barren and lonely landscape of the southwestern tip of the middle leg of the Peloponnesus, 
-Greece's western peninsula. It is the setting for [Isolation](http://www.imby.net/20190811/isolation), the second 
-novelette in the [Abrasion](http://www.imby.net/20170525/abrasion) series, which explores our 
-need for human connection, and the unique reasons why, for a couple of characters who share the stage at a critical moment in history, this need goes painfully unmet.*
+*Mani is the barren and lonely landscape at the southwestern tip of the middle leg of the Peloponnesus, 
+Greece's western peninsula, and the setting for [Isolation](http://www.imby.net/20190811/isolation). This second 
+novelette in the [Abrasion](http://www.imby.net/20170525/abrasion) series explores our 
+need for human connection and the unique reasons why, for a couple of characters who share the stage at a critical moment in history, this need goes painfully unmet.*
 
-*I created this poem in the style of the mirologia, a mourning song for the dead unique to Mani, to appear 
-in a key character's written devotion to a old priest that took him in. The short poem contains a number of images from the 
-greater story, drawing on imagery of the traditional mirologia (a *cyprus tree* will represent the deceased), and of 
-the physical spaces the main character haunts (the *ruined church*) to highlight the aging 
-and infirm priest himself (eg, '... *quaking dome*'). The rhyme scheme is A-B-C-D--D-C-B-A* ....
+*I created this poem in the style of the mirologia, a mourning song for the dead unique to Mani. It represents 
+a key character's devotion to a old priest that welcomed him when few others would have. The short poem contains a number of images from the 
+greater story and draws on imagery of the traditional mirologia (for example, a *cyprus tree* will often represent the deceased); the song also draws inspiration from the physical spaces the main character haunts (the *ruined church*) to highlight the aging 
+and infirm priest himself, with his *quaking dome*'. The rhyme scheme is A-B-C-D--D-C-B-A* ....
 
 <p>&nbsp;</p>
 
