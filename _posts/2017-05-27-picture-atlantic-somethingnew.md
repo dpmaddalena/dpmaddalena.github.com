@@ -5,7 +5,7 @@ category: video
 tags: [collage, music]
 ---
 
-Stage video for the [Picture Atlantic](http://www.pictureatlantic.com) tune *Something New*, debuted at PA's 2015 Halloween show. Video collage composed of HD video of the Sun from Nasa's archives and original content filmed by the artist. This video has a creeping meditative quality, a building tension, and good payoff at the end.
+Stage video for the [Picture Atlantic](http://www.pictureatlantic.com) tune *Something New*, debuted at PA's 2015 Halloween show. Video collage with some HD footage of our sun from NASA combined with original content (self-portrait filmed on an iPhone 5, if I rememeber correctly). This video has a creeping meditative quality, a building tension, and good payoff at the end.
 
 <p>&nbsp;</p>
 
