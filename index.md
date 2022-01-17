@@ -6,9 +6,9 @@ tagline: art with arms contending
 {% include JB/setup %}
 
 ## D.P. Maddalena *Works*
-Visit the [category page](http://www.imby.net/categories.html) for a roadmap. Travel through time below.
+Visit the [category page](http://www.imby.net/categories.html) for a roadmap; track [tags](http://www.imby.net/tags.html) to drill in; or travel through time below.
 
-**Featured**: View the [collected collages](http://www.imby.net/20140223/collected-collages) spanning 2005-2016; if you like your collage with more action, [video collages](http://www.imby.net/categories.html#video-ref) blend audio with video mashups&mdash;[At First The Words](20150801/first-the-words) blends clips from a certain popular 1930s animated film with music by Fol Chen; learn more about the creator at his [ego page](http://maddalena.imby.net). 
+**Featured visuals**: View the [collected collages](http://www.imby.net/20140223/collected-collages) spanning 2005-2016; if you like your collage with more action, [video collages](http://www.imby.net/categories.html#video-ref) blend audio with video mashups&mdash;[At First The Words](20150801/first-the-words) blends clips from a certain popular 1930s animated film with music by Fol Chen; learn more about what other things the creator [gets up to](http://maddalena.imby.net). 
 
 &nbsp;
 
