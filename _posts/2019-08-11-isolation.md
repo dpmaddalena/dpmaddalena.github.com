@@ -3,7 +3,7 @@ layout: post
 title: "Isolation, a Sci-Fi Novelette"
 description: ""
 category: story
-tags: [books, sacrament, heroes, sci-fi]
+tags: [books, sacrament, heroes, sci-fi, Echoes of a Future Truth]
 ---
 
 *Prologue of my sci-fi novelette, Isolation, second in the series that starts with [Abrasion](http://www.imby.net/20170525/abrasion), coming soon to print ...*
