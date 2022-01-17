@@ -3,7 +3,7 @@ layout: post
 title: "A Miralogia"
 description: ""
 category: story
-tags: [books, sacrament]
+tags: [books, sacrament, Echoes of a Future Truth]
 ---
 
 A song for the dead, from the Deep Mani
