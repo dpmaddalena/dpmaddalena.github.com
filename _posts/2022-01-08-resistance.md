@@ -6,10 +6,7 @@ category: story
 tags: [books, sacrament, computers, sci-fi, Echoes of a Future Truth]
 ---
 
-The prologue to *Resistance*, third story in my series formerly referred to by the title of the first, *Abrasion*, now under the working title, *Echoes of a Future Truth*. The series now includes *Abrasion*, *Isolation*, and *Resistance*. My goal is publication in 2022 -- as a single 3-part novel or in some form of serialized text or audio, or a combination of all of these.
-
-
-Abrasion *is a story about the last human being set thousands of years from now. It was written to stand alone, with no thought for further exploration of the world.* Isolation *also began as a unique project, but drew naturally from a similar place inside of me and so developed into an important meditation on the themes of the first story, ultimately taking its place as a prequel to* Abrasion. *Compared to the character-driven, contemplative qualities of the first two stories,* Resistance *might be described as a slow burning farce. This third story follows the present-day technicians who scramble to re-imagine human need and human provision before abandoning the last human being to her fate.*
+The prologue to *Resistance*, third story in my series now referred to under the working title, *Echoes of a Future Truth*. The collection includes *Abrasion*, *Isolation*, and *Resistance*, which takes place at the chronological beginning of the cycle, but is the last part of the trilogy.
 
  &nbsp; &nbsp;
  
