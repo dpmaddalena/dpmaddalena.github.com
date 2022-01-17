@@ -3,7 +3,7 @@ layout: post
 title: "Resistance"
 description: ""
 category: story
-tags: [books, sacrament, computers, sci-fi]
+tags: [books, sacrament, computers, sci-fi, Echoes of a Future Truth]
 ---
 
 The prologue to *Resistance*, third story in my series formerly referred to by the title of the first, *Abrasion*, now under the working title, *Echoes of a Future Truth*. The series now includes *Abrasion*, *Isolation*, and *Resistance*. My goal is publication in 2022 -- as a single 3-part novel or in some form of serialized text or audio, or a combination of all of these.
