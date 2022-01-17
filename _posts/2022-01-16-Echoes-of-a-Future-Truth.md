@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Echoes of a Future Truth"
