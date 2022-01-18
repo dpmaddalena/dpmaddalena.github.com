@@ -12,8 +12,8 @@ tags: [books, sacrament, computers, sci-fi, Echoes of a Future Truth]
 
  &nbsp; &nbsp;
  
- [Abrasion](http://www.imby.net/20170525/abrasion) 
+ [Abrasion](http://www.imby.net/20170525/abrasion) ... a selection from the first chapter
  
- [Isolation](http://www.imby.net/20190811/isolation)
+ [Isolation](http://www.imby.net/20190811/isolation) ... the prologue to the story
  
- [Resistance](http://www.imby.net/20220108/resistance)
+ [Resistance](http://www.imby.net/20220108/resistance) ... the prologue to the story
