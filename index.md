@@ -20,8 +20,8 @@ David Maddalena is a technologist by virtue of his location and occasional occup
       <p><a href='http://imby.net/images/galleries/collage-2016/'><img src='assets/15.jpg'></a></p>
       <p><strong>View</strong> <a href='http://www.imby.net/20140223/collected-collages'>collected collages</a> spanning 2005-2016. If you like your collage with more action, <a href='http://www.imby.net/categories.html#video-ref'>video collages</a> blend audio with video clips&mdash;<a href='20150801/first-the-words'>At First The Words</a> blends clips from a certain popular 1930s animated film with music by Fol Chen.</p>
       <p><a href='http://www.imby.net/categories.html#audio-ref'><img src='assets/15-x.jpg'></a></p>
-      <p><strong>Listen</strong> to <a href='http://www.imby.net/categories.html#audio-ref'>audio collages</a>, especially my poetic interpretation of a virtual assistant that interrupts your drive-time tunes with a little wisdom energy to give you <em>real</em> <a href='20140520/Starting-Directions-To'>directions</a>.</p>
-     <p> <strong>learn more</strong> about what other things the creator <a href='http://maddalena.imby.net'>gets up to</a>. </p>
+      <p><strong>Listen</strong> to <a href='http://www.imby.net/categories.html#audio-ref'>audio collages</a>, especially my poetic interpretation of a virtual assistant that interrupts your drive-time tunes with a little prophetic energy to give you <em><a href='20140520/Starting-Directions-To'>real directions</a>.</em></p>
+     <p> <strong>discover</strong> what other things the creator <a href='http://maddalena.imby.net'>gets up to</a>. </p>
       <p><a href='20140222/Collages-2013'><img src='assets/13.jpg'></a></p>
       <p><a href='20131212/heroes'><img src='assets/heroes.jpg'></a></p>
       <p><a href='20120606/collages-2012'><img src='assets/10-12.jpg'></a></p>
