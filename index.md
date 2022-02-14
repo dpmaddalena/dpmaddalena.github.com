@@ -20,9 +20,10 @@ David Maddalena is a technologist by virtue of his location and occasional occup
       <h2>Featured Visuals</h2> view <a href='http://www.imby.net/20140223/collected-collages'>collected collages</a> spanning 2005-2016; if you like your collage with more action, <a href='http://www.imby.net/categories.html#video-ref'>video collages</a> blend audio with video mashups&mdash;<a href='20150801/first-the-words'>At First The Words</a> blends clips from a certain popular 1930s animated film with music by Fol Chen ... <br />
       <h2>learn more</h2> about what other things the creator <a href='http://maddalena.imby.net'>gets up to</a>. 
     </td>
-    <td>
+
     <td width='10'>
     </td>
+    <td>
       <h2> p o s t s </h2>
 
 <ul class="posts">
