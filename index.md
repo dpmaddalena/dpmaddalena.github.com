@@ -6,7 +6,8 @@ tagline: art with arms contending
 {% include JB/setup %}
 
 ## D.P. Maddalena *Works*
-Visit the [category page](http://www.imby.net/categories.html) for a roadmap; track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
+
+David Maddalena is a technologist by virtue of his location and occasional occupation, and an artist in spirit and vocation; he works with pictures, paragraphs, and people. Visit the [category page](http://www.imby.net/categories.html) for a roadmap; track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
 
 
 
