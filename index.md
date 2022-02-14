@@ -21,7 +21,8 @@ David Maddalena is a technologist by virtue of his location and occasional occup
       <h2>learn more</h2> about what other things the creator <a href='http://maddalena.imby.net'>gets up to</a>. 
     </td>
     <td>
-      
+    <td width='10'>
+    </td>
       <h2> p o s t s </h2>
 
 <ul class="posts">
