@@ -14,10 +14,10 @@ Visit the [category page](http://www.imby.net/categories.html) for a roadmap; tr
 <table>
   <tr>
     <td width='150' valign='top'>
-    **Featured Recent Works** <br />
-      read [selections](http://www.imby.net/tags.html#Echoes%20of%20a%20Future%20Truth-ref) from my fiction project, *Echoes of a Future Truth* 
-      <br />**Featured Visuals** view [collected collages](http://www.imby.net/20140223/collected-collages) spanning 2005-2016; if you like your collage with more action, [video collages](http://www.imby.net/categories.html#video-ref) blend audio with video mashups&mdash;[At First The Words](20150801/first-the-words) blends clips from a certain popular 1930s animated film with music by Fol Chen ... 
-      <br />**learn more** about what other things the creator [gets up to](http://maddalena.imby.net). 
+      <strong>Featured Recent Works</strong> <br />
+      read <a href='http://www.imby.net/tags.html#Echoes%20of%20a%20Future%20Truth-ref'>selections</a> from my fiction project, <em>Echoes of a Future Truth</em><br />
+      <strong>Featured Visuals</strong> view <a href='http://www.imby.net/20140223/collected-collages'>collected collages</a> spanning 2005-2016; if you like your collage with more action, <a href='http://www.imby.net/categories.html#video-ref'>video collages</a> blend audio with video mashups&mdash;<a href='20150801/first-the-words'>At First The Words</a> blends clips from a certain popular 1930s animated film with music by Fol Chen ... 
+      <br />**learn more** about what other things the creator <a href='http://maddalena.imby.net'>gets up to</a>. 
     </td>
     <td>
       
