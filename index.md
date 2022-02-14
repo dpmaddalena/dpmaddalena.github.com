@@ -13,7 +13,7 @@ Visit the [category page](http://www.imby.net/categories.html) for a roadmap; tr
 &nbsp;
 <table>
   <tr>
-    <td width='150' valign='top'>
+    <td width='100' valign='top'>
       <strong>Featured Recent Works</strong> <br />
       read <a href='http://www.imby.net/tags.html#Echoes%20of%20a%20Future%20Truth-ref'>selections</a> from my fiction project, <em>Echoes of a Future Truth</em><br />
       <strong>Featured Visuals</strong> view <a href='http://www.imby.net/20140223/collected-collages'>collected collages</a> spanning 2005-2016; if you like your collage with more action, <a href='http://www.imby.net/categories.html#video-ref'>video collages</a> blend audio with video mashups&mdash;<a href='20150801/first-the-words'>At First The Words</a> blends clips from a certain popular 1930s animated film with music by Fol Chen ... <br />
