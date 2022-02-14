@@ -28,7 +28,6 @@ David Maddalena is a technologist by virtue of his location and occasional occup
      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
      {% endfor %}
       </ul>
-      
     </td>
   </tr>
  </table>
