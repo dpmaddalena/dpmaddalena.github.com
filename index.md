@@ -22,7 +22,7 @@ David Maddalena is a technologist by virtue of his location and occasional occup
     </td>
     
     <td>
-      <h2> p o s t s </h2>
+      p o s t s 
 
       <ul class="posts">
      {% for post in site.posts %}
