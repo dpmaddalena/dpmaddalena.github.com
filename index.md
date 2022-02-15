@@ -7,7 +7,7 @@ tagline: art with arms contending
 
 ## D.P. Maddalena *Works*
 
-David Maddalena is a technologist by virtue of his location and occasional occupation, and an artist in spirit and vocation; he works with pictures, paragraphs, and people. Visit the [category page](http://www.imby.net/categories.html) for a roadmap; track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
+I am a technologist by virtue of his location (Silicon Valley) and occasional occupation (former tech-industry writer, current licensed psychotherapist), and an artist in spirit and vocation (making visual and written art from the beginning); I work with pictures, paragraphs, and people. Visit the [category page](http://www.imby.net/categories.html) for a roadmap; track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
 
 &nbsp;
 
