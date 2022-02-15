@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resistance"
-description: ""
+description: "A speculative fiction novella"
 category: story
 tags: [books, sacrament, computers, sci-fi, Echoes of a Future Truth]
 ---
