@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Isolation, a Sci-Fi Novelette"
-description: ""
+title: "Isolation"
+description: "A speculative fiction novella"
 category: story
 tags: [books, sacrament, heroes, sci-fi, Echoes of a Future Truth]
 ---
