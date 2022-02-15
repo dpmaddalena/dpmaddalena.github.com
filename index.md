@@ -16,7 +16,7 @@ I am a technologist by virtue of location (Silicon Valley) and occasional occupa
     <td width='175' valign='top'>
       <h2>f e a t u r e d</h2>
       <p><a href='20220116/Echoes-of-a-Future-Truth'><img src='assets/eft.jpg'></a></p>
-      <p><strong>Read</strong> <a href='http://www.imby.net/tags.html#Echoes%20of%20a%20Future%20Truth-ref'>selections</a> from my fiction project, <em>Echoes of a Future Truth</em></p>
+      <p><strong>Read</strong> <a href='20220116/Echoes-of-a-Future-Truth'>selections</a> from my fiction project, <em>Echoes of a Future Truth</em></p>
       <p><a href='http://imby.net/images/galleries/collage-2016/'><img src='assets/15.jpg'></a></p>
       <p><strong>View</strong> <a href='http://www.imby.net/20140223/collected-collages'>collected collages</a> spanning 2005-2016. If you like your collage with more action, <a href='http://www.imby.net/categories.html#video-ref'>video collages</a> blend audio with video clips&mdash;<a href='20150801/first-the-words'>At First The Words</a> blends clips from a certain popular 1930s animated film with music by Fol Chen.</p>
       <p><a href='http://www.imby.net/categories.html#audio-ref'><img src='assets/15-x.jpg'></a></p>
