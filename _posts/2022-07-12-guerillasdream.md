@@ -7,7 +7,7 @@ tags: [books, sci-fi, heroes]
 
 This abandoned prologue to [Abrasion](http://www.imby.net/20170525/abrasion) was an attempt to provide an onramp to a story that starts suddenly and asks a lot of readers. I have friends who love dropping into the thoughts of my hero, and others desperate for some help approaching the story. In traditional fashion, I wrote a thing that I would love to have be a part of the story, and managed to frustrate both camps. I still think it has some power to it. I also think it makes no sense apart from the rest of the novel, but here it is as an amuse bouche. 
 
-<img src='/assets/beasts.jpg' width='600'> 
+<img src='/assets/beasts.jpg' width='500'> 
 
 ## The Guerilla's Dream
 
@@ -23,10 +23,11 @@ The woman was asleep, and dreaming.
  
 *Finally, out of desolation she would rise, one final time, high above the ruin, to take her place at the end of the dream as the Warrior Queen, at whose feet every remaining power would fall in humbled adoration.*
  
-\
+&nbsp; <br />
 
 This was the entire dream. This dream would be hidden from the watchers; and the woman herself would struggle to recall it when she woke. Whenever she slept a long time she dreamed the entire dream and every time the decision had been made to put the woman to sleep for a long time, the dream was always the same. And the duration of the dream was always the same: from the time the dream began to the time it ended, twenty-five years would pass. 
 
 
+&nbsp; <br />
 
 *Woodcut by Spyros Vassiliou, from around 1940-45*
