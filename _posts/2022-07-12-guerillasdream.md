@@ -9,8 +9,10 @@ This abandoned prologue to [Abrasion](http://www.imby.net/20170525/abrasion) was
 
 <img src='/assets/beasts.jpg' width='500'> 
 
+&nbsp; <br />
 ## The Guerilla's Dream
 
+&nbsp; <br />
 The woman was asleep, and dreaming.
 
 *In this dream, the woman was pregnant with a world. Inside her: an entire ecosystem, a vast expanse; steamy chaotic primordial jungle. And at the center of this embryonic garden, a single city surrounded by endless wilderness.* 
@@ -27,6 +29,8 @@ The woman was asleep, and dreaming.
 
 This was the entire dream. This dream would be hidden from the watchers; and the woman herself would struggle to recall it when she woke. Whenever she slept a long time she dreamed the entire dream and every time the decision had been made to put the woman to sleep for a long time, the dream was always the same. And the duration of the dream was always the same: from the time the dream began to the time it ended, twenty-five years would pass. 
 
+
+&nbsp; <br />
 
 &nbsp; <br />
 
