@@ -5,7 +5,7 @@ category: story
 tags: [books, sci-fi, heroes]
 ---
 
-This abandoned prologue to [Abrasion](http://www.imby.net/20170525/abrasion) was an attempt to provide an onramp to a story that starts suddenly and asks a lot of readers. I have friends who love dropping into the thoughts of my hero, and others desperate for some help approaching the story. In traditional fashion, I wrote a thing that I would love to have be a part of the story, and managed to frustrate both camps. I still think it has some power to it. I also think it makes no sense apart from the rest of the novel, but here it is as an amuse bouche. 
+This abandoned prologue to [Abrasion](http://www.imby.net/20170525/abrasion) was an attempt to provide an onramp to a story that starts suddenly and asks a lot of readers--the language is dense, rich, and poetic, and the story starts from the perspective of a woman afflicted with near impossible circumstances, and the mental health struggles to match. I have friends who love dropping into the narrative as is, and others desperate for some help approaching the story. In traditional fashion, I wrote a thing that I enjoy, and managed to frustrate both camps. I decided to leave Abrasion alone, and share this bit of writing here. I still think it has some power to it. I also think it makes no sense apart from the rest of the novel, but here it is as an amuse bouche. 
 
 <img src='/assets/beasts.jpg' width='500'> 
 
