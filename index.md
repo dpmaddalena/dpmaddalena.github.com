@@ -20,9 +20,9 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
       <p><strong>Read</strong> <a href='20220116/Echoes-of-a-Future-Truth'>selections</a> from my fiction project, <em>Echoes of a Future Truth</em></p>
       <p><a href='http://imby.net/images/galleries/collage-2016/'><img src='assets/15.jpg'></a></p>
       <p><strong>View</strong> <a href='http://www.imby.net/20140223/collected-collages'>collected collages</a> spanning 2005-2016. If you like your collage with more action, <a href='http://www.imby.net/categories.html#video-ref'>video collages</a> blend audio with video clips&mdash;<a href='20150801/first-the-words'>At First The Words</a> blends clips from a certain popular 1930s animated film with music by Fol Chen.</p>
-      <p><strong>My <a href="http://maddalenamft.com">Counseling psychotherapy</a> practice</strong></p>
-      <p><strong><a href="http://maddalena.vsco.co/">Earthprints</a>: nature breaks through</strong></p>
-      <p><strong>Father/daughter <a href="http://daveartzoe.wordpress.com/">rep-art-ee</a></strong></p>
+      <p>My <strong><a href="http://maddalenamft.com">Counseling psychotherapy</a> practice</strong></p>
+      <p><strong><a href="http://maddalena.vsco.co/">Earthprints</a></strong>: nature breaks through</p>
+      <p><strong>Father/daughter <a href="http://daveartzoe.wordpress.com/">rep-art-ee</a></strong>: Dave Art Zoe</p>
       <p><a href='http://www.imby.net/categories.html#audio-ref'><img src='assets/15-x.jpg'></a></p>
       <p><strong>Listen</strong> to <a href='http://www.imby.net/categories.html#audio-ref'>audio collages</a>, especially my interpretation of a virtual assistant that interrupts your drive-time tunes with a little prophetic energy to give you <em><a href='20140520/Starting-Directions-To'>some real directions</a>.</em></p>
        <p><a href='20140222/Collages-2013'><img src='assets/13.jpg'></a></p>
