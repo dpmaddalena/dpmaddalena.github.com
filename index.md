@@ -24,10 +24,8 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
       <p><a href="http://maddalena.vsco.co/">Earthprints</a></p>
       <p>Father/daughter <a href="http://daveartzoe.wordpress.com/">rep-art-ee</a></p>
       <p><a href='http://www.imby.net/categories.html#audio-ref'><img src='assets/15-x.jpg'></a></p>
-      <p><strong>Listen</strong> to <a href='http://www.imby.net/categories.html#audio-ref'>audio collages</a>, especially my poetic interpretation of a virtual assistant that interrupts your drive-time tunes with a little prophetic energy to give you <em><a href='20140520/Starting-Directions-To'>real directions</a>.</em></p>
-     <p> <strong>discover</strong> what other things the creator <a href='http://maddalena.imby.net'>gets up to</a>. </p>
-      
-      <p><a href='20140222/Collages-2013'><img src='assets/13.jpg'></a></p>
+      <p><strong>Listen</strong> to <a href='http://www.imby.net/categories.html#audio-ref'>audio collages</a>, especially my interpretation of a virtual assistant that interrupts your drive-time tunes with a little prophetic energy to give you <em><a href='20140520/Starting-Directions-To'>some real directions</a>.</em></p>
+       <p><a href='20140222/Collages-2013'><img src='assets/13.jpg'></a></p>
       <p><a href='20131212/heroes'><img src='assets/heroes.jpg'></a></p>
       <p><a href='20120606/collages-2012'><img src='assets/10-12.jpg'></a></p>
       <p><a href='20140221/collager-of-light'><img src='assets/14.jpg'></a></p>
