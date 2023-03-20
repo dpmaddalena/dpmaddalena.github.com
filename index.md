@@ -7,7 +7,8 @@ tagline: art with arms contending
 
 ## D.P. Maddalena *Works*
 
-I have a relatively technical outlook on things by virtue of upbringing (my father, physician and Naval aviator), location (Silicon Valley), and occasional occupation (former tech-industry writer, current licensed psychotherapist). I am a creative by virtue of upbringing (my mother the potter and dreamer), location (head in the clouds), and vocation (making visual and written art from the beginning). I work with pictures, paragraphs, and people. Visit the [category page](http://www.imby.net/categories.html) for a roadmap; track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
+I am a therapist, writer, poet, pastor, and artist; my medium is collage, which explains how I can
+piece all these parts together to make a life. I work with pictures, paragraphs, and people. Visit the [category page](http://www.imby.net/categories.html) for a roadmap; track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
 
 &nbsp;
 
