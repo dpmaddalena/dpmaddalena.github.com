@@ -5,7 +5,7 @@ description: ""
 category: story
 tags: [books, sacrament, computers, sci-fi, Echoes of a Future Truth]
 ---
-![](/assets/nightwatch.jpg)
+![](/assets/nightwatch.png)
                                                                             
 *Echoes of a Future Truth* is a novel-length story in three parts. The project began seven years ago at a time when I was teaching creative writing to San Jose kids to support my masters work in counseling psychology. More specifically, my story began during a shared exercise with a talented 13 year old who went from hating writing to *let's write a book* in a couple months time. Recognizing he was ready, I described how a long story grows from a single idea and gave him a prompt to find his seed-idea. He began to write, inventing his world. With nothing else to do for 90 minutes, I wrote alongside of him and was surprised to be inventing a compelling world of my own. Fast forward to today: I'm ready to publish the complete work this year -- as a single 3-part novel or in some form of serialized text or audio, or a combination of all of these.
 
