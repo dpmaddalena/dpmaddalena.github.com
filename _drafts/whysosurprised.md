@@ -1,3 +1,0 @@
-The Christ-like life is full of radical surprises that shouldn't surprise anyone. ... Like how scripture is built of a long series of radical surprises that are only surprising if you no longer believe any of what you read the day before. This is to say that God is full of predictable surprises.
-
-Hope almost takes the fun out of God's surprises. And this is to say, hope almost takes the surprise out of God's surprises. But it is so sweet when God does his thing, that even though we believed, we rejoice when we dig up the treasure we were pretty sure was there all along.
