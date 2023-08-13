@@ -6,7 +6,7 @@ category: story
 tags: [books, sacrament, heroes, sci-fi, Echoes of a Future Truth]
 ---
 
-*Prologue of my sci-fi novelette, Isolation, second in the series that starts with [Abrasion](http://www.imby.net/20170525/abrasion), coming soon to print ...*
+*Selection from the prologue of* Isolation, *Book Two of my as-yet-unpublished novel* [Echoes of a Future Truth](https://www.imby.net/20220116/Echoes-of-a-Future-Truth). 
 
 <p>&nbsp;</p>
 
