@@ -20,6 +20,6 @@ tags: [books, sacrament, computers, sci-fi, Echoes of a Future Truth]
 
  &nbsp; &nbsp;
 
- ![](/assets/eleutheria.jpg width="400")
+ ![](/assets/eleutheria.jpg)
 
  *Woodcut by Spyros Vasilliou, circa 1945*
