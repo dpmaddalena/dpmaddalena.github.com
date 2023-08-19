@@ -24,7 +24,7 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
       <p><strong><a href="https://vsco.co/maddalena/gallery">Earthprints</a></strong>: nature breaks through</p>
       <p>Father/daughter rep-art-ee: <strong><a href="http://daveartzoe.wordpress.com/">Dave Art Zoe</a></strong></p>
       <p><a href='http://www.imby.net/categories.html#audio-ref'><img src='assets/15-x.jpg'></a></p>
-      <p><strong>Listen</strong> to <a href='http://www.imby.net/categories.html#audio-ref'>audio collages</a>, especially my interpretation of a virtual assistant that interrupts your drive-time tunes with a little prophetic energy to give you <em><a href='20140520/Starting-Directions-To'>some real directions</a>.</em></p>
+      <p><strong>Listen</strong> to <a href='http://www.imby.net/categories.html#audio-ref'>audio collages</a>, especially my take on a virtual assistant that interrupts your drive-time tunes with a little prophetic energy to give you <em><a href='20140520/Starting-Directions-To'>some real directions</a>.</em></p>
        <p><a href='20140222/Collages-2013'><img src='assets/13.jpg'></a></p>
       <p><a href='20131212/heroes'><img src='assets/heroes.jpg'></a></p>
       <p><a href='20120606/collages-2012'><img src='assets/10-12.jpg'></a></p>
