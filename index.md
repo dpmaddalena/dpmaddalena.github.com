@@ -19,10 +19,10 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
       <p><a href='https://cottonbureau.com/people/maddalena-collage'>Collage Art on T-Shirts</a></p>
       <p><a href='https://cottonbureau.com/people/maddalena-collage'><img src='assets/fixit-shirt.jpg'></a></p>
       <p><a href='https://cottonbureau.com/people/maddalena-collage'><img src='assets/cuttle-shirt.jpg'></a></p>
-      <p><strong>Read</strong> <a href='20220116/Echoes-of-a-Future-Truth'>selections</a> from my fiction project, <em>Echoes of a Future Truth</em></p>
+     <p><strong>View</strong> <a href='https://www.dpmaddalena.com/20140223/collected-collages'>collected collages</a> spanning 2005-2016. If you like your collage with more action, <a href='https://www.dpmaddalena.com/categories.html#video-ref'>video collages</a> blend audio with video clips&mdash;<a href='20150801/first-the-words'>At First The Words</a> blends clips from a certain popular 1930s animated film with music by Fol Chen.</p>
+            <p><strong>Read</strong> <a href='20220116/Echoes-of-a-Future-Truth'>selections</a> from my fiction project, <em>Echoes of a Future Truth</em></p>
       <p><a href='20220116/Echoes-of-a-Future-Truth'><img src='assets/eft.jpg'></a></p>
-      <p><strong>View</strong> <a href='https://www.dpmaddalena.com/20140223/collected-collages'>collected collages</a> spanning 2005-2016. If you like your collage with more action, <a href='https://www.dpmaddalena.com/categories.html#video-ref'>video collages</a> blend audio with video clips&mdash;<a href='20150801/first-the-words'>At First The Words</a> blends clips from a certain popular 1930s animated film with music by Fol Chen.</p>
-      <p><a href='https://www.dpmaddalena.com/images/galleries/collage-2016/'><img src='assets/15.jpg'></a></p>
+      <p><a href='https://www.imby.net/images/galleries/collage-2016/'><img src='assets/15.jpg'></a></p>
       <p><strong><a href="https://vsco.co/maddalena/gallery">Earthprints</a></strong>: nature breaks through</p>
       <p>Father/daughter rep-art-ee: <strong><a href="http://daveartzoe.wordpress.com/">Dave Art Zoe</a></strong></p>
       <p>My <strong><a href="http://maddalenamft.com">Counseling psychotherapy</a></strong> practice</p>
