@@ -8,7 +8,7 @@ tagline: art with arms contending
 ## *Works*
 
 I am a therapist, writer, poet, pastor, and artist; regarding the latter, my medium is collage, which explains how I can
-piece all these parts together to make a life. I work with pictures, paragraphs, and people. Visit the [category page](http://www.imby.net/categories.html) for a roadmap; track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
+piece all these parts together to make a life. I work with pictures, paragraphs, and people. Track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
 
 &nbsp;
 
