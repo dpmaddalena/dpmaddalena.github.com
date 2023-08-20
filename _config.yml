@@ -8,12 +8,12 @@ pygments: false
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : D.P. Maddalena
-tagline: art, authering, aha
-author : D.P. Maddalena
-  name : D.P. Maddalena
-  email : dpmaddalena@pm.me
-  github : dpmaddalena
+title : 
+tagline: 
+author : 
+  name : 
+  email : 
+  github : 
   
 
 # The production_url is only used when full-domain names are needed
