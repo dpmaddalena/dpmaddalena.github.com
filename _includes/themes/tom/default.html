@@ -23,7 +23,7 @@
     <p>&nbsp;</p>
     <div class="title">
       <a href="{{ HOME_PATH }}">{{ site.title }}</a>
-      <a class="extra" href="{{ BASE_PATH }}{{ site.JB.categories_path }}">Categories</a>
+      <!--a class="extra" href="{{ BASE_PATH }}{{ site.JB.categories_path }}">Categories</a-->
       <a class="extra" href="{{ BASE_PATH }}{{ site.JB.tags_path }}">Tags</a>
       <a class="extra" href="https://cottonbureau.com/people/maddalena-collage">Shop</a>
       <a class="extra" href="https://blog.dpmaddalena.com">Social</a>
@@ -36,12 +36,8 @@
         <p>
           {{ site.author.name }}
           {{ site.tagline }} 
-        </p>
-      </div>
-      <div class="contact">
-        <p>
-          <a href='mailto:{{ site.author.email }}'>{{ site.author.email }}</a><!--br />
-          <a href="http://github.com/{{ site.author.github }}/">github.com/{{ site.author.github }}</a><br /-->
+          <a href='mailto:{{ site.author.email }}'>{{ site.author.email }}</a>
+		
         </p>
       </div>
       <!--div class="rss">
