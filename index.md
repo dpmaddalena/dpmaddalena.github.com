@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D.P. Maddalena :: Art, Authoring, Aha
+title: I M B Y
 tagline: art with arms contending
 ---
 {% include JB/setup %}
