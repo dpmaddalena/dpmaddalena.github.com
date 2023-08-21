@@ -5,10 +5,6 @@ tagline: Art, Authoring, Aha
 ---
 {% include JB/setup %}
 
-## *Works*
-
-I am a therapist, writer, poet, pastor, and artist; regarding the latter, my medium is collage, which explains how I can
-piece all these parts together to make a life. I work with pictures, paragraphs, and people. Track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
 
 &nbsp;
 
@@ -35,13 +31,13 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
     
     </td>
     <td>
-      <h2>&nbsp; &nbsp; &nbsp; p o s t s</h2> 
+      <h2>&nbsp; &nbsp; About D.P. Maddalena </h2> 
 
-      <ul class="posts">
-     {% for post in site.posts %}
-     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-     {% endfor %}
-      </ul>
+<p> 
+I am a therapist, writer, poet, pastor, and artist; regarding the latter, my medium is collage, which explains how I can
+piece all these parts together to make a life. I work with pictures, paragraphs, and people. Track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
+</p>
+
     </td>
   </tr>
  </table>
