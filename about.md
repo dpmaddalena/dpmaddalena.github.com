@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D.P. Maddalena
+title: D.P. Maddalena: About
 tagline: Art, Authoring, Aha
 ---
 {% include JB/setup %}
