@@ -5,7 +5,7 @@ tagline: Art, Authoring, Aha
 ---
 {% include JB/setup %}
 
-## About D.P. Maddalena
+## *About D.P. Maddalena*
 
  
 I am a therapist, writer, poet, pastor, and artist; regarding the latter, my medium is collage, which explains how I can
