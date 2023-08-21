@@ -6,6 +6,10 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
+*[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
+
+
+
 I've been scratching my head trying to figure out what exactly it is I smell, on my weekly evening bike commute. At least once a week I ride to an evening meeting on two wheels: I choose the bike over the car even when it's cold, dark, and rainy because I love riding through the chill. One longstanding blessing of winter riding has been the smell of wood fires. Not any more. I've written eulogies to [natural wood fires](https://www.dpmaddalena.com/20090318/water-and-fire), now increasingly frowned upon. I live in an area with lots of auto and industrial smog, a not coincidentally high rate of breathing problems, and therefore a high sensitivity to politically-correct burn behavior. I understand the need to put less smoke and stuff in the air, but I just can't be happy about the "green" solutions (gas barbecues, gas heaters), when they require the burning of petrochemicals to address an air quality problem caused primarily by the burning of petrochemicals.
 
 Today, as I pedal around my town, I smell the wet rotting leaves (that's one of the *good* smells), yummy dinners of different ethnicities, and now, with increasing regularity, I smell *burning wax*. It took me a few nights out before I realized what it was. I mean I knew I was smelling burning wax, but I couldn't figure out why I smelled it so powerfully on the street, and over and over. Then I got it. DuraFlame. I'm smelling fake fireplace logs made from sawdust and wax.

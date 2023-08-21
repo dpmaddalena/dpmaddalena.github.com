@@ -6,6 +6,10 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
+*[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
+
+
+
 Before it is too late, I'd like to give a little love to the light bulb, old school edition. I'm not talking about the kind filled with toxic gas that glows cold and white when excited by electricity. I'm talking about the real deal: the inefficient, endangered, incandescent, campfire in a bottle. So, a toast: here's to getting our light *from fire.* End of an era. ... Here's to the scientists who captured fire in a glass prison, and here's to Thomas Edison who perfected the technique, enabling the fire to burn without burning out, by robbing it of oxygen. Brilliant madman.
 
 [![light from fire](/assets/ltw/lightbulb.JPG)](/assets/ltw/lightbulbbg.JPG)

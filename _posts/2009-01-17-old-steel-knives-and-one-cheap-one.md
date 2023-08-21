@@ -6,6 +6,10 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
+*[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
+
+
+
 ![Knife](/assets/ltw/steelknife.jpg)
 
 I'm glad that the blades on my pocket knives (I've carried knives made by Leatherman and Swiss Army) are stainless steel, because they have to survive in the wet, in bags I carry while commuting, sometimes in the rain, or while otherwise roughing it. But in my home, I much prefer the non-stainless variety: some are folders ([Opinels](http://en.wikipedia.org/wiki/Opinel_knife) from France), some straight bladed (flea-market beauties, as above). These blades are sharper, more flexible, and have considerably more character than any stainless blade. 

@@ -6,6 +6,10 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
+*[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
+
+
+
 ![Another Beautiful Knife](/assets/ltw/opinel.jpg)
 
 It doesn't have any special technology for quick deployment of the blade when under attack from a mountain lion, nor does it have a fiberglass-reinforced nylon handle. It will never be featured on the late-night knife collectors show on the Home Shopping Channel (where *Rambo* meets *samurai* meets *ninja*). 

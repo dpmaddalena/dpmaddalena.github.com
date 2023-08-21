@@ -6,6 +6,10 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
+*[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
+
+
+
 ![Wallet](/assets/ltw/walleto.jpg)
 
 This is my wallet. There's not much to it, so there's not much to say about it except ... that two pockets are enough and it has no plastic card holders to get old and cracked, no Velcro to startle librarians when you open it to take out your library card (and ultimately to get fuzzy and useless), and no strange and expensive hide (eel? Snake? Ostrich?). The leather of *my* wallet (cow butt, I'm sure) is so thick and wonderful, it will never crack and fray like the thin and delicate stuff that men's wallets are usually made out of. If it's not clear from the pics, the pockets are only accessible when it is opened past 180 degrees: nothing ever falls out, even when it's lying open and flat.

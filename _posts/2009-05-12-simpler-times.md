@@ -7,6 +7,10 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
+*[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
+
+
+
 I found an old copy of Thomas Kinkade's *Simpler Times* on my daughter's bookshelf, which I promptly re-claimed for collages. She didn't mind: neither of us had ever really read it. The book had been sent to me more than a decade ago when I took a writing job for Media Arts Group, the company that sells Kinkade's pictures. In fact, I poked around on thomaskinkade.com a bit and found the plein-air paintings that I had written about years ago. My words are still there, signed by the Painter of Light himself. You could read my old masterpieces of copywriting if you knew where to look. ... I'm not talking. 
  
 The book, Simpler Times, and the art that fills it, is all about a return to some kind of good-old-days: stone cottages, warm firelight, cozy villages, and gas-lit streets. This is all elaborated in the book as the opposite of *noisy, media-filled, task-list-crazed individualism*. Had Kinkade and his co-author written the book today, I assume blog-writing and -reading, and other webby activities wouldn't qualify as simple-time either. Who would buy a Thomas Kinkade painting of an apartment window glowing with the unearthly fluorescent blue of computer screens? The Painter of Light, 2.0! 

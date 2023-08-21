@@ -6,6 +6,10 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
+*[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
+
+
+
 Los Altos Typewriter, *local low-tech shrine*.
 
 Within walking distance of my house, and central to the [region](http://en.wikipedia.org/wiki/Silicon_Valley#Notable_companies) where the personal computer was born and raised, exists a small oasis for those who enjoy old--and lasting--technology: **Los Altos Business Machines & Printer Repair**, formerly (and more importantly) known as *Los Altos Typewriter and Business Machines*. In the shop's original name, "business machines" does not refer generically to coffee makers and copy machines, but to the venerable International Business Machines (IBM), maker of the amazing [Selectric](http://en.wikipedia.org/wiki/IBM_Selectric_typewriter) typewriter, one of several kinds you can still find at the shop on the corner of State and 2nd in Los Altos.

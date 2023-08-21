@@ -7,6 +7,10 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
+*[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
+
+
+
 ###General's Semi-Hex 498 2 2/4 - Reasons Why, #1
 
 An attempt to begin to explain why these things matter to me. I'll call it Reasons Why #1 because I know I won't get it right the first time, but I'm content to try.  

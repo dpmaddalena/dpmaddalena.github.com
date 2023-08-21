@@ -6,6 +6,10 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
+*[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
+
+
+
 ![Water!](/assets/ltw/crystalsprings.jpg)
 
 Crystal Springs Reservoir is an artificial lake that sits on the San Andreas Fault between San Francisco and San Jose. It is one of the more beautiful reservoirs I know of, and there are lots of pretty views along the lake. Nevertheless, you've got to work hard to snap a picture that doesn't show barbed wire between the camera and the water. 
