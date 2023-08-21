@@ -6,7 +6,7 @@ tags : [(low) tech writer]
 ---
 [![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
 
-In my [last post](https://www.dpmaddalena.com/20120924/half-foods/), I wrote about the weird world of "half products", processed food pellets that are not edible until expansion by microwaving, or some other process. After reflecting on what makes a product natural, or whole, I had another chance to analyze the claims of a "multi-grain" product. Today, to my great surprise, I opened our cereal cabinet to find a box of Froot Loops. The cabinet had never behaved in this way before. The cabinet usually contains boxes with names like "Soy and Flax Clusters", a product more appropriate to a house where 40-somethings will eat, without question, whatever they find in the cabinet.
+In my [last post](https://www.dpmaddalena.com/20120924/half-foods), I wrote about the weird world of "half products", processed food pellets that are not edible until expansion by microwaving, or some other process. After reflecting on what makes a product natural, or whole, I had another chance to analyze the claims of a "multi-grain" product. Today, to my great surprise, I opened our cereal cabinet to find a box of Froot Loops. The cabinet had never behaved in this way before. The cabinet usually contains boxes with names like "Soy and Flax Clusters", a product more appropriate to a house where 40-somethings will eat, without question, whatever they find in the cabinet.
 
 ![image](/assets/ltw/loops.jpg)
 

@@ -12,7 +12,7 @@ There are beautiful, repeating patterns in nature--think whirlpools, fiddleheads
 
 But beauty breaks through, the patterns repeat, and reassert themselves. In the cracks you can see along streets and sidewalks, there is a synthesis at work; of a more powerful grace of redemption, even in the clash between natural and artificial.
 
-I call these revelations, where I find them, Earthprints: they are '[like a fingerprint /escaped the glove /the burglar wore to hide it](https://www.dpmaddalena.com/20140125/earthprints)'. Where I find them is often scarred in the concrete that hides the ancient wilderness under my town. 
+I call these revelations, where I find them, Earthprints. They are '[like a fingerprint /escaped the glove /the burglar wore to hide it](https://www.dpmaddalena.com/20140125/earthprints)'. Where I find them is often scarred in the concrete that hides the ancient wilderness under my town. 
 
 When the natural meets the artificial, when thesis meets antithesis, sometimes a synthesis emerges, a new story.
 
