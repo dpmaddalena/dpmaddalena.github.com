@@ -17,6 +17,10 @@ tagline: Art, Authoring, Aha
 
 ## *Video*
 
+
+<a href='20150801/first-the-words'>At First The Words</a> blends clips from a certain popular 1930s animated film with music by Fol Chen
+
+
 &nbsp;
 
 - <a href="/20170527/picture-atlantic-somethingnew">Video Collage: Something New</a>
