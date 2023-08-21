@@ -5,7 +5,7 @@ category: store
 tags: [collage, clothing]
 ---
 
-## Collage designs on shirts, at the Cotton Bureau
+## Wearable Art, at The Cotton Bureau
 
 &nbsp; <br />
 
