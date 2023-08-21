@@ -8,12 +8,12 @@ tagline: Art, Authoring, Aha
 
 &nbsp;
 
-      <h2>About D.P. Maddalena </h2> 
+##About D.P. Maddalena
 
-<p> 
+ 
 I am a therapist, writer, poet, pastor, and artist; regarding the latter, my medium is collage, which explains how I can
 piece all these parts together to make a life. I work with pictures, paragraphs, and people. Track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
-</p>
+
 
       <h2>f e a t u r e d</h2>
       <p><a href='https://cottonbureau.com/people/maddalena-collage'>Collage Art on T-Shirts</a></p>
