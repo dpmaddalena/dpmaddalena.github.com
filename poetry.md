@@ -6,6 +6,7 @@ title: Poetry
 
 ## *Poetry*
 
+&nbsp;
 
 - <a href="/20160725/2016-Haiku">2016 Haiku</a>
 - <a href="/20141217/people-scale">People Scale</a>

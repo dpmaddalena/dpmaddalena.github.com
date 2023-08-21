@@ -5,15 +5,20 @@ tagline: Art, Authoring, Aha
 ---
 {% include JB/setup %}
 
-## Audio
+## *Audio*
 
+&nbsp;
 
 - <a href="/20150608/reaching-out">Audio Collage: Reaching Out</a>
 - <a href="/20140520/Starting-Directions-To">Audio Collage: Starting Directions To</a>
 
 
-## Video
- 
+&nbsp;
+
+## *Video*
+
+&nbsp;
+
 - <a href="/20170527/picture-atlantic-somethingnew">Video Collage: Something New</a>
 - <a href="/20170520/lost-world">Video Collage: Lost World</a>
 - <a href="/20160829/some-hope">Video Collage: Something of The Hope</a>
