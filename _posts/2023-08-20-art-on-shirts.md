@@ -5,7 +5,7 @@ category: store
 tags: [collage, clothing]
 ---
 
-## Wearable Art, at The Cotton Bureau
+## Wearable Art at The Cotton Bureau
 
 &nbsp; <br />
 
