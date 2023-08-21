@@ -25,4 +25,4 @@ Making kid-simple things like this out of natural materials gives me lots of ple
 Here's a pen/pencil holder I made from the same scrap of leather. We disassembled an ancient, worn out shoulder bag my wife had gotten at the Monastiraki market in Athens when she was a kid (she grew up there). These bags, when new, are usually stiff and faded, pale and dry from hanging in the traditional leatherworker's shop year after year--they have not been treated, oiled, or otherwise preserved. When you first get one of these bags and empty a whole bottle of neatsfoot oil on it, it looks like you've poured water on desert clay. But once it's been oiled a few times, the thing takes on the rich and deeply beautiful quality of fine leather. Which is what it is.
 
  
-It's filled with good tools of the [low-tech variety](http://www.imby.net/20090107/generals-semi-hex/).
+It's filled with good tools of the [low-tech variety](https://www.dpmaddalena.com/20090107/generals-semi-hex/).

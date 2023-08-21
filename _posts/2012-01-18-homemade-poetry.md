@@ -5,7 +5,7 @@ category: poetry
 tags: [books]
 
 ---
-Of course you can read all my poetry on <a href="http://www.imby.net/categories.html#poetry-ref">this blog</a>, but why would you want to do that, when you can have this cool handmade book delivered to your door for reading whenever you want, even when the power goes out?
+Of course you can read all my poetry on <a href="https://www.dpmaddalena.com/categories.html#poetry-ref">this blog</a>, but why would you want to do that, when you can have this cool handmade book delivered to your door for reading whenever you want, even when the power goes out?
 
 ![woodcut workshop](/assets/workshop.jpg)
 
