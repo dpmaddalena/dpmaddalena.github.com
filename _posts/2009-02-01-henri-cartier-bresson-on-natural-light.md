@@ -7,7 +7,7 @@ tags : [(low) tech writer]
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 *[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
-
+&nbsp;
 
 
 On respecting the natural state of things, by legendary photographer [Henri Cartier-Bresson](http://en.wikipedia.org/wiki/Cartier-bresson): "It is essential, therefore, to approach the subject on tiptoe - even if the subject is a still-life. A velvet hand, a hawk's eye - these we should all have. ... And no photographs taken with the aid of flash-light either, if only out of respect of the natural light - even when there isn't any of it. Unless a photographer observes such conditions as these, he may become an intolerably aggressive character."

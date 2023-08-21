@@ -7,7 +7,7 @@ tags : [(low) tech writer]
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 *[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
-
+&nbsp;
 
 
 We live in a world where hiking-boot manufacturers have been compelled by some misguided sense of environmental responsibility to sell *low impact* tread on their boots, as if walking on a dirt trail with boots might hurt mother earth. Worrying about the erosion that walkers cause in the wilderness strikes me as wasting good environmental energy on a non-issue. So: you buy your gear, made in a developing country by poor labor (or worse, child labor), drive all day to the mountains in your V-8 SUV, leaving a trail of to-go cups behind you, and then, because you are **environmentally sensitive**, you try to not leave footprints on the trail. The *dirt* trail. Like every dirt trail that humankind has been walking on since the dawn of time .... sheesh, since every wild animal in the world has been walking on since the dawn of time. Should we go barefoot? Maybe Bighorn Sheep should wear booties to minimize the impact of their mountain climbing? Maybe packhorses should be shod in Crocs?

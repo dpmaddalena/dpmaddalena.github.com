@@ -8,7 +8,7 @@ tags : [(low) tech writer]
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 *[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
-
+&nbsp;
 
 
 ###General's Semi-Hex 498 2 2/4 - Reasons Why, #1

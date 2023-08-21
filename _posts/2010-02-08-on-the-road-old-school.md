@@ -7,7 +7,7 @@ tags : [(low) tech writer]
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 *[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
-
+&nbsp;
 
 
 [![Road Trip](/assets/ltw/Michael1959.jpg)](/assets/ltw/Michael1959bg.jpg)

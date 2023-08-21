@@ -7,7 +7,7 @@ tags : [(low) tech writer]
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 *[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
-
+&nbsp;
 
 
 Remember when new jeans came in one style and that style was "new"? (What an OLD man thing to say.) I can remember weeks of chafing and mailing tube stiffness when breaking in a new pair of jeans--only slightly less painful than breaking in a [new pair of leather hiking boots](https://www.dpmaddalena.com/20090123/dirt-trail-you-walk-on-it). And when you'd really worked those denims for a good long time (like, years), they acquired a beautiful, velvety-soft, sky-blue, wonderfulness. Today, thanks to the wonder of whatever dark magic happens in jean factories, we never have to break in clothes again. 

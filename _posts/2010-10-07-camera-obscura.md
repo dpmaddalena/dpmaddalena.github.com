@@ -7,7 +7,7 @@ tags : [(low) tech writer]
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 *[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
-
+&nbsp;
 
 
 I love the West Coast. It is among the oldest coastlines in the world, and it looks it. This impression is confirmed with a look at maps of the way the continents have drifted, tumbled and collided around the globe over millions of years: the west coast of North America has always been pointed *out*, facing the huge expanse of the Pacific Ocean. In light if this, it seems to make a kind of poetic sense that the West Coast was the symbolic goal of the Manifest Destiny, the prize in the drive to conquer the North American continent and the frontier. I've always had this sense that the history of technology in California and the West was just an extension of the migratory drive westward of the American pioneers. The Pilgrims and their heirs achieved their Manifest Destiny, and the land has been conquered, for better or for worse. But now, with all the land gobbled up, what do we do with our insatiable drive to discover, to conquer? We keep going.

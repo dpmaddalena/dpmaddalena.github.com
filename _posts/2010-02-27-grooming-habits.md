@@ -7,7 +7,7 @@ tags : [(low) tech writer]
 [![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 *[These essays are now also available in book form, printed on real paper](http://bit.ly/lowtechwriter)*
-
+&nbsp;
 
 
 I don't hate innovation. But I do hate innovation that has been driven by the desire to sell more crap and not by the needs of human beings. Proctor & Gamble, one of America's largest advertisers (and that is saying something), is a company that markets and sells such commodity products as toothbrushes and shaving razors. In the early 90s advertising book, *Where the Suckers Moon*, Randall Rothenberg describes Proctor & Gamble as "... the corporation that pioneered the selling of mass products to mass audiences through mass media" and that has an "expertise at moving undifferentiated commodity products unmatched by any other marketer." In order to continue to grow, companies like P&G need to continue to "innovate". That means ... get you to buy a "new and improved" thing, even where the existing product does a fine job of cleaning your teeth, or whatever. With Proctor & Gamble and other consumer goods companies, every day in this great country is a day for *revolutionary product design.*
