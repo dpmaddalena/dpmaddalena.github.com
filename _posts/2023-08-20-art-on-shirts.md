@@ -13,4 +13,4 @@ My favorite [collages](20140223/collected-collages) happen when a couple simple 
 
 Now at the [Cotton Bureau](https://cottonbureau.com/people/maddalena-collage), nine of my collages, each available in select colors and styles. These may not be available for ever; I may rotate other designs through after a period of availability. 
 
-[![tshirt store at Cotton Bureau](assets/store.jpg)](https://cottonbureau.com/people/maddalena-collage)
+[![](/assets/store.jpg)](https://cottonbureau.com/people/maddalena-collage)
