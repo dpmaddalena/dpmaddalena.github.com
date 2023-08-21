@@ -8,9 +8,13 @@ tagline: Art, Authoring, Aha
 
 &nbsp;
 
-<table cellpadding='5'>
-  <tr>
-    <td width='175' valign='top'>
+      <h2>About D.P. Maddalena </h2> 
+
+<p> 
+I am a therapist, writer, poet, pastor, and artist; regarding the latter, my medium is collage, which explains how I can
+piece all these parts together to make a life. I work with pictures, paragraphs, and people. Track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
+</p>
+
       <h2>f e a t u r e d</h2>
       <p><a href='https://cottonbureau.com/people/maddalena-collage'>Collage Art on T-Shirts</a></p>
       <p><a href='https://cottonbureau.com/people/maddalena-collage'><img src='assets/cuttle-shirt.jpg'></a></p>
@@ -29,16 +33,5 @@ tagline: Art, Authoring, Aha
       <p><a href='20140221/collager-of-light'><img src='assets/14.jpg'></a></p>
      
     
-    </td>
-    <td>
-      <h2>&nbsp; &nbsp; About D.P. Maddalena </h2> 
 
-<p> 
-I am a therapist, writer, poet, pastor, and artist; regarding the latter, my medium is collage, which explains how I can
-piece all these parts together to make a life. I work with pictures, paragraphs, and people. Track [tags](http://www.imby.net/tags.html) to drill down; or travel through time below.
-</p>
-
-    </td>
-  </tr>
- </table>
 
