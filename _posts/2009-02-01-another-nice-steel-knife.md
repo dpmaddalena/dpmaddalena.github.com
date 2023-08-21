@@ -4,7 +4,7 @@ title: "Another Nice Steel Knife"
 category : essay
 tags : [(low) tech writer]
 ---
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
+[![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 ![Another Beautiful Knife](/assets/ltw/opinel.jpg)
 

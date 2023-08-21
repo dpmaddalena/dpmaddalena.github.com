@@ -4,7 +4,7 @@ title: "When Printing Left an Impression"
 category : essay
 tags : [(low) tech writer]
 ---
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
+[![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 Los Altos Typewriter, *local low-tech shrine*.
 

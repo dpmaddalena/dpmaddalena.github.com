@@ -4,7 +4,7 @@ title: "Doesn't Take Long to Get Away"
 category : essay
 tags : [(low) tech writer]
 ---
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
+[![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 [![A Thousand Words](/assets/ltw/athousandwords.jpg)](/assets/ltw/athousandwordsbg.jpg)
 

@@ -4,7 +4,7 @@ title: "On the Road, Old School"
 category : essay
 tags : [(low) tech writer]
 ---
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
+[![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 [![Road Trip](/assets/ltw/Michael1959.jpg)](/assets/ltw/Michael1959bg.jpg)
 

@@ -4,7 +4,7 @@ title: "Half Foods"
 category : essay
 tags : [(low) tech writer]
 ---
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
+[![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 ![image](/assets/ltw/triscuit.jpg)
 

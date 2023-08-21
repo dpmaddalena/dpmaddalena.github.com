@@ -4,7 +4,7 @@ title: "Old Dictionaries, Old Meanings"
 category : essay
 tags : [(low) tech writer]
 ---
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
+[![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 I use the dictionary on my laptop daily, usually to check whether I am using a word correctly. But I'm missing out when I don't use my bookshelf dictionaries. My favorites are the old Oxford dictionaries: I have several in various sizes. In 1990, I joined the Book of the Month Club for the sole purpose of getting a free copy of the two volume Compact Oxford English Dictionary, that miracle of mid 20th century publishing that shrunk 13 volumes containing all the words of the English language (at the time of the original publication, circa 1930)) down to two massive volumes. It had four of the original pages printed on each page, and it came with a magnifying glass. I often have one of these volumes on a music stand by my desk, where I can refer to it easily. The music stand is very strong.
 

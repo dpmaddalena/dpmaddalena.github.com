@@ -4,7 +4,7 @@ title: "Home-Made-Leather-Wallet"
 category : essay
 tags : [(low) tech writer]
 ---
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
+[![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 ![Wallet](/assets/ltw/walleto.jpg)
 

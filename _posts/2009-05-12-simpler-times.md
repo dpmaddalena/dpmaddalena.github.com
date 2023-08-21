@@ -5,7 +5,7 @@ category : essay
 tagline:
 tags : [(low) tech writer]
 ---
-[![low tech writer](/assets/ltw/header14.jpg)](http://lowtechwriter.com)
+[![low tech writer](/assets/ltw/header14.jpg)](http://bit.ly/lowtechwriter)
 
 I found an old copy of Thomas Kinkade's *Simpler Times* on my daughter's bookshelf, which I promptly re-claimed for collages. She didn't mind: neither of us had ever really read it. The book had been sent to me more than a decade ago when I took a writing job for Media Arts Group, the company that sells Kinkade's pictures. In fact, I poked around on thomaskinkade.com a bit and found the plein-air paintings that I had written about years ago. My words are still there, signed by the Painter of Light himself. You could read my old masterpieces of copywriting if you knew where to look. ... I'm not talking. 
  
