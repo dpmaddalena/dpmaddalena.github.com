@@ -23,7 +23,6 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
      <p><small>Haiku for every<br />
      star and grain of sand passing<br />
      between a child's hands</small></p>
-
      <p><strong>Read</strong> <a href='20220116/Echoes-of-a-Future-Truth'>selections</a> from my fiction project, <em>Echoes of a Future Truth</em></p>
       <p><a href='20220116/Echoes-of-a-Future-Truth'><img src='assets/eft.jpg'></a></p>
       <p><strong><a href="https://vsco.co/maddalena/gallery">Earthprints</a></strong>: nature breaks through</p>
