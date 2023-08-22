@@ -21,9 +21,9 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
      <p><strong>View</strong> <a href='https://www.dpmaddalena.com/20140223/collected-collages'>collected collages</a> going back 15+ years. Like your collage with more action? <a href='audio-video.html'>Video collages</a> and <a href='audio-video.html'>audio collages</a> do not sit still.</p>
          <p><strong>Read </strong><a href='poetry.html'>poetry</a>.</p>
         <hr style="width:75px" />
-     <p><small>Haiku for every<br />
+     <p><small><em>Haiku for every<br />
      star and grain of sand passing<br />
-     between a child's hands</small></p>
+     between a child's hands</em></small></p>
         <hr style="width:75px" />
      <p><strong>Read</strong> <a href='20220116/Echoes-of-a-Future-Truth'>selections</a> from my fiction project, <em>Echoes of a Future Truth</em></p>
       <p><a href='20220116/Echoes-of-a-Future-Truth'><img src='assets/eft.jpg'></a></p>
