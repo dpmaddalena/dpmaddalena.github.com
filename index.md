@@ -21,7 +21,7 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
      <p><strong>View</strong> <a href='https://www.dpmaddalena.com/20140223/collected-collages'>collected collages</a> going back 15+ years. Like your collage with more action? <a href='audio-video.html'>Video collages</a> and <a href='audio-video.html'>audio collages</a> do not sit still</p>
         <hr style="width:75px" />
          <p><strong>Read </strong><a href='poetry.html'>poetry</a></p>
-        <div align="center">...</div>
+         <p>&nbsp;</p>
      <p><small><em>Haiku for every<br />
      star and grain of sand passing<br />
      between a child's hands</em></small></p>
