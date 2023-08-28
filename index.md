@@ -16,6 +16,7 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
   <tr>
     <td width='175' valign='top'>
       <h2>f e a t u r e d</h2>
+      <a rel="me" href="https://mastodon.social/@dpmaddalena"></a>
       <p><a href='https://cottonbureau.com/people/maddalena-collage'>Collage Art on T-Shirts</a></p>
       <p><a href='https://cottonbureau.com/people/maddalena-collage'><img src='assets/cuttle-shirt.jpg'></a></p>
      <p><strong>View</strong> <a href='https://www.dpmaddalena.com/20140223/collected-collages'>collected collages</a> going back 15+ years. Like your collage with more action? <a href='audio-video.html'>Video collages</a> and <a href='audio-video.html'>audio collages</a> do not sit still</p>
