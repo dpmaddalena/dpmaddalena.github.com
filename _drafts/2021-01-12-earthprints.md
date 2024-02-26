@@ -8,7 +8,7 @@ tags: [haiku, synthesis, patterns]
 
 synthesis: the reconciliation of the ideal and the real
 
-There are beautiful, repeating patterns in nature--think whirlpools, fiddleheads, and galaxies ... think branches, river delta tributaries, amd our circulatory system. If these patterns are a kind of *thesis* in the great story of creation, one marked by a graceful and charming order, then our "civilized" response to all this--think asphalt over earth--is an *antithesis* — an offense all that goodness, a rebuke, a counter-argument.
+There are beautiful, repeating patterns in nature--think whirlpools, fiddleheads, and galaxies ... think branches, river delta tributaries, and the branching beauty of our nervous, and circulatory systems. If these patterns are a kind of *thesis* in the great story of creation, one marked by a graceful and charming order, then our "civilized" response to all this--think asphalt over earth--is an *antithesis* — an offense all that goodness; a rebuke, a counter-argument.
 
 But beauty breaks through, the patterns repeat, and reassert themselves. In the cracks you can see along streets and sidewalks, there is a synthesis at work; of a more powerful grace of redemption, even in the clash between natural and artificial.
 
