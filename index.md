@@ -30,7 +30,7 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
      <p><strong>Read</strong> <a href='20220116/Echoes-of-a-Future-Truth'>selections</a> from my fiction project, <em>Echoes of a Future Truth</em></p>
       <p><a href='20220116/Echoes-of-a-Future-Truth'><img src='assets/eft.jpg'></a></p>
       <hr style="width:75px" />
-      <p><strong><a href="https://vsco.co/maddalena/gallery">Earthprints</a></strong>: nature breaks through</p>
+      <p><strong><a href="https://pages.imby.net/earthprints/">Earthprints</a></strong>: nature breaks through</p>
       <hr style="width:75px" />
       <p><strong>Father/daughter</strong> rep-art-ee: <strong><a href="https://daveartzoe.wordpress.com/2016/01/10/visitation-response-stellular/">Dave Art Zoe</a></strong></p>
       <hr style="width:75px" />
