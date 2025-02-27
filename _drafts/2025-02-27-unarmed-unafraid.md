@@ -14,4 +14,4 @@ winter
 
 discontent
 
-![Zoe Solders a Piece](/assets/truepeace-zsolder-wb.png-wb.png)
+![Zoe Solders a Piece](/assets/truepeace-zsolder-wb.png)
