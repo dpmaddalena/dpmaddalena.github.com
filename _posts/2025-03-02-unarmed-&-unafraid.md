@@ -22,7 +22,7 @@ It's not for nothing that Holtom equated this new upside-down peace-sign with th
 
 While I have room in my philosophy for a *just war*, I choose to argue the other side of things: if we are able to choose to engage unrighteous power without weapons, we assert the need for a different kind of conversation, one that takes place under the banner of peace. *If* we can do this, we make a clear statement about the world we prefer to live in. When we choose not to live in fear or anxiety, though the world be not entirely safe, we might just find real peace, and the clarity to face troubles with a sharper mind, and a gentler spirit. 
 
-~~~
+===
 
 ![truepeace-neckwear](/assets/trupeace-neck-wb.png)  
 *The author's custom neckpiece, because you can't buy a necklace with an 'upside-down' peace sign it turns out*
