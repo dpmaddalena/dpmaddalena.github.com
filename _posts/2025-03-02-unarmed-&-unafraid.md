@@ -28,4 +28,4 @@ If we can choose to engage unrighteous power without weapons, we assert the need
 *The author's custom neckpiece, because you can't buy necklaces with 'upside-down' peace signs it turns out*
 
 ![Zoe Solders a Piece](/assets/truepeace-zsolder-wb.png)
-*Bonus: boss jeweler [Zoe Maddalena](https://raremythos.com/pages/about) welds the author's crude wire-hanger neckpiece together.*
+*Bonus: boss jeweler [Zoe Maddalena](https://raremythos.com/pages/about) offered to weld the author's crude wire-hanger neckpiece together.*
