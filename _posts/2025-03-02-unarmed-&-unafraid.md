@@ -2,13 +2,13 @@
 layout: post
 title: "Unarmed & Unafraid"
 category : essay
-tagline:
+tagline: 
 tags : [church, projects, sacrament]
 ---
 
 ![Unarmed & Unafraid](/assets/unarmedunafraid-bl-wb.png)
 
-*Really not about guns, but about anxiety, dig.* ... Gerald Holtom's original peace symbol inverted (as he wanted it to be) to signify unilateral disarmament, a revolutionary way to live in a world that loves war. 
+*Really not about guns, but about anxiety, dig.* ... Gerald Holtom's original peace symbol *inverted* (as he wanted it to be) to signify unilateral disarmament, a radical way to live in a world that loves war. 
 
 
 
