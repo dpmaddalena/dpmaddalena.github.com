@@ -20,9 +20,9 @@ The symbol's designer, Gerald Holtom, was hired to create artwork for an anti-nu
 
 It's not for nothing that Holtom equated this new upside-down peace-sign with the biblical Tree of Life whose 'leaves are for the healing of the nations' and with the cross of Christ, who himself would choose to ride to his death at the hands of those who preferred power to peace and made that trip on a scrappy donkey instead of a war horse. He faced accusers, hands open, holding no weapons to wage battle, only bearing sharp words and the will to follow his path. This unexpected, unconventional power move, considered absurd by those closest to him (who in a couple cases had their own blades hidden under their coats) would earn him the title, 'Prince of Peace'. 
 
-If we can choose to engage unrighteous power without weapons, we assert the need for a different kind of conversation, one that takes place under the banner of peace. If we can do this, we make a clear statement about the world we prefer to live in. When we choose not to live in fear or anxiety, though the world be not entirely safe, we might just find real peace, and the clarity to face troubles with a sharper mind, and a gentler spirit. 
+While I have room in my philosophy for a *just war*, I choose to argue the other side of things: if we are able to choose to engage unrighteous power without weapons, we assert the need for a different kind of conversation, one that takes place under the banner of peace. *If* we can do this, we make a clear statement about the world we prefer to live in. When we choose not to live in fear or anxiety, though the world be not entirely safe, we might just find real peace, and the clarity to face troubles with a sharper mind, and a gentler spirit. 
 
-<hr width=45% align=center>
+~~~
 
 ![truepeace-neckwear](/assets/trupeace-neck-wb.png)  
 *The author's custom neckpiece, because you can't buy a necklace with an 'upside-down' peace sign it turns out*
