@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Passion is More Than a Feeling"
+title: "Passion: More Than a Feeling"
 category : essay
 tagline: 
 tags : [church, sacrament]
