@@ -6,7 +6,7 @@ tagline:
 tags : [church, sacrament]
 ---
 
-![Christ's Passion is More Than a (Strong) Feeling](/assets/passion.png)<br />
+![Passion More Than a Feeling](/assets/passion.png)<br />
 *Illustration (for Christianity Today) by Elizabeth Kaye / Source Images: Wikimedia Commons, Unsplash*
 
 
