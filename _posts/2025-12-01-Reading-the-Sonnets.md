@@ -7,6 +7,7 @@ tags : [projects]
 ---
 
 [!(/assets/fool.png "Reading the Sonnets")]([https://readingthesonnets.substack.com)
+[![Reading the Sonnets](/assets/fool.png)](https://readingthesonnets.substack.com)
 
 <br />
 
