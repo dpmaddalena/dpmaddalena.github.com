@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unarmed & Unafraid"
-category : essay
+category: essay
 tagline: 
 tags : [church, projects, sacrament]
 ---
