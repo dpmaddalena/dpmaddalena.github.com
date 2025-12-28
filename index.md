@@ -17,7 +17,7 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
     <td width='175' valign='top'>
       <h2>f e a t u r e d</h2>
      
-     <p><strong>Announcing: </strong> <a href='20251228/echo-future-truth'>Echo Future Truth</a> my literary science fiction project, free to listen!</strong></p>
+     <p><strong>Announcing: </strong> <a href='20251228/echo-future-truth'>Echo Future Truth</a> a creation story in three parts, now available to read and listen</p>
       <p><a href='20220116/Echoes-of-a-Future-Truth'><img src='assets/eft.jpg'></a></p>
       <hr style="width:75px" />
 
