@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Echo Future Truth"
-tags : [books, projects, sci-fi]
+tags : [books, sacrament, computers, sci-fi, Echoes of a Future Truth]
 ---
 
 <img src='/assets/eft/eft-card.png' width='400'>
