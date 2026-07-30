@@ -7,7 +7,7 @@ tagline: Art, Authoring, Aha
 
 ## *Works*
 
-I am a therapist, writer, poet, pastor, and artist; regarding the latter, my medium is collage, which explains how I can
+I am a therapist, writer, poet, pastor, and artist. Regarding the latter, my medium is collage, which explains how I can
 piece all these parts together to make a life. I work with pictures, paragraphs, and people. Track [tags](https://www.dpmaddalena.com/tags.html) to drill down; or travel through time below.
 
 &nbsp;
@@ -16,7 +16,12 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
   <tr>
     <td width='175' valign='top'>
       <h2>f e a t u r e d</h2>
-      <p><a href='https://cottonbureau.com/people/maddalena-collage'>Collage Art on T-Shirts</a></p>
+     
+     <p><strong>Announcing: </strong> <a href='20251228/echo-future-truth'>Echo Future Truth</a> a creation story in three parts, now available to read and listen</p>
+      <p><a href='20220116/Echoes-of-a-Future-Truth'><img src='assets/eft.jpg'></a></p>
+      <hr style="width:75px" />
+
+       <p><a href='https://cottonbureau.com/people/maddalena-collage'>Collage Art on T-Shirts</a></p>
       <p><a href='https://cottonbureau.com/people/maddalena-collage'><img src='assets/cuttle-shirt.jpg'></a></p>
      <p><strong>View</strong> <a href='https://www.dpmaddalena.com/20140223/collected-collages'>collected collages</a> going back 15+ years. Like your collage with more action? <a href='audio-video.html'>Video collages</a> and <a href='audio-video.html'>audio collages</a> do not sit still</p>
         <hr style="width:75px" />
@@ -26,9 +31,7 @@ piece all these parts together to make a life. I work with pictures, paragraphs,
      star and grain of sand passing<br />
      between a child's hands</em></small></p>
         <hr style="width:75px" />
-     <p><strong>Read</strong> <a href='20220116/Echoes-of-a-Future-Truth'>selections</a> from my fiction project, <em>Echoes of a Future Truth</em></p>
-      <p><a href='20220116/Echoes-of-a-Future-Truth'><img src='assets/eft.jpg'></a></p>
-      <hr style="width:75px" />
+        
       <p><strong><a href="https://pages.imby.net/earthprints/">Earthprints</a></strong>: nature breaks through</p>
       <hr style="width:75px" />
       <p><strong>Father/daughter</strong> rep-art-ee: <strong><a href="https://daveartzoe.wordpress.com">Dave Art Zoe</a></strong></p>
